@@ -1,0 +1,18 @@
+{
+ "ref": "025201335640",
+ "refDisplay": "0252 01 335640",
+ "title": "COMMANDE DE VITESSE BOITE MECANIQUE",
+ "nature": "",
+ "applicability": "GAZOLE ET XUD7 ET BE1 JUSQU’A OPR 04496",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0018"
+  }
+ ]
+}

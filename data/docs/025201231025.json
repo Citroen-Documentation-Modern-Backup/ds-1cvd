@@ -1,0 +1,18 @@
+{
+ "ref": "025201231025",
+ "refDisplay": "0252 01 231025",
+ "title": "POMPE A EAU JOINT COLLECTEUR EAU",
+ "nature": "",
+ "applicability": "DIESEL XUD7 JUSQU’A OPR 05650",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

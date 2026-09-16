@@ -1,0 +1,18 @@
+{
+ "ref": "025208922638",
+ "refDisplay": "0252 08 922638",
+ "title": "SIEGES AVANT - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "VELOURS FUSAIN \"DP\" ET (E) ESPAGNE DEPUIS OPR 07819",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0220"
+  }
+ ]
+}

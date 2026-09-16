@@ -1,0 +1,18 @@
+{
+ "ref": "025207848130",
+ "refDisplay": "0252 07 848130",
+ "title": "VERROUILLAGE PORTES ARRIERE BATTANTES",
+ "nature": "",
+ "applicability": "2 PORTES AR ET VERROUILLAGE SIMPLE CONDAMNATION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0123"
+  }
+ ]
+}

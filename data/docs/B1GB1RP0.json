@@ -1,0 +1,20 @@
+{
+ "ref": "B1GB1RP0",
+ "refDisplay": "B1GB1RP0",
+ "title": "Caractéristiques : circuit de refroidissement",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "DIESEL DW8B",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

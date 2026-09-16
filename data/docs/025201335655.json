@@ -1,0 +1,18 @@
+{
+ "ref": "025201335655",
+ "refDisplay": "0252 01 335655",
+ "title": "COMMANDE DE VITESSE BOITE MECANIQUE",
+ "nature": "",
+ "applicability": "BVM BE3R ET DIESEL DW8B DEPUIS OPR 08757",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0018"
+  }
+ ]
+}

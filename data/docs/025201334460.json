@@ -1,0 +1,18 @@
+{
+ "ref": "025201334460",
+ "refDisplay": "0252 01 334460",
+ "title": "LIGNE SECONDAIRE",
+ "nature": "",
+ "applicability": "GAZOLE ET XUD7 ET BVM4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

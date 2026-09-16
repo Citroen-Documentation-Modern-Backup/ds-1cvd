@@ -1,0 +1,18 @@
+{
+ "ref": "025202533005",
+ "refDisplay": "0252 02 533005",
+ "title": "DEMARREUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 0,954L ET 1,124L ET 1,360L JUSQU’A OPR 03978",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0302"
+  }
+ ]
+}

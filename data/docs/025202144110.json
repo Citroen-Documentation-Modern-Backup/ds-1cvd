@@ -1,0 +1,18 @@
+{
+ "ref": "025202144110",
+ "refDisplay": "0252 02 144110",
+ "title": "DISPOSITIF DE DOSAGE",
+ "nature": "",
+ "applicability": "CARBURATION ET 0,954L ET 1,124L ET 1,360L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

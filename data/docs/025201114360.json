@@ -1,0 +1,18 @@
+{
+ "ref": "025201114360",
+ "refDisplay": "0252 01 114360",
+ "title": "CARTER DE DISTRIBUTION",
+ "nature": "",
+ "applicability": "DIESEL XUD7 DEPUIS OPR 06265",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0007"
+  }
+ ]
+}

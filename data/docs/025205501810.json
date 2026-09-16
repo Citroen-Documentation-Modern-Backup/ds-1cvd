@@ -1,0 +1,18 @@
+{
+ "ref": "025205501810",
+ "refDisplay": "0252 05 501810",
+ "title": "FAISCEAU PLANCHE DE BORD ET CONSOLE",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 06743",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0309"
+  }
+ ]
+}

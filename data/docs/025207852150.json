@@ -1,0 +1,28 @@
+{
+ "ref": "025207852150",
+ "refDisplay": "0252 07 852150",
+ "title": "ENJOLIVEMENT EXTERIEUR",
+ "nature": "",
+ "applicability": "ILLICO",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0132"
+  },
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0138"
+  },
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0236"
+  }
+ ]
+}

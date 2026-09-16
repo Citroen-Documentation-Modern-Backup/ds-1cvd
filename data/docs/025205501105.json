@@ -1,0 +1,18 @@
+{
+ "ref": "025205501105",
+ "refDisplay": "0252 05 501105",
+ "title": "FAISCEAU PRINCIPAL COMPARTIMENT MOTEUR",
+ "nature": "",
+ "applicability": "INJECTION MONOPOINT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

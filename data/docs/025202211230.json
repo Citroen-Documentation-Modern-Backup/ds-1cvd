@@ -1,0 +1,18 @@
+{
+ "ref": "025202211230",
+ "refDisplay": "0252 02 211230",
+ "title": "ALLUMEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L ET CARBURATEUR ET TAUX REDUIT DEPUIS OPR 04222",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

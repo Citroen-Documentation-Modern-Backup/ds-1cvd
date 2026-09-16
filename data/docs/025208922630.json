@@ -1,0 +1,18 @@
+{
+ "ref": "025208922630",
+ "refDisplay": "0252 08 922630",
+ "title": "SIEGES AVANT - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "TISSU FAISCEAU + TEP ’J7’ ET CONFORT DEPUIS OPR 05656",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0220"
+  }
+ ]
+}

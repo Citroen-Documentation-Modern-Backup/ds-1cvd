@@ -1,0 +1,18 @@
+{
+ "ref": "025203434420",
+ "refDisplay": "0252 03 434420",
+ "title": "BRAS DE SUSPENSION ARRIERE",
+ "nature": "",
+ "applicability": "ESSENCE TU DEPUIS OPR 04222",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0030"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "ref": "B1JB1HP0",
+ "refDisplay": "B1JB1HP0",
+ "title": "Caractéristiques : ligne d’échappement",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "DIESEL DW8B",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

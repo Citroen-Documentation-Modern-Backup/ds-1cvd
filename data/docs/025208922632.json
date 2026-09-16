@@ -1,0 +1,18 @@
+{
+ "ref": "025208922632",
+ "refDisplay": "0252 08 922632",
+ "title": "SIEGES AVANT - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "TISSU BONZAI \"P0\"",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0220"
+  }
+ ]
+}

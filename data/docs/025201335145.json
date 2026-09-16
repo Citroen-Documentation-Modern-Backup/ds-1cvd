@@ -1,0 +1,18 @@
+{
+ "ref": "025201335145",
+ "refDisplay": "0252 01 335145",
+ "title": "AXES ET FOURCHETTES",
+ "nature": "",
+ "applicability": "GAZOLE ET XUD7 ET BE1 JUSQU’A OPR 04557",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

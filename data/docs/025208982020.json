@@ -1,0 +1,18 @@
+{
+ "ref": "025208982020",
+ "refDisplay": "0252 08 982020",
+ "title": "GARNITURE DE PAVILLON",
+ "nature": "",
+ "applicability": "FAMILIALE ET CLUB ET RD ET TOP JUSQU’A OPR 05651",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0235"
+  }
+ ]
+}

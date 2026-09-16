@@ -1,0 +1,18 @@
+{
+ "ref": "025206173085",
+ "refDisplay": "0252 06 173085",
+ "title": "CANALISATIONS CARBURANT",
+ "nature": "",
+ "applicability": "DIESEL XUD7 DEPUIS OPR 05651",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

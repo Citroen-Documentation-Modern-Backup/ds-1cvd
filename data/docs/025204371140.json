@@ -1,0 +1,18 @@
+{
+ "ref": "025204371140",
+ "refDisplay": "0252 04 371140",
+ "title": "TRANSMISSION",
+ "nature": "",
+ "applicability": "DIESEL DW8B JUSQU’A OPR 10010 OU GAZOLE ET XUD7 JUSQU’A OPR 10010",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0022"
+  }
+ ]
+}

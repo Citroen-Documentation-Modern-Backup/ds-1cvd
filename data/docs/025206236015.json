@@ -1,0 +1,18 @@
+{
+ "ref": "025206236015",
+ "refDisplay": "0252 06 236015",
+ "title": "RACCORD D’EAU - COLLECTEUR - BOITIER",
+ "nature": "",
+ "applicability": "ESSENCE ET TU1M ET (IL) ISRAEL DEPUIS OPR 06629",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

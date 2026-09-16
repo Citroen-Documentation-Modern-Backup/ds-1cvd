@@ -1,0 +1,18 @@
+{
+ "ref": "025202532025",
+ "refDisplay": "0252 02 532025",
+ "title": "ALTERNATEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,118L ET 1,294L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0303"
+  }
+ ]
+}

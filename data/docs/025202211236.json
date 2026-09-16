@@ -1,0 +1,18 @@
+{
+ "ref": "025202211236",
+ "refDisplay": "0252 02 211236",
+ "title": "ALLUMEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,124L ET INJ MONOPOINT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

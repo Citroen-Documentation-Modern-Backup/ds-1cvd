@@ -1,0 +1,18 @@
+{
+ "ref": "025205561210",
+ "refDisplay": "0252 05 561210",
+ "title": "ESSUIE VITRE ARRIERE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0322"
+  }
+ ]
+}

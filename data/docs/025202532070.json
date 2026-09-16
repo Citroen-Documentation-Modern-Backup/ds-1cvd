@@ -1,0 +1,18 @@
+{
+ "ref": "025202532070",
+ "refDisplay": "0252 02 532070",
+ "title": "ALTERNATEUR",
+ "nature": "",
+ "applicability": "ELECTRIQUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0303"
+  }
+ ]
+}

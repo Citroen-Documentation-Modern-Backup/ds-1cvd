@@ -1,0 +1,18 @@
+{
+ "ref": "025205521320",
+ "refDisplay": "0252 05 521320",
+ "title": "DETAILS COMBINE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0213"
+  }
+ ]
+}

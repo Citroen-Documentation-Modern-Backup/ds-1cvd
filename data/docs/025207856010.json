@@ -1,0 +1,18 @@
+{
+ "ref": "025207856010",
+ "refDisplay": "0252 07 856010",
+ "title": "PLANCHE DE BORD",
+ "nature": "",
+ "applicability": " SAUF FAMILIALE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0212"
+  }
+ ]
+}

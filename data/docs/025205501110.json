@@ -1,0 +1,18 @@
+{
+ "ref": "025205501110",
+ "refDisplay": "0252 05 501110",
+ "title": "FAISCEAU PRINCIPAL COMPARTIMENT MOTEUR",
+ "nature": "",
+ "applicability": "GAZOLE JUSQU’A OPR 05988",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

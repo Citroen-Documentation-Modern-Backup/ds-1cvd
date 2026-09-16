@@ -1,0 +1,18 @@
+{
+ "ref": "025208922635B",
+ "refDisplay": "0252 08 922635B",
+ "title": "SIEGES AVANT - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "FAMILIALE ET TISSU VIBRATION \"J8\" DEPUIS OPR 05656",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0220"
+  }
+ ]
+}

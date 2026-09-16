@@ -1,0 +1,18 @@
+{
+ "ref": "025208934425B",
+ "refDisplay": "0252 08 934425B",
+ "title": "BANQUETTE ARRIERE - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "TISSU REGATE \"AN\" ET FAMILIALE ET (E) ESPAGNE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0231"
+  }
+ ]
+}

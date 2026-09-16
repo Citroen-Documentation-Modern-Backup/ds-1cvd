@@ -1,0 +1,18 @@
+{
+ "ref": "025208982820",
+ "refDisplay": "0252 08 982820",
+ "title": "PANNEAUX DE PORTE AVANT",
+ "nature": "",
+ "applicability": "LEVE VITRES MANUEL DEPUIS OPR 05652",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0135"
+  }
+ ]
+}

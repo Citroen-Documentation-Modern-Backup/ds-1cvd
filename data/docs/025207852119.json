@@ -1,0 +1,28 @@
+{
+ "ref": "025207852119",
+ "refDisplay": "0252 07 852119",
+ "title": "ENJOLIVEMENT EXTERIEUR",
+ "nature": "",
+ "applicability": "FAMILIALE ET CLUB ET (E) ESPAGNE JUSQU’A OPR 05651",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0132"
+  },
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0138"
+  },
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0236"
+  }
+ ]
+}

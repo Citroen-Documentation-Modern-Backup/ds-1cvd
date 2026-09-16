@@ -1,0 +1,18 @@
+{
+ "ref": "025202140031",
+ "refDisplay": "0252 02 140031",
+ "title": "ALIMENTATION",
+ "nature": "",
+ "applicability": "DIESEL XUD7 DEPUIS OPR 05651",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

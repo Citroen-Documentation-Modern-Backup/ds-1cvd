@@ -1,0 +1,18 @@
+{
+ "ref": "025205502532",
+ "refDisplay": "0252 05 502532",
+ "title": "FAISCEAU ARRIERE",
+ "nature": "",
+ "applicability": "ESSUIE-VITRE AR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0310"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "025201112050",
+ "refDisplay": "0252 01 112050",
+ "title": "CULASSE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,118L JUSQU’A OPR 04221",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0006"
+  }
+ ]
+}

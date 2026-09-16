@@ -1,0 +1,18 @@
+{
+ "ref": "025201334270",
+ "refDisplay": "0252 01 334270",
+ "title": "LIGNE PRIMAIRE",
+ "nature": "",
+ "applicability": "GAZOLE ET XUD7 ET BE3/5 JUSQU’A BOITE 9999999",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

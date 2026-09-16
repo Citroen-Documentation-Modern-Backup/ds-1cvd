@@ -1,0 +1,18 @@
+{
+ "ref": "025201114010",
+ "refDisplay": "0252 01 114010",
+ "title": "CARTER MOTEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 0,954L JUSQU’A OPR 04195",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0004"
+  }
+ ]
+}

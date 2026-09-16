@@ -1,0 +1,18 @@
+{
+ "ref": "025201002045",
+ "refDisplay": "0252 01 002045",
+ "title": "MOTEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,124L ET INJ MONOPOINT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0049"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "ref": "025208616210",
+ "refDisplay": "0252 08 616210",
+ "title": "CEINTURES DE SECURITE AVANT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0237"
+  },
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0952"
+  }
+ ]
+}

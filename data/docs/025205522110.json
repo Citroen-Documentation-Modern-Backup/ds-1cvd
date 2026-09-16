@@ -1,0 +1,38 @@
+{
+ "ref": "025205522110",
+ "refDisplay": "0252 05 522110",
+ "title": "BLOC DE COMMUTATION",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0034"
+  },
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0051"
+  },
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0322"
+  },
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0344"
+  },
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0350"
+  }
+ ]
+}

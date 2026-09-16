@@ -1,0 +1,18 @@
+{
+ "ref": "025208934420",
+ "refDisplay": "0252 08 934420",
+ "title": "BANQUETTE ARRIERE - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "FAMILIALE ET CLUB DEPUIS OPR 04437",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0231"
+  }
+ ]
+}

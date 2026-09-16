@@ -1,0 +1,18 @@
+{
+ "ref": "025202170075A",
+ "refDisplay": "0252 02 170075A",
+ "title": "FILTRE AIR RACCORD RESONATEUR AIR",
+ "nature": "",
+ "applicability": "DIESEL DW8B",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

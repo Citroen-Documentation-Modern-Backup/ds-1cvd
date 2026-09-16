@@ -1,0 +1,18 @@
+{
+ "ref": "025206183045",
+ "refDisplay": "0252 06 183045",
+ "title": "COLLECTEUR CATALYSEUR ECHAPP AV",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,118L ET 1,294L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

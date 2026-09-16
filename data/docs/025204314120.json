@@ -1,0 +1,18 @@
+{
+ "ref": "025204314120",
+ "refDisplay": "0252 04 314120",
+ "title": "PEDALIER - FREIN",
+ "nature": "",
+ "applicability": "ESSENCE ET 0,954L ET 1,124L ET 1,360L ET CONDUITE A DROITE DEPUIS OPR 03979",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0047"
+  }
+ ]
+}

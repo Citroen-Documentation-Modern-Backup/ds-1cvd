@@ -1,0 +1,18 @@
+{
+ "ref": "025201114050A",
+ "refDisplay": "0252 01 114050A",
+ "title": "CARTER MOTEUR",
+ "nature": "",
+ "applicability": "DIESEL DW8B",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0004"
+  }
+ ]
+}

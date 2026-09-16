@@ -1,0 +1,18 @@
+{
+ "ref": "025205520911",
+ "refDisplay": "0252 05 520911",
+ "title": "COMBINE DE BORD COMPLET",
+ "nature": "",
+ "applicability": "ELECTRIQUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0213"
+  }
+ ]
+}

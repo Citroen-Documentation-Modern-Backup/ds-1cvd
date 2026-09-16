@@ -1,0 +1,18 @@
+{
+ "ref": "025207008410",
+ "refDisplay": "0252 07 008410",
+ "title": "PAVILLON",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0143"
+  }
+ ]
+}

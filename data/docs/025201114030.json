@@ -1,0 +1,18 @@
+{
+ "ref": "025201114030",
+ "refDisplay": "0252 01 114030",
+ "title": "CARTER MOTEUR",
+ "nature": "",
+ "applicability": "DIESEL XUD7",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0004"
+  }
+ ]
+}

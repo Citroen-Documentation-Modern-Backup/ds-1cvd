@@ -1,0 +1,18 @@
+{
+ "ref": "025206175517",
+ "refDisplay": "0252 06 175517",
+ "title": "ASPIRATION VAPEURS CARBURANT",
+ "nature": "",
+ "applicability": "1,124L ET 1,360L ET INJ MONOPOINT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0012"
+  }
+ ]
+}

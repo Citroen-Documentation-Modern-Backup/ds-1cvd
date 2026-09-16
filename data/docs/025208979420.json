@@ -1,0 +1,18 @@
+{
+ "ref": "025208979420",
+ "refDisplay": "0252 08 979420",
+ "title": "TAPIS ET INSONORISATION",
+ "nature": "",
+ "applicability": "FAMILIALE JUSQU’A OPR 05655",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0234"
+  }
+ ]
+}

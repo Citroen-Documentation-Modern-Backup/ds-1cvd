@@ -1,0 +1,18 @@
+{
+ "ref": "025205501401",
+ "refDisplay": "0252 05 501401",
+ "title": "FAISCEAU ALLUMAGE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

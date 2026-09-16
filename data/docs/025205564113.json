@@ -1,0 +1,18 @@
+{
+ "ref": "025205564113",
+ "refDisplay": "0252 05 564113",
+ "title": "LAVE VITRE AVANT - ARRIERE",
+ "nature": "",
+ "applicability": "ESSENCE DEPUIS OPR 03229",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0321"
+  }
+ ]
+}

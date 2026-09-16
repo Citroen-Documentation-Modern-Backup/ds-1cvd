@@ -1,0 +1,18 @@
+{
+ "ref": "025207008050",
+ "refDisplay": "0252 07 008050",
+ "title": "CAISSE",
+ "nature": "",
+ "applicability": " DEPUIS OPR 04126",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0146"
+  }
+ ]
+}

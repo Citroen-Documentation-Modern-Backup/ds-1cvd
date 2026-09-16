@@ -1,0 +1,19 @@
+{
+ "ref": "1CVD03248259",
+ "refDisplay": "1CVD 0 324 8259",
+ "title": "PASSAGES ROUES,PLANCHER,LONGERONS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0118"
+  }
+ ]
+}

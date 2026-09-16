@@ -1,0 +1,18 @@
+{
+ "ref": "025208922634",
+ "refDisplay": "0252 08 922634",
+ "title": "SIEGES AVANT - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "HIT ET VELOURS BRINDISI \"G0\" DEPUIS OPR 07257",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0220"
+  }
+ ]
+}

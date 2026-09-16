@@ -1,0 +1,18 @@
+{
+ "ref": "025202140035",
+ "refDisplay": "0252 02 140035",
+ "title": "ALIMENTATION",
+ "nature": "",
+ "applicability": "DIESEL XUD7",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "025201332340",
+ "refDisplay": "0252 01 332340",
+ "title": "COMMANDE DE COMPTEUR",
+ "nature": "",
+ "applicability": "GAZOLE ET XUD7 OU DIESEL DW8B",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

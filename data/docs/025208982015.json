@@ -1,0 +1,18 @@
+{
+ "ref": "025208982015",
+ "refDisplay": "0252 08 982015",
+ "title": "GARNITURE DE PAVILLON",
+ "nature": "",
+ "applicability": "CUMBRE JUSQU’A OPR 06537",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0235"
+  }
+ ]
+}

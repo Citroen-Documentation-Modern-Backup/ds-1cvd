@@ -1,0 +1,18 @@
+{
+ "ref": "025208983110",
+ "refDisplay": "0252 08 983110",
+ "title": "PANNEAUX DE PORTE ARRIERE",
+ "nature": "",
+ "applicability": " DEPUIS OPR 05652",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0141"
+  }
+ ]
+}

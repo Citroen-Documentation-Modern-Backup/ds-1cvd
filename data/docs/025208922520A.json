@@ -1,0 +1,23 @@
+{
+ "ref": "025208922520A",
+ "refDisplay": "0252 08 922520A",
+ "title": "SIEGES AVANT - ARMATURE",
+ "nature": "",
+ "applicability": " DEPUIS OPR 05650",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0333"
+  }
+ ]
+}

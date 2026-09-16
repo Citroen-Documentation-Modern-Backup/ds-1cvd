@@ -1,0 +1,18 @@
+{
+ "ref": "025201002071",
+ "refDisplay": "0252 01 002071",
+ "title": "MOTEUR",
+ "nature": "",
+ "applicability": "DIESEL XUD7 ET DEPOL CEE 95 (MOTEUR)",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0049"
+  }
+ ]
+}

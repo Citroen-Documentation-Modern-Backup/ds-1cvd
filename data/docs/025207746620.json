@@ -1,0 +1,18 @@
+{
+ "ref": "025207746620",
+ "refDisplay": "0252 07 746620",
+ "title": "PANNEAUX DE COTE",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 03886",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0129"
+  }
+ ]
+}

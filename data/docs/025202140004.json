@@ -1,0 +1,18 @@
+{
+ "ref": "025202140004",
+ "refDisplay": "0252 02 140004",
+ "title": "ALIMENTATION",
+ "nature": "",
+ "applicability": "CARBURATEUR ET 1,360L ET ESSENCE ET CARTER CYLINDRE FONTE DEPUIS OPR 05233",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

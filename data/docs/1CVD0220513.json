@@ -1,0 +1,19 @@
+{
+ "ref": "1CVD0220513",
+ "refDisplay": "1CVD 0 22 0513",
+ "title": "TUBE DE RADIATEUR A BOITIER D’EAU",
+ "nature": "",
+ "applicability": "(DVU9) C15 FOURGONNETTE 3PTES DIESEL DW8B OU (D00K) C15 PICK UP DIESEL XUD7 OU (D00J) C15 FOURGONNETTE 3PTES DIESEL XUD7",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

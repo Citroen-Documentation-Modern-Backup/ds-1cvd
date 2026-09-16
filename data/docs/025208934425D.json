@@ -1,0 +1,18 @@
+{
+ "ref": "025208934425D",
+ "refDisplay": "0252 08 934425D",
+ "title": "BANQUETTE ARRIERE - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "FAMILIALE ET VELOURS BRINDISI \"G0\" ET (E) ESPAGNE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0231"
+  }
+ ]
+}

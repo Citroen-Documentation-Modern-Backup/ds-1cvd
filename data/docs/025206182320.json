@@ -1,0 +1,18 @@
+{
+ "ref": "025206182320",
+ "refDisplay": "0252 06 182320",
+ "title": "ECRAN D’ECHAPPEMENT",
+ "nature": "",
+ "applicability": "DIESEL",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

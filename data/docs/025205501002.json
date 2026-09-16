@@ -1,0 +1,18 @@
+{
+ "ref": "025205501002",
+ "refDisplay": "0252 05 501002",
+ "title": "FAISCEAU AVANT",
+ "nature": "",
+ "applicability": "ELECTRIQUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

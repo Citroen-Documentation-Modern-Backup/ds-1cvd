@@ -1,0 +1,18 @@
+{
+ "ref": "025207746910",
+ "refDisplay": "0252 07 746910",
+ "title": "PLANCHER ARRIERE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0116"
+  }
+ ]
+}

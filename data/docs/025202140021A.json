@@ -1,0 +1,18 @@
+{
+ "ref": "025202140021A",
+ "refDisplay": "0252 02 140021A",
+ "title": "ALIMENTATION",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,118L JUSQU’A OPR 04070",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

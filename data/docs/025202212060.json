@@ -1,0 +1,18 @@
+{
+ "ref": "025202212060",
+ "refDisplay": "0252 02 212060",
+ "title": "BOBINE BOUGIE FAISCEAU D’ALLUMAGE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,118L ET 1,294L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

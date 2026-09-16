@@ -1,0 +1,18 @@
+{
+ "ref": "025206235555A",
+ "refDisplay": "0252 06 235555A",
+ "title": "RADIATEUR",
+ "nature": "",
+ "applicability": "DIESEL DW8B",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

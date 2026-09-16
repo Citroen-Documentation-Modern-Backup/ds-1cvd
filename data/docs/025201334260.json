@@ -1,0 +1,18 @@
+{
+ "ref": "025201334260",
+ "refDisplay": "0252 01 334260",
+ "title": "LIGNE PRIMAIRE",
+ "nature": "",
+ "applicability": "GAZOLE ET XUD7 ET BVM4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

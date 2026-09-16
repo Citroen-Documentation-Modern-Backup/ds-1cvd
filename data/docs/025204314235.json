@@ -1,0 +1,18 @@
+{
+ "ref": "025204314235",
+ "refDisplay": "0252 04 314235",
+ "title": "PEDALIER - DEBRAYAGE",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,769L ET CONDUITE A DROITE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0016"
+  }
+ ]
+}

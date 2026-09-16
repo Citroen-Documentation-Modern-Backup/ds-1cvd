@@ -1,0 +1,18 @@
+{
+ "ref": "025201121860",
+ "refDisplay": "0252 01 121860",
+ "title": "BIELLES - PISTONS",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L ET CARTER CYLINDRE FONTE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0005"
+  }
+ ]
+}

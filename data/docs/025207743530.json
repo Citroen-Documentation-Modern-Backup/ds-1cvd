@@ -1,0 +1,18 @@
+{
+ "ref": "025207743530",
+ "refDisplay": "0252 07 743530",
+ "title": "AILE AVANT PASSAGE DE ROUE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,118L ET 1,294L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0104"
+  }
+ ]
+}

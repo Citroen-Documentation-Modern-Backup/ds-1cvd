@@ -1,0 +1,18 @@
+{
+ "ref": "025204451250",
+ "refDisplay": "0252 04 451250",
+ "title": "FREINS AVANT DISQUE ETRIER PLAQUETTES",
+ "nature": "",
+ "applicability": "GAZOLE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0040"
+  }
+ ]
+}

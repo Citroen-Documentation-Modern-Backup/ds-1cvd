@@ -1,0 +1,20 @@
+{
+ "ref": "B1DG3ZP0",
+ "refDisplay": "B1DG3ZP0",
+ "title": "Dépose - repose :  arbre à cames",
+ "nature": "Dépose-pose",
+ "applicability": "DIESEL DW8B",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0007"
+  }
+ ]
+}

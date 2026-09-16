@@ -1,0 +1,18 @@
+{
+ "ref": "025206173050",
+ "refDisplay": "0252 06 173050",
+ "title": "CANALISATIONS CARBURANT",
+ "nature": "",
+ "applicability": "1,124L ET 1,360L ET INJ MONOPOINT DEPUIS OPR 06744",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

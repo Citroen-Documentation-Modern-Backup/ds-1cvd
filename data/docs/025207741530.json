@@ -1,0 +1,18 @@
+{
+ "ref": "025207741530",
+ "refDisplay": "0252 07 741530",
+ "title": "BERCEAU AVANT",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,118L ET 1,294L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0109"
+  }
+ ]
+}

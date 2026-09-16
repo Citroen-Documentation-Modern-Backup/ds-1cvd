@@ -1,0 +1,20 @@
+{
+ "ref": "B1DT09P0",
+ "refDisplay": "B1DT09P0",
+ "title": "Évolution  : culasse",
+ "nature": "Évolutions",
+ "applicability": " DEPUIS OPR 7248",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0006"
+  }
+ ]
+}

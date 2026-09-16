@@ -1,0 +1,18 @@
+{
+ "ref": "025208934320",
+ "refDisplay": "0252 08 934320",
+ "title": "BANQUETTE ARRIERE - ARMATURE",
+ "nature": "",
+ "applicability": "FAMILIALE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0230"
+  }
+ ]
+}

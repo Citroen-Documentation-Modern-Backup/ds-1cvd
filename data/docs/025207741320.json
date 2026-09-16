@@ -1,0 +1,18 @@
+{
+ "ref": "025207741320",
+ "refDisplay": "0252 07 741320",
+ "title": "BRANCARD",
+ "nature": "",
+ "applicability": "ESSENCE ET 0,954L ET 1,124L ET 1,360L DEPUIS OPR 03979",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0110"
+  }
+ ]
+}

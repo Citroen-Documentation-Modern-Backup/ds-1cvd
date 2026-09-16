@@ -1,0 +1,18 @@
+{
+ "ref": "025202211256",
+ "refDisplay": "0252 02 211256",
+ "title": "ALLUMEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

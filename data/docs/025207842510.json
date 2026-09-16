@@ -1,0 +1,18 @@
+{
+ "ref": "025207842510",
+ "refDisplay": "0252 07 842510",
+ "title": "PORTE LATERALE AR",
+ "nature": "",
+ "applicability": "CABINE APPROFONDIE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0138"
+  }
+ ]
+}

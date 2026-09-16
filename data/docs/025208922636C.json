@@ -1,0 +1,18 @@
+{
+ "ref": "025208922636C",
+ "refDisplay": "0252 08 922636C",
+ "title": "SIEGES AVANT - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "FAMILIALE ET VELOURS ATALANTE \"G6\" ET (E) ESPAGNE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0220"
+  }
+ ]
+}

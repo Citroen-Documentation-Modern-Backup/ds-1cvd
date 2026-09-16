@@ -1,0 +1,18 @@
+{
+ "ref": "025204314135",
+ "refDisplay": "0252 04 314135",
+ "title": "PEDALIER - FREIN",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,769L ET CONDUITE A DROITE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0047"
+  }
+ ]
+}

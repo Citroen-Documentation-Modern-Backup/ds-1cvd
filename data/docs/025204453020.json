@@ -1,0 +1,18 @@
+{
+ "ref": "025204453020",
+ "refDisplay": "0252 04 453020",
+ "title": "FREINS CLASSIQUES CANALISATIONS",
+ "nature": "",
+ "applicability": "ESSENCE TU DEPUIS OPR 04222",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0042"
+  }
+ ]
+}

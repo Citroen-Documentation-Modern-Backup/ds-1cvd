@@ -1,0 +1,18 @@
+{
+ "ref": "025205501103",
+ "refDisplay": "0252 05 501103",
+ "title": "FAISCEAU PRINCIPAL COMPARTIMENT MOTEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET CARBURATEUR ET 1,124L ET 1,360L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

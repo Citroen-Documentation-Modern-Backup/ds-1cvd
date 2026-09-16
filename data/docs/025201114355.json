@@ -1,0 +1,18 @@
+{
+ "ref": "025201114355",
+ "refDisplay": "0252 01 114355",
+ "title": "CARTER DE DISTRIBUTION",
+ "nature": "",
+ "applicability": "DIESEL XUD7 JUSQU’A OPR 06264",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0007"
+  }
+ ]
+}

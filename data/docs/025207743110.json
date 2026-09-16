@@ -1,0 +1,18 @@
+{
+ "ref": "025207743110",
+ "refDisplay": "0252 07 743110",
+ "title": "PROTECTION SOUS CAISSE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0112"
+  }
+ ]
+}

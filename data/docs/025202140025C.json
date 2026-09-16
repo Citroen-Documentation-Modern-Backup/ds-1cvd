@@ -1,0 +1,18 @@
+{
+ "ref": "025202140025C",
+ "refDisplay": "0252 02 140025C",
+ "title": "ALIMENTATION",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L DEPUIS OPR 04196 JUSQU’A OPR 05200",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

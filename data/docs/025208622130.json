@@ -1,0 +1,23 @@
+{
+ "ref": "025208622130",
+ "refDisplay": "0252 08 622130",
+ "title": "SUPPORT DE ROUE DE SECOURS",
+ "nature": "",
+ "applicability": "GAZOLE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0116"
+  },
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0120"
+  }
+ ]
+}

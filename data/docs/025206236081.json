@@ -1,0 +1,18 @@
+{
+ "ref": "025206236081",
+ "refDisplay": "0252 06 236081",
+ "title": "RACCORD D’EAU - COLLECTEUR - BOITIER",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L ET CARBURATEUR ET CARTER CYLINDRE FONTE DEPUIS OPR 05233",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

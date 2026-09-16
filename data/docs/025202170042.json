@@ -1,0 +1,18 @@
+{
+ "ref": "025202170042",
+ "refDisplay": "0252 02 170042",
+ "title": "FILTRE AIR RACCORD RESONATEUR AIR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L ET INJ MONOPOINT ET CARTER CYLINDRE FONTE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

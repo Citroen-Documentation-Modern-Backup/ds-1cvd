@@ -1,0 +1,18 @@
+{
+ "ref": "025201332320",
+ "refDisplay": "0252 01 332320",
+ "title": "COMMANDE DE COMPTEUR",
+ "nature": "",
+ "applicability": "ESSENCE TU DEPUIS OPR 04222",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

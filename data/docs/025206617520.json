@@ -1,0 +1,18 @@
+{
+ "ref": "025206617520",
+ "refDisplay": "0252 06 617520",
+ "title": "PARE-CHOCS AVANT",
+ "nature": "",
+ "applicability": " DEPUIS OPR 04194",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0102"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "025208979440",
+ "refDisplay": "0252 08 979440",
+ "title": "TAPIS ET INSONORISATION",
+ "nature": "",
+ "applicability": "FAMILIALE ET CLUB DEPUIS OPR 05656",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0234"
+  }
+ ]
+}

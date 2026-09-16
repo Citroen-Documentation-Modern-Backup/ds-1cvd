@@ -1,0 +1,18 @@
+{
+ "ref": "025204456240",
+ "refDisplay": "0252 04 456240",
+ "title": "AMPLIFICATEUR DE FREINAGE",
+ "nature": "",
+ "applicability": "GAZOLE ET XUD7",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0044"
+  }
+ ]
+}

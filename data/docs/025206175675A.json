@@ -1,0 +1,18 @@
+{
+ "ref": "025206175675A",
+ "refDisplay": "0252 06 175675A",
+ "title": "DEPOLLUTION",
+ "nature": "",
+ "applicability": "DIESEL DW8B",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0012"
+  }
+ ]
+}

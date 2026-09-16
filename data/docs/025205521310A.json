@@ -1,0 +1,18 @@
+{
+ "ref": "025205521310A",
+ "refDisplay": "0252 05 521310A",
+ "title": "COMBINE DE BORD - ACCESSOIRES",
+ "nature": "",
+ "applicability": " DEPUIS OPR 07028",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0213"
+  }
+ ]
+}

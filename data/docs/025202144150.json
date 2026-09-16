@@ -1,0 +1,18 @@
+{
+ "ref": "025202144150",
+ "refDisplay": "0252 02 144150",
+ "title": "DISPOSITIF DE DOSAGE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L ET (A) AUTRICHE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

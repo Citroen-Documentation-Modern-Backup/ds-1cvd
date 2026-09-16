@@ -1,0 +1,23 @@
+{
+ "ref": "025208922530",
+ "refDisplay": "0252 08 922530",
+ "title": "SIEGES AVANT - ARMATURE",
+ "nature": "",
+ "applicability": "SIEGE ESCAMOTABLE JUSQU’A OPR 05258",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0333"
+  }
+ ]
+}

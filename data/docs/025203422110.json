@@ -1,0 +1,18 @@
+{
+ "ref": "025203422110",
+ "refDisplay": "0252 03 422110",
+ "title": "TRAVERSE ARRIERE",
+ "nature": "",
+ "applicability": "ESSENCE ET XY7 JUSQU’A OPR 03978 OU ESSENCE ET XW7 JUSQU’A OPR 03978 OU ESSENCE ET XV8 JUSQU’A OPR 03978",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0031"
+  }
+ ]
+}

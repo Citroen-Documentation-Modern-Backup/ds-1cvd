@@ -1,0 +1,18 @@
+{
+ "ref": "025206642810",
+ "refDisplay": "0252 06 642810",
+ "title": "COMMANDE DE CHAUFFAGE ET D’AERATION",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0347"
+  }
+ ]
+}

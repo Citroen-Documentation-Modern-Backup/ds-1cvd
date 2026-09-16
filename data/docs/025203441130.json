@@ -1,0 +1,18 @@
+{
+ "ref": "025203441130",
+ "refDisplay": "0252 03 441130",
+ "title": "COLONNE SUPPORT DIRECTION",
+ "nature": "",
+ "applicability": "ESSENCE TU DEPUIS OPR 05652",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0035"
+  }
+ ]
+}

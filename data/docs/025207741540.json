@@ -1,0 +1,18 @@
+{
+ "ref": "025207741540",
+ "refDisplay": "0252 07 741540",
+ "title": "BERCEAU AVANT",
+ "nature": "",
+ "applicability": "GAZOLE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0109"
+  }
+ ]
+}

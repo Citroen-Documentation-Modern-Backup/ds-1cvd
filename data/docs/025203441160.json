@@ -1,0 +1,18 @@
+{
+ "ref": "025203441160",
+ "refDisplay": "0252 03 441160",
+ "title": "COLONNE SUPPORT DIRECTION",
+ "nature": "",
+ "applicability": "GAZOLE ET XUD7 DEPUIS OPR 05652 OU DIESEL DW8B DEPUIS OPR 05652",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0035"
+  }
+ ]
+}

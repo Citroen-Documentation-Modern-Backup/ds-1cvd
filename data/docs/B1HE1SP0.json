@@ -1,0 +1,20 @@
+{
+ "ref": "B1HE1SP0",
+ "refDisplay": "B1HE1SP0",
+ "title": "Contrôle et réglage : commandes pompe d’injection DELPHI DIESEL SYSTEM",
+ "nature": "Contrôles réglages",
+ "applicability": "MONTAGE LUCAS-DIESEL ET DIESEL DW8B",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

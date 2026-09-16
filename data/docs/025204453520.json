@@ -1,0 +1,18 @@
+{
+ "ref": "025204453520",
+ "refDisplay": "0252 04 453520",
+ "title": "MAITRE CYLINDRE - RESERVOIR",
+ "nature": "",
+ "applicability": "ESSENCE ET XW7 ET XY7 ET CONDUITE A GAUCHE JUSQU’A OPR 03978",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0045"
+  }
+ ]
+}

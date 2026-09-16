@@ -1,0 +1,18 @@
+{
+ "ref": "025204456210",
+ "refDisplay": "0252 04 456210",
+ "title": "AMPLIFICATEUR DE FREINAGE",
+ "nature": "",
+ "applicability": "ESSENCE ET XV8 ET XW7 ET XY7 JUSQU’A OPR 03978",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0044"
+  }
+ ]
+}

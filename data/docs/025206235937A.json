@@ -1,0 +1,18 @@
+{
+ "ref": "025206235937A",
+ "refDisplay": "0252 06 235937A",
+ "title": "VASE D’EXPANSION",
+ "nature": "",
+ "applicability": "DIESEL DW8B",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "025201002060",
+ "refDisplay": "0252 01 002060",
+ "title": "MOTEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,294L JUSQU’A OPR 04221",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0049"
+  }
+ ]
+}

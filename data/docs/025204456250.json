@@ -1,0 +1,18 @@
+{
+ "ref": "025204456250",
+ "refDisplay": "0252 04 456250",
+ "title": "AMPLIFICATEUR DE FREINAGE",
+ "nature": "",
+ "applicability": "DIESEL DW8B",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0044"
+  }
+ ]
+}

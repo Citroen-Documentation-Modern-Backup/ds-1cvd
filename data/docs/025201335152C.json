@@ -1,0 +1,18 @@
+{
+ "ref": "025201335152C",
+ "refDisplay": "0252 01 335152C",
+ "title": "AXES ET FOURCHETTES",
+ "nature": "",
+ "applicability": "BVM BE3R DEPUIS BOITE 0000001 OU BE3 DEPUIS BOITE 8831001 JUSQU’A BOITE 9999999",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

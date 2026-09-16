@@ -1,0 +1,23 @@
+{
+ "ref": "025205614170",
+ "refDisplay": "0252 05 614170",
+ "title": "BOITIER A FUSIBLES RELAIS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0942"
+  },
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0503"
+  }
+ ]
+}

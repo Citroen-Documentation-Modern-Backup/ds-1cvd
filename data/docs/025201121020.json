@@ -1,0 +1,18 @@
+{
+ "ref": "025201121020",
+ "refDisplay": "0252 01 121020",
+ "title": "VILEBREQUIN",
+ "nature": "",
+ "applicability": "DIESEL XUD7",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0005"
+  }
+ ]
+}

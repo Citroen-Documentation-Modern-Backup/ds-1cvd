@@ -1,0 +1,18 @@
+{
+ "ref": "025205501203",
+ "refDisplay": "0252 05 501203",
+ "title": "FAISCEAU MOTEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,118L ET 1,294L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

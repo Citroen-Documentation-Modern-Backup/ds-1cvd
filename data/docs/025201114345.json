@@ -1,0 +1,18 @@
+{
+ "ref": "025201114345",
+ "refDisplay": "0252 01 114345",
+ "title": "CARTER DE DISTRIBUTION",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L ET CARTER CYLINDRE FONTE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0007"
+  }
+ ]
+}

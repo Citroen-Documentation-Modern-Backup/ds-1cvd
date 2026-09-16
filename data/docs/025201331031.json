@@ -1,0 +1,18 @@
+{
+ "ref": "025201331031",
+ "refDisplay": "0252 01 331031",
+ "title": "CARTER DE BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "GAZOLE ET XUD7 ET BE3 DEPUIS OPR 04497 JUSQU’A BOITE 8831000",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

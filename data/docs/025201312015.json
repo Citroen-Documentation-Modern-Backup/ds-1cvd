@@ -1,0 +1,18 @@
+{
+ "ref": "025201312015",
+ "refDisplay": "0252 01 312015",
+ "title": "EMBRAYAGE",
+ "nature": "",
+ "applicability": "ESSENCE TU DEPUIS OPR 04222",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0016"
+  }
+ ]
+}

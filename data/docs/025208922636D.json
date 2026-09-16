@@ -1,0 +1,18 @@
+{
+ "ref": "025208922636D",
+ "refDisplay": "0252 08 922636D",
+ "title": "SIEGES AVANT - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "FAMILIALE ET VELOURS BRINDISI \"G0\" ET (E) ESPAGNE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0220"
+  }
+ ]
+}

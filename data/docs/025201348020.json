@@ -1,0 +1,18 @@
+{
+ "ref": "025201348020",
+ "refDisplay": "0252 01 348020",
+ "title": "SUSPENSION MOTEUR ET BOITE DE VITESSES",
+ "nature": "",
+ "applicability": "ESSENCE ET 0,954L ET 1,124L ET 1,360L ET CARTER CYLINDRE ALUMINIUM DEPUIS OPR 04222",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0049"
+  }
+ ]
+}

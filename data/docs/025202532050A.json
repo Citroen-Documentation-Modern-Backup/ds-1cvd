@@ -1,0 +1,18 @@
+{
+ "ref": "025202532050A",
+ "refDisplay": "0252 02 532050A",
+ "title": "ALTERNATEUR",
+ "nature": "",
+ "applicability": "DIESEL DW8B",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0303"
+  }
+ ]
+}

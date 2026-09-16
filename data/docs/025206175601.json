@@ -1,0 +1,18 @@
+{
+ "ref": "025206175601",
+ "refDisplay": "0252 06 175601",
+ "title": "DEPOLLUTION",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L ET (A) AUTRICHE ET (CH) SUISSE ET (S) SUEDE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0012"
+  }
+ ]
+}

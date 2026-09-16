@@ -1,0 +1,18 @@
+{
+ "ref": "025207841620",
+ "refDisplay": "0252 07 841620",
+ "title": "VERROUILLAGE DE PORTE AVANT",
+ "nature": "",
+ "applicability": "VERROUILLAGE SIMPLE CONDAMNATION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0134"
+  }
+ ]
+}

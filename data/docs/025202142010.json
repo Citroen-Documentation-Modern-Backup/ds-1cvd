@@ -1,0 +1,18 @@
+{
+ "ref": "025202142010",
+ "refDisplay": "0252 02 142010",
+ "title": "COMMANDE DE VOLET DE DEPART",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

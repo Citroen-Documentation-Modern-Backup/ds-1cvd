@@ -1,0 +1,18 @@
+{
+ "ref": "025203434440",
+ "refDisplay": "0252 03 434440",
+ "title": "BRAS DE SUSPENSION ARRIERE",
+ "nature": "",
+ "applicability": "DIESEL XUD7 OU DIESEL DW8B",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0030"
+  }
+ ]
+}

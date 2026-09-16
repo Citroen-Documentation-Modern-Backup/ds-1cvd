@@ -1,0 +1,20 @@
+{
+ "ref": "B1HG6JP0",
+ "refDisplay": "B1HG6JP0",
+ "title": "Dépose - repose : pompe d’injection diesel ",
+ "nature": "Dépose-pose",
+ "applicability": "MONTAGE LUCAS-DIESEL ET DIESEL DW8B",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

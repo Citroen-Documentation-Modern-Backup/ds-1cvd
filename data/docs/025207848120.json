@@ -1,0 +1,18 @@
+{
+ "ref": "025207848120",
+ "refDisplay": "0252 07 848120",
+ "title": "VERROUILLAGE PORTES ARRIERE BATTANTES",
+ "nature": "",
+ "applicability": "2 PORTES AR ET SANS CONDAMNAT CENTRALISE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0123"
+  }
+ ]
+}

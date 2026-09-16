@@ -1,0 +1,23 @@
+{
+ "ref": "025206175070",
+ "refDisplay": "0252 06 175070",
+ "title": "RESERVOIR CARBURANT",
+ "nature": "",
+ "applicability": "ELECTRIQUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0766"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "025207848210",
+ "refDisplay": "0252 07 848210",
+ "title": "VITRES PORTES ARRIERE BATTANTES",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0139"
+  }
+ ]
+}

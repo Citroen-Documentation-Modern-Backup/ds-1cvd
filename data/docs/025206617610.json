@@ -1,0 +1,18 @@
+{
+ "ref": "025206617610",
+ "refDisplay": "0252 06 617610",
+ "title": "PARE-CHOCS ARRIERE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0115"
+  }
+ ]
+}

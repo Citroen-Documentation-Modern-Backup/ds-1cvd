@@ -1,0 +1,18 @@
+{
+ "ref": "025208982010",
+ "refDisplay": "0252 08 982010",
+ "title": "GARNITURE DE PAVILLON",
+ "nature": "",
+ "applicability": "FAMILIALE SAUF CLUB SAUF RD SAUF TOP SAUF CUMBRE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0235"
+  }
+ ]
+}

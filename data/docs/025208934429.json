@@ -1,0 +1,18 @@
+{
+ "ref": "025208934429",
+ "refDisplay": "0252 08 934429",
+ "title": "BANQUETTE ARRIERE - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "VELOURS DOGON \"PJ\" ET (E) ESPAGNE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0231"
+  }
+ ]
+}

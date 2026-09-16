@@ -1,0 +1,18 @@
+{
+ "ref": "025205564121",
+ "refDisplay": "0252 05 564121",
+ "title": "LAVE VITRE AVANT - ARRIERE",
+ "nature": "",
+ "applicability": "ELECTRIQUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0321"
+  }
+ ]
+}

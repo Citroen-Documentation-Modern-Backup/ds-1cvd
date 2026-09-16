@@ -1,0 +1,18 @@
+{
+ "ref": "025206175010",
+ "refDisplay": "0252 06 175010",
+ "title": "RESERVOIR CARBURANT JAUGE",
+ "nature": "",
+ "applicability": " SAUF INJ MONOPOINT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "025204456315",
+ "refDisplay": "0252 04 456315",
+ "title": "POMPE A VIDE",
+ "nature": "",
+ "applicability": "GAZOLE ET XUD7 DEPUIS OPR 05651 SAUF DIRECTION ASSISTEE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0044"
+  }
+ ]
+}

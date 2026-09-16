@@ -1,0 +1,18 @@
+{
+ "ref": "025202533205",
+ "refDisplay": "0252 02 533205",
+ "title": "DEMARREUR - DETAILS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0302"
+  }
+ ]
+}

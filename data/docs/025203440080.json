@@ -1,0 +1,18 @@
+{
+ "ref": "025203440080",
+ "refDisplay": "0252 03 440080",
+ "title": "POMPE D’ASSISTANCE DE DIRECTION",
+ "nature": "",
+ "applicability": "DIRECTION ASSISTEE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0339"
+  }
+ ]
+}

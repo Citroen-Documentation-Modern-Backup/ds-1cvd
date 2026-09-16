@@ -1,0 +1,18 @@
+{
+ "ref": "025201334280",
+ "refDisplay": "0252 01 334280",
+ "title": "LIGNE PRIMAIRE",
+ "nature": "",
+ "applicability": "BE3/5N2 DEPUIS BOITE 0000001",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

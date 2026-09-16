@@ -1,0 +1,18 @@
+{
+ "ref": "025207841610",
+ "refDisplay": "0252 07 841610",
+ "title": "VERROUILLAGE DE PORTE AVANT",
+ "nature": "",
+ "applicability": "SANS CONDAMNAT CENTRALISE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0134"
+  }
+ ]
+}

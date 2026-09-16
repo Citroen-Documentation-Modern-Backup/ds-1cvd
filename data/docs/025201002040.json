@@ -1,0 +1,18 @@
+{
+ "ref": "025201002040",
+ "refDisplay": "0252 01 002040",
+ "title": "MOTEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L ET CARBURATEUR ET CARTER CYLINDRE FONTE DEPUIS OPR 05232",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0049"
+  }
+ ]
+}

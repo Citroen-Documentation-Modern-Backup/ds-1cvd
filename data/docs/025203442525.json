@@ -1,0 +1,18 @@
+{
+ "ref": "025203442525",
+ "refDisplay": "0252 03 442525",
+ "title": "BIELLETTES DETAIL CREMAILLERE",
+ "nature": "",
+ "applicability": "GAZOLE ET XUD7 OU GAZOLE ET DIESEL DW8B",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0037"
+  }
+ ]
+}

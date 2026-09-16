@@ -1,0 +1,18 @@
+{
+ "ref": "025207743420",
+ "refDisplay": "0252 07 743420",
+ "title": "CALANDRE",
+ "nature": "",
+ "applicability": " DEPUIS OPR 04446 JUSQU’A OPR 05651",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0108"
+  }
+ ]
+}

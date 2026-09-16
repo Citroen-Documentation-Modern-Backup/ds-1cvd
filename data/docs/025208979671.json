@@ -1,0 +1,18 @@
+{
+ "ref": "025208979671",
+ "refDisplay": "0252 08 979671",
+ "title": "GARNITURES INTERIEURES",
+ "nature": "",
+ "applicability": "FAMILIALE DEPUIS OPR 05652 SAUF CLUB SAUF RD SAUF TOP SAUF CUMBRE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0234"
+  }
+ ]
+}

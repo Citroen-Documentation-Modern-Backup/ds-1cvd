@@ -1,0 +1,18 @@
+{
+ "ref": "025208922635A",
+ "refDisplay": "0252 08 922635A",
+ "title": "SIEGES AVANT - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "FAMILIALE ET CLUB DEPUIS OPR 04437",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0220"
+  }
+ ]
+}

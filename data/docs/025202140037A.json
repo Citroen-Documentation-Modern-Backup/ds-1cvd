@@ -1,0 +1,18 @@
+{
+ "ref": "025202140037A",
+ "refDisplay": "0252 02 140037A",
+ "title": "ALIMENTATION",
+ "nature": "",
+ "applicability": "MONTAGE LUCAS-DIESEL ET DIESEL DW8B",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

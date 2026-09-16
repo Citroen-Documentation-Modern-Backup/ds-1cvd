@@ -1,0 +1,20 @@
+{
+ "ref": "B1DG3XP0",
+ "refDisplay": "B1DG3XP0",
+ "title": "Dépose - repose : culasse sur véhicule",
+ "nature": "Dépose-pose",
+ "applicability": "DIESEL DW8B",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0006"
+  }
+ ]
+}

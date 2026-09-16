@@ -1,0 +1,18 @@
+{
+ "ref": "025201334470",
+ "refDisplay": "0252 01 334470",
+ "title": "LIGNE SECONDAIRE",
+ "nature": "",
+ "applicability": "GAZOLE ET XUD7 ET BE3/5",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

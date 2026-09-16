@@ -1,0 +1,18 @@
+{
+ "ref": "025206173021",
+ "refDisplay": "0252 06 173021",
+ "title": "CANALISATIONS CARBURANT",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,124L DEPUIS OPR 04222 JUSQU’A OPR 05257",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "025206175110",
+ "refDisplay": "0252 06 175110",
+ "title": "TUBULURE REMPLISSAGE DE CARBURANT",
+ "nature": "",
+ "applicability": "MONTAGE SANS VERROU JUSQU’A OPR 06016",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

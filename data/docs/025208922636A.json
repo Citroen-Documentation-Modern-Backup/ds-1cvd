@@ -1,0 +1,18 @@
+{
+ "ref": "025208922636A",
+ "refDisplay": "0252 08 922636A",
+ "title": "SIEGES AVANT - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "TISSU EVASION \"X3\" ET FAMILIALE ET CUMBRE ET (E) ESPAGNE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0220"
+  }
+ ]
+}

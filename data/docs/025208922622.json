@@ -1,0 +1,18 @@
+{
+ "ref": "025208922622",
+ "refDisplay": "0252 08 922622",
+ "title": "SIEGES AVANT - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "MESSAGER ET CUMBRE ET (E) ESPAGNE ET TOP JUSQU’A OPR 07236 SAUF RD",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0220"
+  }
+ ]
+}

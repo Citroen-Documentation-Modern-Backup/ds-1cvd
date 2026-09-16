@@ -1,0 +1,19 @@
+{
+ "ref": "1CVD0391720",
+ "refDisplay": "1CVD 0 39 1720",
+ "title": "ELECTROVANNE D’AVANCE",
+ "nature": "",
+ "applicability": "(DVU9) C15 FOURGONNETTE 3PTES DIESEL DW8B",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "025201223050",
+ "refDisplay": "0252 01 223050",
+ "title": "CARTER HUILE-JAUGE-CARTOUCHE-REMPLISSAGE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,118L ET 1,294L JUSQU’A OPR 04221",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0008"
+  }
+ ]
+}

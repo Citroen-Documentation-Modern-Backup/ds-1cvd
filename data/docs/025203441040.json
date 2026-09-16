@@ -1,0 +1,18 @@
+{
+ "ref": "025203441040",
+ "refDisplay": "0252 03 441040",
+ "title": "VOLANT DE DIRECTION",
+ "nature": "",
+ "applicability": "ESSENCE ET E1 ET G1",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0034"
+  }
+ ]
+}

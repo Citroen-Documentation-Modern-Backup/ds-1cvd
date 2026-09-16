@@ -1,0 +1,18 @@
+{
+ "ref": "025201330045",
+ "refDisplay": "0252 01 330045",
+ "title": "BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "DIESEL ET XUD7 ET BVM ET BE3/4 DEPUIS OPR 04497",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

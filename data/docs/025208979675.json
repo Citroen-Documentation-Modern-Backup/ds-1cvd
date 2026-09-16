@@ -1,0 +1,18 @@
+{
+ "ref": "025208979675",
+ "refDisplay": "0252 08 979675",
+ "title": "GARNITURES INTERIEURES",
+ "nature": "",
+ "applicability": " DEPUIS OPR 05285 SAUF FAMILIALE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0234"
+  }
+ ]
+}

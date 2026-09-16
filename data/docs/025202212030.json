@@ -1,0 +1,18 @@
+{
+ "ref": "025202212030",
+ "refDisplay": "0252 02 212030",
+ "title": "BOBINE BOUGIE FAISCEAU D’ALLUMAGE",
+ "nature": "",
+ "applicability": "1,360L ET ESSENCE ET CARTER CYLINDRE FONTE DEPUIS OPR 05233",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

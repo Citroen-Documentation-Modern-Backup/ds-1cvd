@@ -1,0 +1,23 @@
+{
+ "ref": "025205512710",
+ "refDisplay": "0252 05 512710",
+ "title": "BOITE DE LAMPES",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0202"
+  },
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0203"
+  }
+ ]
+}

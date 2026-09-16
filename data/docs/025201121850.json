@@ -1,0 +1,18 @@
+{
+ "ref": "025201121850",
+ "refDisplay": "0252 01 121850",
+ "title": "BIELLES - CHEMISES - PISTONS - SEGMENTS",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,124L DEPUIS OPR 04222",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0005"
+  }
+ ]
+}

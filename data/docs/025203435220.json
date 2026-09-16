@@ -1,0 +1,18 @@
+{
+ "ref": "025203435220",
+ "refDisplay": "0252 03 435220",
+ "title": "BARRE ANTI DEVERS - BIELLETTE",
+ "nature": "",
+ "applicability": "ESSENCE TU DEPUIS OPR 04222",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0029"
+  }
+ ]
+}

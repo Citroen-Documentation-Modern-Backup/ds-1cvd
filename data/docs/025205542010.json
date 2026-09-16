@@ -1,0 +1,23 @@
+{
+ "ref": "025205542010",
+ "refDisplay": "0252 05 542010",
+ "title": "FEU AVANT CLIGNOTANT AVANT",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 04445",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0203"
+  },
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0314"
+  }
+ ]
+}

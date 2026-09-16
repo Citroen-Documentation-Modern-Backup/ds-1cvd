@@ -1,0 +1,18 @@
+{
+ "ref": "025201334420",
+ "refDisplay": "0252 01 334420",
+ "title": "LIGNE SECONDAIRE",
+ "nature": "",
+ "applicability": "ESSENCE ET XW7 ET XY7 ET BVM5 4X2 JUSQU’A OPR 03978",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "025204371145A",
+ "refDisplay": "0252 04 371145A",
+ "title": "TRANSMISSION",
+ "nature": "",
+ "applicability": "DIESEL DW8B DEPUIS OPR 10011",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0022"
+  }
+ ]
+}

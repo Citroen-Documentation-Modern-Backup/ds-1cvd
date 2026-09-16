@@ -1,0 +1,18 @@
+{
+ "ref": "025208979410",
+ "refDisplay": "0252 08 979410",
+ "title": "TAPIS ET INSONORISATION",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 05455 SAUF FAMILIALE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0234"
+  }
+ ]
+}

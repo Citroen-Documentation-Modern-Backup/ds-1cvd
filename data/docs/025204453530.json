@@ -1,0 +1,18 @@
+{
+ "ref": "025204453530",
+ "refDisplay": "0252 04 453530",
+ "title": "MAITRE CYLINDRE - RESERVOIR",
+ "nature": "",
+ "applicability": "ESSENCE TU ET CONDUITE A GAUCHE DEPUIS OPR 04222",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0045"
+  }
+ ]
+}

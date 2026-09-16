@@ -1,0 +1,18 @@
+{
+ "ref": "025206175670A",
+ "refDisplay": "0252 06 175670A",
+ "title": "DEPOLLUTION",
+ "nature": "",
+ "applicability": "DIESEL XUD7",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0012"
+  }
+ ]
+}

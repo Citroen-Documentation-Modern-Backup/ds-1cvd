@@ -1,0 +1,18 @@
+{
+ "ref": "025201124325",
+ "refDisplay": "0252 01 124325",
+ "title": "SOUPAPES-CULBUTEURS-GRAINS DE REGLAGE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,124L DEPUIS OPR 04222",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0006"
+  }
+ ]
+}

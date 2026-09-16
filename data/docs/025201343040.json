@@ -1,0 +1,18 @@
+{
+ "ref": "025201343040",
+ "refDisplay": "0252 01 343040",
+ "title": "DIFFERENTIEL",
+ "nature": "",
+ "applicability": "ESSENCE ET E1 ET G1 JUSQU’A OPR 04221",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

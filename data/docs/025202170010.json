@@ -1,0 +1,18 @@
+{
+ "ref": "025202170010",
+ "refDisplay": "0252 02 170010",
+ "title": "FILTRE A AIR ET RACCORDS",
+ "nature": "",
+ "applicability": "ESSENCE ET 0,954L JUSQU’A OPR 04195",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

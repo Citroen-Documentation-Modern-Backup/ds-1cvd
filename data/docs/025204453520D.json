@@ -1,0 +1,18 @@
+{
+ "ref": "025204453520D",
+ "refDisplay": "0252 04 453520D",
+ "title": "MAITRE CYLINDRE - RESERVOIR",
+ "nature": "",
+ "applicability": "ESSENCE ET 0,954L ET 1,124L ET 1,360L ET CONDUITE A DROITE JUSQU’A OPR 04195",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0045"
+  }
+ ]
+}

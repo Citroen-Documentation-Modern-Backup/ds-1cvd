@@ -1,0 +1,18 @@
+{
+ "ref": "025201241040",
+ "refDisplay": "0252 01 241040",
+ "title": "MOTOVENTILATEUR",
+ "nature": "",
+ "applicability": "DIESEL XUD7 JUSQU’A OPR 04193",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

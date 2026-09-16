@@ -1,0 +1,18 @@
+{
+ "ref": "025204451540",
+ "refDisplay": "0252 04 451540",
+ "title": "FREIN ARRIERE TAMBOUR SEGMENTS",
+ "nature": "",
+ "applicability": "GAZOLE ET XUD7 ET DIESEL DW8B",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0041"
+  }
+ ]
+}

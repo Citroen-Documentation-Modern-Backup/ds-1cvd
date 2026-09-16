@@ -1,0 +1,18 @@
+{
+ "ref": "025206235940",
+ "refDisplay": "0252 06 235940",
+ "title": "VASE D’EXPANSION",
+ "nature": "",
+ "applicability": "ELECTRIQUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

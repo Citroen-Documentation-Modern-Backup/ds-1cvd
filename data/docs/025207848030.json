@@ -1,0 +1,18 @@
+{
+ "ref": "025207848030",
+ "refDisplay": "0252 07 848030",
+ "title": "PORTES ARRIERE BATTANTES",
+ "nature": "",
+ "applicability": "2 PORTES AR JUSQU’A OPR 03886",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0117"
+  }
+ ]
+}

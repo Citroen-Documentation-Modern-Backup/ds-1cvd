@@ -1,0 +1,18 @@
+{
+ "ref": "025206236080L",
+ "refDisplay": "0252 06 236080L",
+ "title": "RACCORD D’EAU - COLLECTEUR - BOITIER",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L DEPUIS OPR 04222 JUSQU’A OPR 05232",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

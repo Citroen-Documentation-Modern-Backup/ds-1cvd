@@ -1,0 +1,18 @@
+{
+ "ref": "025201123070",
+ "refDisplay": "0252 01 123070",
+ "title": "ARBRE A CAMES COURROIE PIGNON",
+ "nature": "",
+ "applicability": "DIESEL XUD7 JUSQU’A OPR 06264",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0007"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "025205502534",
+ "refDisplay": "0252 05 502534",
+ "title": "FAISCEAU ARRIERE",
+ "nature": "",
+ "applicability": "2 PORTES AR ET LUNETTE AR CHAUFFANTE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0310"
+  }
+ ]
+}

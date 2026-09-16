@@ -1,0 +1,18 @@
+{
+ "ref": "025201312017",
+ "refDisplay": "0252 01 312017",
+ "title": "EMBRAYAGE",
+ "nature": "",
+ "applicability": "ELECTRIQUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0016"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "025207746120",
+ "refDisplay": "0252 07 746120",
+ "title": "CLOISON DE SEPARATION",
+ "nature": "",
+ "applicability": " SAUF CABINE APPROFONDIE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0148"
+  }
+ ]
+}

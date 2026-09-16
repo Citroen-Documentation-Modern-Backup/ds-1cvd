@@ -1,0 +1,23 @@
+{
+ "ref": "025207842610",
+ "refDisplay": "0252 07 842610",
+ "title": "VITRE LEVE VITRE DE PORTE ARRIERE",
+ "nature": "",
+ "applicability": "CABINE APPROFONDIE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0329"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "ref": "C5JP01P0",
+ "refDisplay": "C5JP01P0",
+ "title": "Pose de bandeaux de protection : portes et panneaux de côtés",
+ "nature": "Pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0132"
+  },
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0138"
+  },
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0236"
+  }
+ ]
+}

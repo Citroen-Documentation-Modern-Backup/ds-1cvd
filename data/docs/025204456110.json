@@ -1,0 +1,18 @@
+{
+ "ref": "025204456110",
+ "refDisplay": "0252 04 456110",
+ "title": "COMPENSATEUR DE FREIN",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0043"
+  }
+ ]
+}

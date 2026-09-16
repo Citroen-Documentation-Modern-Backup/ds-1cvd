@@ -1,0 +1,18 @@
+{
+ "ref": "025201335150",
+ "refDisplay": "0252 01 335150",
+ "title": "AXES ET FOURCHETTES",
+ "nature": "",
+ "applicability": "GAZOLE ET XUD7 ET BVM5 4X2 DEPUIS OPR 04497 JUSQU’A BOITE 8389937",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

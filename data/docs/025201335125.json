@@ -1,0 +1,18 @@
+{
+ "ref": "025201335125",
+ "refDisplay": "0252 01 335125",
+ "title": "AXES ET FOURCHETTES",
+ "nature": "",
+ "applicability": "ESSENCE ET E1 ET BVM4 JUSQU’A OPR 04221",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

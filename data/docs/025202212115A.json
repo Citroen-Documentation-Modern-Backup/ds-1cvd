@@ -1,0 +1,18 @@
+{
+ "ref": "025202212115A",
+ "refDisplay": "0252 02 212115A",
+ "title": "BOUGIE - BOITIER PRECHAUFFAGE",
+ "nature": "",
+ "applicability": "DIESEL DW8B",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0304"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "025207848020",
+ "refDisplay": "0252 07 848020",
+ "title": "PORTES ARRIERE BATTANTES",
+ "nature": "",
+ "applicability": " DEPUIS OPR 03887",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0117"
+  }
+ ]
+}

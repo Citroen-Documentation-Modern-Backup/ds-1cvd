@@ -1,0 +1,18 @@
+{
+ "ref": "025206173070",
+ "refDisplay": "0252 06 173070",
+ "title": "CANALISATIONS CARBURANT",
+ "nature": "",
+ "applicability": "DIESEL XUD7 JUSQU’A OPR 04193",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

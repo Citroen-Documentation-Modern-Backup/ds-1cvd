@@ -1,0 +1,18 @@
+{
+ "ref": "025206175120",
+ "refDisplay": "0252 06 175120",
+ "title": "TUBULURE DE REMPLISSAGE RESERVOIR",
+ "nature": "",
+ "applicability": "MONTAGE AVEC VERROU DEPUIS OPR 06017",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

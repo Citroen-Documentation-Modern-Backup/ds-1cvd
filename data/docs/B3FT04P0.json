@@ -1,0 +1,25 @@
+{
+ "ref": "B3FT04P0",
+ "refDisplay": "B3FT04P0",
+ "title": "Évolution  : câble de frein de stationnement",
+ "nature": "Évolutions",
+ "applicability": " DEPUIS OPR 7669",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0046"
+  },
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0351"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "025202533020",
+ "refDisplay": "0252 02 533020",
+ "title": "DEMARREUR",
+ "nature": "",
+ "applicability": "DIESEL XUD7",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0302"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "025201330050",
+ "refDisplay": "0252 01 330050",
+ "title": "BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "DIESEL ET XUD7 ET BVM ET BE3/5 OU DIESEL DW8B ET BVM BE3R",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

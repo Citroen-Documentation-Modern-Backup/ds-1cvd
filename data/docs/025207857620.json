@@ -1,0 +1,18 @@
+{
+ "ref": "025207857620",
+ "refDisplay": "0252 07 857620",
+ "title": "PLANCHE DE BORD - FACADE, GARNITURE",
+ "nature": "",
+ "applicability": "FAMILIALE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0216"
+  }
+ ]
+}

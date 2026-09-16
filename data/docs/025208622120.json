@@ -1,0 +1,23 @@
+{
+ "ref": "025208622120",
+ "refDisplay": "0252 08 622120",
+ "title": "SUPPORT DE ROUE DE SECOURS",
+ "nature": "",
+ "applicability": "ESSENCE DEPUIS OPR 03979",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0116"
+  },
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0120"
+  }
+ ]
+}

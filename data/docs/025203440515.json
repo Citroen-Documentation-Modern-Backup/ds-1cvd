@@ -1,0 +1,18 @@
+{
+ "ref": "025203440515",
+ "refDisplay": "0252 03 440515",
+ "title": "CANALISATIONS D’ASSISTANCE DE DIRECTION",
+ "nature": "",
+ "applicability": "DIRECTION ASSISTEE ET DIESEL DW8B",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0339"
+  }
+ ]
+}

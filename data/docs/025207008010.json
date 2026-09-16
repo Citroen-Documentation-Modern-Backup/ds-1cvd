@@ -1,0 +1,18 @@
+{
+ "ref": "025207008010",
+ "refDisplay": "0252 07 008010",
+ "title": "CAISSE COMPLETE",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 03886",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0146"
+  }
+ ]
+}

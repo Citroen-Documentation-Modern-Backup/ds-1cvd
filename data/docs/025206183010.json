@@ -1,0 +1,18 @@
+{
+ "ref": "025206183010",
+ "refDisplay": "0252 06 183010",
+ "title": "ECHAPPEMENT AVANT",
+ "nature": "",
+ "applicability": "ESSENCE ET 0,954L ET 1,124L JUSQU’A OPR 03978",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "025206236035",
+ "refDisplay": "0252 06 236035",
+ "title": "RACCORD D’EAU - COLLECTEUR - BOITIER",
+ "nature": "",
+ "applicability": "DIESEL XUD7 DEPUIS OPR 05651 JUSQU’A OPR 06321",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

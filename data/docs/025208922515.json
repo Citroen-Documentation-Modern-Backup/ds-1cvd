@@ -1,0 +1,23 @@
+{
+ "ref": "025208922515",
+ "refDisplay": "0252 08 922515",
+ "title": "SIEGES AVANT - ARMATURE",
+ "nature": "",
+ "applicability": "FAMILIALE DEPUIS OPR 03986 JUSQU’A OPR 05649",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0333"
+  }
+ ]
+}

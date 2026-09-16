@@ -1,0 +1,18 @@
+{
+ "ref": "025208922640",
+ "refDisplay": "0252 08 922640",
+ "title": "SIEGES AVANT - MATELASSURE - COIFFE",
+ "nature": "",
+ "applicability": "SIEGE ESCAMOTABLE JUSQU’A OPR 05258",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0220"
+  }
+ ]
+}

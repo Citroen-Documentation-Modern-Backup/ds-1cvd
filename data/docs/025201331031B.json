@@ -1,0 +1,18 @@
+{
+ "ref": "025201331031B",
+ "refDisplay": "0252 01 331031B",
+ "title": "CARTER DE BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "DIESEL ET XUD7 ET BVM ET BE3 DEPUIS BOITE 8831001",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "025208982830",
+ "refDisplay": "0252 08 982830",
+ "title": "PANNEAUX DE PORTE AVANT",
+ "nature": "",
+ "applicability": "LEVE VITRE ELECTRIQUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0135"
+  }
+ ]
+}

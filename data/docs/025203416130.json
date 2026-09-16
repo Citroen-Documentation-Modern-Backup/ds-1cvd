@@ -1,0 +1,18 @@
+{
+ "ref": "025203416130",
+ "refDisplay": "0252 03 416130",
+ "title": "ROUES",
+ "nature": "",
+ "applicability": "ESSENCE ET E1 ET G1",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0023"
+  }
+ ]
+}

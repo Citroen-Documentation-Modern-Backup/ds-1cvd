@@ -1,0 +1,18 @@
+{
+ "ref": "025204314130",
+ "refDisplay": "0252 04 314130",
+ "title": "PEDALIER - FREIN",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,769L ET DIESEL DW8B ET CONDUITE A GAUCHE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0047"
+  }
+ ]
+}

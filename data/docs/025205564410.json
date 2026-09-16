@@ -1,0 +1,18 @@
+{
+ "ref": "025205564410",
+ "refDisplay": "0252 05 564410",
+ "title": "LAVE PROJECTEUR",
+ "nature": "",
+ "applicability": "(S) SUEDE ET (N) NORVEGE ET (SF) FINLANDE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0321"
+  }
+ ]
+}

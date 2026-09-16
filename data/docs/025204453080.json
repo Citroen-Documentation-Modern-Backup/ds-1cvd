@@ -1,0 +1,18 @@
+{
+ "ref": "025204453080",
+ "refDisplay": "0252 04 453080",
+ "title": "CANALISATIONS DE FREIN",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0042"
+  }
+ ]
+}

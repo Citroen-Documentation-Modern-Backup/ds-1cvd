@@ -1,0 +1,18 @@
+{
+ "ref": "025206173087",
+ "refDisplay": "0252 06 173087",
+ "title": "CANALISATIONS CARBURANT",
+ "nature": "",
+ "applicability": "ELECTRIQUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

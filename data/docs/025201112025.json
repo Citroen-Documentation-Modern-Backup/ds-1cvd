@@ -1,0 +1,18 @@
+{
+ "ref": "025201112025",
+ "refDisplay": "0252 01 112025",
+ "title": "CULASSE",
+ "nature": "",
+ "applicability": "ESSENCE ET 0,954L DEPUIS OPR 04196",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0006"
+  }
+ ]
+}

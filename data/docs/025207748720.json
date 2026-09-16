@@ -1,0 +1,18 @@
+{
+ "ref": "025207748720",
+ "refDisplay": "0252 07 748720",
+ "title": "VITRES DE PANNEAUX DE COTE",
+ "nature": "",
+ "applicability": "FOURGON VITRE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0130"
+  }
+ ]
+}

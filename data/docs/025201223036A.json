@@ -1,0 +1,18 @@
+{
+ "ref": "025201223036A",
+ "refDisplay": "0252 01 223036A",
+ "title": "CARTER HUILE-JAUGE-CARTOUCHE-REMPLISSAGE",
+ "nature": "",
+ "applicability": "DIESEL DW8B",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0008"
+  }
+ ]
+}

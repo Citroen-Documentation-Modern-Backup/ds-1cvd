@@ -1,0 +1,18 @@
+{
+ "ref": "025207841110",
+ "refDisplay": "0252 07 841110",
+ "title": "PORTES AVANT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0132"
+  }
+ ]
+}

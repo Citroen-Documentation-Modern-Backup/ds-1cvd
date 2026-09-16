@@ -1,0 +1,18 @@
+{
+ "ref": "025206642210",
+ "refDisplay": "0252 06 642210",
+ "title": "GROUPE DE CHAUFFAGE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0347"
+  }
+ ]
+}

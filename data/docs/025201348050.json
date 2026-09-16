@@ -1,0 +1,18 @@
+{
+ "ref": "025201348050",
+ "refDisplay": "0252 01 348050",
+ "title": "SUSPENSION MOTEUR ET BOITE DE VITESSES",
+ "nature": "",
+ "applicability": "DIESEL XUD7",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0049"
+  }
+ ]
+}

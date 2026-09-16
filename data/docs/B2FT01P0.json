@@ -1,0 +1,20 @@
+{
+ "ref": "B2FT01P0",
+ "refDisplay": "B2FT01P0",
+ "title": "Évolution  : soufflets de transmissions",
+ "nature": "Évolutions",
+ "applicability": " DEPUIS OPR 6724 OU  DEPUIS OPR 6724 OU  DEPUIS OPR 6724 OU  DEPUIS OPR 6750",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0022"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "ref": "1CVD02222494",
+ "refDisplay": "1CVD 0 222 2494",
+ "title": "SUPPORT BAGUES ET/OU BAGUES ET/OU ARBRE DIRECTION",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVD",
+   "variantKey": "",
+   "fctId": "FCT0035"
+  }
+ ]
+}
