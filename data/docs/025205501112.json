@@ -1,18 +1,1 @@
-{
- "ref": "025205501112",
- "refDisplay": "0252 05 501112",
- "title": "FAISCEAU AVANT PRINCIPAL",
- "nature": "",
- "applicability": "ELECTRIQUE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"025205501112","refDisplay":"0252 05 501112","title":"FAISCEAU AVANT PRINCIPAL","nature":"","applicability":"ELECTRIQUE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CVD)(%ELECTR)}","tree":["document",{},[["thesaurus",{"type":"10","code":"012562"},[]],["mpr",{"catal":"0252","grp":"513","grp2":"05","maj":"20111008","numfich":"501112"},[["appl",{},["{(?1CVD)(%ELECTR)}"]],["sti",{"ident":"NL501101"},[]],["img",{"numfich":"95011120","path":"/img/pr/20/9501/95011120.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"012562","obsnfp":"NFP","ref":"00006502FS","refpg":"6502 FS"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]]]]]]}

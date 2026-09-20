@@ -1,18 +1,1 @@
-{
- "ref": "025201223040",
- "refDisplay": "0252 01 223040",
- "title": "CARTER HUILE-JAUGE-CARTOUCHE-REMPLISSAGE",
- "nature": "",
- "applicability": "ESSENCE ET 0,954L ET 1,124L ET 1,360L JUSQU’A OPR 03978",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0008"
-  }
- ]
-}
+{"ref":"025201223040","refDisplay":"0252 01 223040","title":"CARTER HUILE-JAUGE-CARTOUCHE-REMPLISSAGE","nature":"","applicability":"ESSENCE ET 0,954L ET 1,124L ET 1,360L JUSQU’A OPR 03978","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0008"}],"kind":"pr","appl":"{(?1CVD)(DCD10)(%B0F09)(%B0F11)(%B0F136)/($,,1,03978)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000698"},[]],["thesaurus",{"type":"10","code":"006080"},[]],["thesaurus",{"type":"10","code":"004662"},[]],["mpr",{"catal":"0252","grp":"33","grp2":"01","maj":"20111008","numfich":"223040"},[["appl",{},["{(?1CVD)(DCD10)(%B0F09)(%B0F11)(%B0F136)/($,,1,03978)/}"]],["sti",{"ident":"NL223001"},[]],["img",{"numfich":"92230400","path":"/img/pr/00/9223/92230400.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000698","obsnfp":"NFP","ref":"0000119079","refpg":"1190 79"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["19X25"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000698","obsnfp":"NFP","ref":"0000119026","refpg":"1190 26"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7X14"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"006080","ref":"7903083265","refpg":"79 03 083 265"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 560 LARG 9"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004662","ref":"00006980A8","refpg":"6980 A8"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]]]]]]}

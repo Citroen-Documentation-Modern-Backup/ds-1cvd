@@ -1,18 +1,1 @@
-{
- "ref": "025205501202",
- "refDisplay": "0252 05 501202",
- "title": "FAISCEAU MOTEUR",
- "nature": "",
- "applicability": "ESSENCE ET 0,954L ET 1,124L ET 1,360L DEPUIS OPR 04222",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"025205501202","refDisplay":"0252 05 501202","title":"FAISCEAU MOTEUR","nature":"","applicability":"ESSENCE ET 0,954L ET 1,124L ET 1,360L DEPUIS OPR 04222","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CVD)(DCD10)(%B0F09)(%B0F11)(%B0F136)/($1,04222,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"003753"},[]],["thesaurus",{"type":"21","code":"L0988291"},[]],["mpr",{"catal":"0252","grp":"514","grp2":"05","maj":"20111008","numfich":"501202"},[["appl",{},["{(?1CVD)(DCD10)(%B0F09)(%B0F11)(%B0F136)/($1,04222,,)/}"]],["sti",{"ident":"NL501201"},[]],["img",{"numfich":"15012020","path":"/img/pr/20/1501/15012020.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003753","obsnfp":"NFP","ref":"95631981","refpg":"95 631 981"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($,,1,04528)/[(B0H02)]}"]],["nlcfr",{},[["livre",{},["9563198180"]]]]]]]],["pr",{"codesi":"003753","obsnfp":"NFP","ref":"96076426","refpg":"96 076 426"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($1,04529,1,05319)/[(B0H02)]}"]],["obsligne",{"ident":"L0988291"},[]],["nlcfr",{},[["livre",{},["9607642680"]]]]]]]],["pr",{"codesi":"003753","obsnfp":"NFP","ref":"96082012","refpg":"96 082 012"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(B0H02)/($,,1,05232)/}"]],["nlcfr",{},[["livre",{},["9608201280"]]]]]]]],["pr",{"codesi":"003753","obsnfp":"NFP","ref":"96138692","refpg":"96 138 692"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($1,05233,,)/}"]]]]]]]],["repere",{"rep":"51"},[["pr",{"codesi":"003753","obsnfp":"NFP","ref":"96007857","refpg":"96 007 857"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(%B0HXT)/($1,04196,,)/}"]]]]]],["pr",{"codesi":"003753","obsnfp":"NFP","ref":"96082010","refpg":"96 082 010"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(B0H04)/($1,04529,,)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(B0H44)/($1,04529,,)/}"]]]]]],["pr",{"codesi":"003753","obsnfp":"NFP","ref":"96082018","refpg":"96 082 018"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(B0H02)/($1,07411,,)/}"]],["nlcfr",{},[["livre",{},["9608201880"]]]]]]]]]]]]]]}

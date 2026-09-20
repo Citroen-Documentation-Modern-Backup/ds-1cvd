@@ -1,18 +1,1 @@
-{
- "ref": "025204314135",
- "refDisplay": "0252 04 314135",
- "title": "PEDALIER - FREIN",
- "nature": "",
- "applicability": "GAZOLE ET 1,769L ET CONDUITE A DROITE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0047"
-  }
- ]
-}
+{"ref":"025204314135","refDisplay":"0252 04 314135","title":"PEDALIER - FREIN","nature":"","applicability":"GAZOLE ET 1,769L ET CONDUITE A DROITE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0047"}],"kind":"pr","appl":"{(?1CVD)(DCD06)(%B0F17)(DCX02)}","tree":["document",{},[["thesaurus",{"type":"10","code":"005428"},[]],["thesaurus",{"type":"10","code":"000177"},[]],["thesaurus",{"type":"10","code":"001130"},[]],["thesaurus",{"type":"10","code":"004651"},[]],["thesaurus",{"type":"10","code":"006142"},[]],["mpr",{"catal":"0252","grp":"240","grp2":"04","maj":"20111008","numfich":"314135"},[["appl",{},["{(?1CVD)(DCD06)(%B0F17)(DCX02)}"]],["sti",{"ident":"NL314101"},[]],["img",{"numfich":"93141350","path":"/img/pr/50/9314/93141350.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005428","ref":"95610020","refpg":"95 610 020"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000177","ref":"0000213014","refpg":"2130 14"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"001130","ref":"95494812","refpg":"95 494 812"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"35"},[["pr",{"codesi":"004651","ref":"00006935A9","refpg":"6935 A9"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 10X100-3,3 LT"]]]]]]]],["repere",{"rep":"36"},[["pr",{"codesi":"006142","ref":"0000693651","refpg":"6936 51"},[["pmont",{"coef":"07"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-8-13"]]]]]]]]]]]]}

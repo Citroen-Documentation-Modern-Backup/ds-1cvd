@@ -1,18 +1,1 @@
-{
- "ref": "025207743610",
- "refDisplay": "0252 07 743610",
- "title": "TRAVERSE D’ASSISE",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0111"
-  }
- ]
-}
+{"ref":"025207743610","refDisplay":"0252 07 743610","title":"TRAVERSE D’ASSISE","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0111"}],"kind":"pr","appl":"{(?1CVD)}","tree":["document",{},[["thesaurus",{"type":"10","code":"002965"},[]],["thesaurus",{"type":"10","code":"004467"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"0252","grp":"311","grp2":"07","maj":"20111008","numfich":"743610"},[["appl",{},["{(?1CVD)}"]],["sti",{"ident":"NL743601"},[]],["img",{"numfich":"97436100","path":"/img/pr/00/9743/97436100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002965","ref":"5501870","refpg":"5 501 870"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AV"]]]]]],["pr",{"codesi":"002965","obsnfp":"NFP","ref":"97501125","refpg":"97 501 125"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(%B0JA5)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AV"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"004467","cote":"G","ref":"95630520","refpg":"95 630 520"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["3"]]]]]],["pr",{"codesi":"004467","cote":"D","ref":"95630519","refpg":"95 630 519"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]]]]]]}

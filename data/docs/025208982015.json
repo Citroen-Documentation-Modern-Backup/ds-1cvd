@@ -1,18 +1,1 @@
-{
- "ref": "025208982015",
- "refDisplay": "0252 08 982015",
- "title": "GARNITURE DE PAVILLON",
- "nature": "",
- "applicability": "CUMBRE JUSQU’A OPR 06537",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0235"
-  }
- ]
-}
+{"ref":"025208982015","refDisplay":"0252 08 982015","title":"GARNITURE DE PAVILLON","nature":"","applicability":"CUMBRE JUSQU’A OPR 06537","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0235"}],"kind":"pr","appl":"{(?1CVD)(%CUMBRE)/($,,1,06537)/}","tree":["document",{},[["thesaurus",{"type":"7","code":"P002-"},[]],["thesaurus",{"type":"6","code":"VQ-"},[]],["thesaurus",{"type":"10","code":"003769"},[]],["thesaurus",{"type":"10","code":"004312"},[]],["thesaurus",{"type":"10","code":"003820"},[]],["mpr",{"catal":"0252","grp":"443","grp2":"08","maj":"20111008","numfich":"982015"},[["appl",{},["{(?1CVD)(%CUMBRE)/($,,1,06537)/}"]],["sti",{"ident":"NL982001"},[]],["img",{"numfich":"99820150","path":"/img/pr/50/9982/99820150.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003769","ref":"96062153VQ","refpg":"96 062 153 VQ"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["complpr",{"couleur":"VQ-"},[]]]],["descomp",{},[["lib",{"langue":"01"},["AV"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004312","ref":"96140130VQ","refpg":"96 140 130 VQ"},[["pmont",{"coef":"08"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6,2 L 24,6"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"003820","obsnfp":"NFP","ref":"95536352VQ","refpg":"95 536 352 VQ"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["complpr",{"couleur":"VQ-","matiere":"P002-"},[]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 51 X 25,5 -19"]]]]]]]]]]]]}

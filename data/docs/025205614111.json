@@ -1,18 +1,1 @@
-{
- "ref": "025205614111",
- "refDisplay": "0252 05 614111",
- "title": "BOITIER A FUSIBLES RELAIS",
- "nature": "",
- "applicability": "ELECTRIQUE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0942"
-  }
- ]
-}
+{"ref":"025205614111","refDisplay":"0252 05 614111","title":"BOITIER A FUSIBLES RELAIS","nature":"","applicability":"ELECTRIQUE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0942"}],"kind":"pr","appl":"{(?1CVD)(%ELECTR)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003855"},[]],["thesaurus",{"type":"10","code":"003667"},[]],["thesaurus",{"type":"10","code":"003911"},[]],["thesaurus",{"type":"10","code":"012906"},[]],["thesaurus",{"type":"10","code":"003915"},[]],["mpr",{"catal":"0252","grp":"532","grp2":"05","maj":"20111008","numfich":"614111"},[["appl",{},["{(?1CVD)(%ELECTR)}"]],["sti",{"ident":"NL614101"},[]],["img",{"numfich":"96141110","path":"/img/pr/10/9614/96141110.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003855","obsnfp":"NFP","ref":"ZC9000152T","refpg":"ZC  9000 152T"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"003667","obsnfp":"NFP","ref":"96142025","refpg":"96 142 025"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"003911","obsnfp":"NFP","ref":"96136820","refpg":"96 136 820"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"012906","ref":"00006997L1","refpg":"6997 L1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7,5 A"]]]]]],["pr",{"codesi":"012906","ref":"00006997L0","refpg":"6997 L0"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["5 A"]]]]]],["pr",{"codesi":"012906","ref":"00006997L3","refpg":"6997 L3"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["15 A"]]]]]],["pr",{"codesi":"012906","ref":"00006997L4","refpg":"6997 L4"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["20 A"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"003915","ref":"95587390","refpg":"95 587 390"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]]]]]]}

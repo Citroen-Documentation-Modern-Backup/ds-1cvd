@@ -1,18 +1,1 @@
-{
- "ref": "025201331010",
- "refDisplay": "0252 01 331010",
- "title": "CARTER DE BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "ESSENCE ET XV8 ET XW7 ET XY7 JUSQU’A OPR 03978",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"025201331010","refDisplay":"0252 01 331010","title":"CARTER DE BOITE DE VITESSES MECANIQUE","nature":"","applicability":"ESSENCE ET XV8 ET XW7 ET XY7 JUSQU’A OPR 03978","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CVD)(DCD10)(%XV8)(%XW7)(%XY7)/($,,1,03978)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000195"},[]],["thesaurus",{"type":"10","code":"005611"},[]],["thesaurus",{"type":"10","code":"005705"},[]],["mpr",{"catal":"0252","grp":"69","grp2":"01","maj":"20111008","numfich":"331010"},[["appl",{},["{(?1CVD)(DCD10)(%XV8)(%XW7)(%XY7)/($,,1,03978)/}"]],["sti",{"ident":"NL331001"},[]],["img",{"numfich":"93310100","path":"/img/pr/00/9331/93310100.jpg","ext":"jpg"},[]],["repere",{"rep":"02"},[["pr",{"codesi":"000195","obsnfp":"NFP","ref":"0000225717","refpg":"2257 17"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["MAR DIAM 14X150"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"005611","ref":"0000698842","refpg":"6988 42"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["S4,3X21-1"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"005705","ref":"0000254120","refpg":"2541 20"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 15X21-3"]]]]]]]]]]]]}

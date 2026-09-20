@@ -1,18 +1,1 @@
-{
- "ref": "025202140021A",
- "refDisplay": "0252 02 140021A",
- "title": "ALIMENTATION",
- "nature": "",
- "applicability": "ESSENCE ET 1,118L JUSQU’A OPR 04070",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"025202140021A","refDisplay":"0252 02 140021A","title":"ALIMENTATION","nature":"","applicability":"ESSENCE ET 1,118L JUSQU’A OPR 04070","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CVD)(DCD10)(B0FB1)/($,,1,04070)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000140"},[]],["thesaurus",{"type":"10","code":"000407"},[]],["thesaurus",{"type":"10","code":"004651"},[]],["mpr",{"catal":"0252","grp":"34","grp2":"02","maj":"20111008","numfich":"140021A"},[["appl",{},["{(?1CVD)(DCD10)(B0FB1)/($,,1,04070)/}"]],["sti",{"ident":"NL140001"},[]],["enssup",{},[["fourn",{},["01191U"]],["refd",{},["32 BISA 9 REP 376"]]]],["img",{"numfich":"9140021a","path":"/img/pr/1a/9140/9140021a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000140","obsnfp":"NFP","ref":"00001400H6","refpg":"1400 H6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($,,1,04070)/}"]],["reffour",{},[["four",{},["18770B"]]]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000407","ref":"00001416A5","refpg":"1416 A5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($,,1,04070)/}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004651","ref":"0000693238","refpg":"6932 38"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)/($,,1,04070)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-6,5"]]]]]]]]]]]]}

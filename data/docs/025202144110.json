@@ -1,18 +1,1 @@
-{
- "ref": "025202144110",
- "refDisplay": "0252 02 144110",
- "title": "DISPOSITIF DE DOSAGE",
- "nature": "",
- "applicability": "CARBURATION ET 0,954L ET 1,124L ET 1,360L",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"025202144110","refDisplay":"0252 02 144110","title":"DISPOSITIF DE DOSAGE","nature":"","applicability":"CARBURATION ET 0,954L ET 1,124L ET 1,360L","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CVD)(%CARBU)(%B0F09)(%B0F11)(%B0F136)}","tree":["document",{},[["thesaurus",{"type":"10","code":"005308"},[]],["thesaurus",{"type":"10","code":"006247"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"010441"},[]],["thesaurus",{"type":"22","code":"P0004444"},[]],["thesaurus",{"type":"21","code":"L0984606"},[]],["mpr",{"catal":"0252","grp":"27","grp2":"02","maj":"20111008","numfich":"144110"},[["appl",{},["{(?1CVD)(%CARBU)(%B0F09)(%B0F11)(%B0F136)}"]],["sti",{"ident":"NL144101"},[]],["obspage",{"ident":"P0004444"},[]],["img",{"numfich":"91441100","path":"/img/pr/00/9144/91441100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005308","ref":"0000591875","refpg":"5918 75"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["obsligne",{"ident":"L0984606"},[]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"006247","obsnfp":"NFP","ref":"0000592014","refpg":"5920 14"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004675","ref":"0000691826","refpg":"6918 26"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($,,1,03487)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 5X80-16"]]]]]],["pr",{"codesi":"010441","ref":"00006924F4","refpg":"6924 F4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($1,03488,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["3,5X16"]]]],["prremp",{"coef":"01","palges":"P","ref":"00006924K1","refpg":"6924 K1"},[]]]]]]]]]]}

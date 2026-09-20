@@ -1,18 +1,1 @@
-{
- "ref": "025203434210",
- "refDisplay": "0252 03 434210",
- "title": "AMORTISSEUR AVANT - RESSORT",
- "nature": "",
- "applicability": "ESSENCE ET XV8 ET XW7 ET XY7 JUSQU’A OPR 03978",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0027"
-  }
- ]
-}
+{"ref":"025203434210","refDisplay":"0252 03 434210","title":"AMORTISSEUR AVANT - RESSORT","nature":"","applicability":"ESSENCE ET XV8 ET XW7 ET XY7 JUSQU’A OPR 03978","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0027"}],"kind":"pr","appl":"{(?1CVD)(DCD10)(%XV8)(%XW7)(%XY7)/($,,1,03978)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"004837"},[]],["thesaurus",{"type":"10","code":"001963"},[]],["thesaurus",{"type":"10","code":"006025"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["thesaurus",{"type":"10","code":"004654"},[]],["thesaurus",{"type":"10","code":"004651"},[]],["mpr",{"catal":"0252","grp":"152","grp2":"03","maj":"20111008","numfich":"434210"},[["appl",{},["{(?1CVD)(DCD10)(%XV8)(%XW7)(%XY7)/($,,1,03978)/}"]],["sti",{"ident":"NL434201"},[]],["img",{"numfich":"94342100","path":"/img/pr/00/9434/94342100.jpg","ext":"jpg"},[]],["repere",{"rep":"08"},[["pr",{"codesi":"004837","obsnfp":"NFP","ref":"7910028487","refpg":"79 10 028 487"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["SUP 3DIAM 7X100"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"001963","ref":"91519748","refpg":"91 519 748"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"006025","ref":"7910030766","refpg":"79 10 030 766"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["45X60X7 CC"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004667","ref":"0000694646","refpg":"6946 46"},[["pmont",{"coef":"06"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7X14-1,5"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004667","ref":"0000694619","refpg":"6946 19"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["14X29-2"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"004654","ref":"0000693961","refpg":"6939 61"},[["pmont",{"coef":"06"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7X100-8,5-11"]]]]]]]],["repere",{"rep":"33"},[["pr",{"codesi":"004651","ref":"0000503615","refpg":"5036 15"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["M14X150"]]]]]]]]]]]]}

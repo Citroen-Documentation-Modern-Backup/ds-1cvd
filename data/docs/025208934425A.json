@@ -1,18 +1,1 @@
-{
- "ref": "025208934425A",
- "refDisplay": "0252 08 934425A",
- "title": "BANQUETTE ARRIERE - MATELASSURE - COIFFE",
- "nature": "",
- "applicability": "TISSU EVASION \"X3\" ET FAMILIALE ET CUMBRE ET (E) ESPAGNE ET TOP JUSQU’A OPR 07236 SAUF RD",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0231"
-  }
- ]
-}
+{"ref":"025208934425A","refDisplay":"0252 08 934425A","title":"BANQUETTE ARRIERE - MATELASSURE - COIFFE","nature":"","applicability":"TISSU EVASION \"X3\" ET FAMILIALE ET CUMBRE ET (E) ESPAGNE ET TOP JUSQU’A OPR 07236 SAUF RD","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0231"}],"kind":"pr","appl":"{(?1CVD)(B0PX3)(%B0JA5)(%CUMBRE)(%E)(%TOP)/($,,1,07236)/[(%RD)]}","tree":["document",{},[["thesaurus",{"type":"10","code":"016982"},[]],["thesaurus",{"type":"10","code":"016983"},[]],["thesaurus",{"type":"10","code":"004380"},[]],["thesaurus",{"type":"10","code":"005637"},[]],["mpr",{"catal":"0252","grp":"437","grp2":"08","maj":"20111008","numfich":"934425A"},[["appl",{},["{(?1CVD)(B0PX3)(%B0JA5)(%CUMBRE)(%E)(%TOP)/($,,1,07236)/[(%RD)]}"]],["sti",{"ident":"NL934401"},[]],["img",{"numfich":"9934425a","path":"/img/pr/5a/9934/9934425a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"016982","ref":"96151829","refpg":"96 151 829"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"016983","ref":"96151830","refpg":"96 151 830"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"004380","obsnfp":"NFP","ref":"00008943CE","refpg":"8943 CE"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"005637","ref":"95630385","refpg":"95 630 385"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]]]]]]}

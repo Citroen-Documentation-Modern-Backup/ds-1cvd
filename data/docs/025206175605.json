@@ -1,18 +1,1 @@
-{
- "ref": "025206175605",
- "refDisplay": "0252 06 175605",
- "title": "DEPOLLUTION",
- "nature": "",
- "applicability": "1,124L ET 1,360L ET INJ MONOPOINT",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0012"
-  }
- ]
-}
+{"ref":"025206175605","refDisplay":"0252 06 175605","title":"DEPOLLUTION","nature":"","applicability":"1,124L ET 1,360L ET INJ MONOPOINT","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0012"}],"kind":"pr","appl":"{(?1CVD)(%B0F11)(%B0F136)(%DAZ07)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000627"},[]],["thesaurus",{"type":"10","code":"015515"},[]],["mpr",{"catal":"0252","grp":"54","grp2":"06","maj":"20111008","numfich":"175605"},[["appl",{},["{(?1CVD)(%B0F11)(%B0F136)(%DAZ07)}"]],["sti",{"ident":"NL175601"},[]],["img",{"numfich":"91756050","path":"/img/pr/50/9175/91756050.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000627","obsnfp":"NFP","ref":"00001628L4","refpg":"1628 L4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($,,1,05656)/}"]]]]]],["pr",{"codesi":"000627","obsnfp":"NFP","ref":"00001628T2","refpg":"1628 T2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($1,05657,1,06743)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["11W LONG 1500"]]]]]],["pr",{"codesi":"000627","obsnfp":"LE-2010","ref":"000016289W","refpg":"1628 9W"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($1,06744,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["12W LONG 400MM"]]]]]],["pr",{"codesi":"015515","ref":"E144001","refpg":"E144001","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]]]]]]}

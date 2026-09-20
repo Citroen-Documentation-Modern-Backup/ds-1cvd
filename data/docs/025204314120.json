@@ -1,18 +1,1 @@
-{
- "ref": "025204314120",
- "refDisplay": "0252 04 314120",
- "title": "PEDALIER - FREIN",
- "nature": "",
- "applicability": "ESSENCE ET 0,954L ET 1,124L ET 1,360L ET CONDUITE A DROITE DEPUIS OPR 03979",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0047"
-  }
- ]
-}
+{"ref":"025204314120","refDisplay":"0252 04 314120","title":"PEDALIER - FREIN","nature":"","applicability":"ESSENCE ET 0,954L ET 1,124L ET 1,360L ET CONDUITE A DROITE DEPUIS OPR 03979","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0047"}],"kind":"pr","appl":"{(?1CVD)(DCD10)(%B0F09)(%B0F11)(%B0F136)(DCX02)/($1,03979,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"005428"},[]],["thesaurus",{"type":"10","code":"000739"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["thesaurus",{"type":"10","code":"004654"},[]],["mpr",{"catal":"0252","grp":"240","grp2":"04","maj":"20111008","numfich":"314120"},[["appl",{},["{(?1CVD)(DCD10)(%B0F09)(%B0F11)(%B0F136)(DCX02)/($1,03979,,)/}"]],["sti",{"ident":"NL314101"},[]],["img",{"numfich":"00004529","path":"/img/pr/29/0000/00004529.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005428","obsnfp":"NFP","ref":"95640447","refpg":"95 640 447"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"165, 62, 11","shape":"circle"},[]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"000739","obsnfp":"NFP","ref":"95591608","refpg":"95 591 608"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"64, 197, 11","shape":"circle"},[]]]]]],["repere",{"rep":"33"},[["pr",{"codesi":"004667","obsnfp":"NFP","ref":"95591611","refpg":"95 591 611"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X19,5-4"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"298, 149, 11","shape":"circle"},[]],["area",{"coords":"44, 5, 11","shape":"circle"},[]]]]]],["repere",{"rep":"34"},[["pr",{"codesi":"004654","ref":"0000693586","refpg":"6935 86"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-5,5-10"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"101, 5, 11","shape":"circle"},[]],["area",{"coords":"324, 163, 11","shape":"circle"},[]]]]]]]]]]}

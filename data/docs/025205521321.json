@@ -1,18 +1,1 @@
-{
- "ref": "025205521321",
- "refDisplay": "0252 05 521321",
- "title": "COMBINE DE BORD - ACCESSOIRES",
- "nature": "",
- "applicability": "ELECTRIQUE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0213"
-  }
- ]
-}
+{"ref":"025205521321","refDisplay":"0252 05 521321","title":"COMBINE DE BORD - ACCESSOIRES","nature":"","applicability":"ELECTRIQUE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0213"}],"kind":"pr","appl":"{(?1CVD)(%ELECTR)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003149"},[]],["thesaurus",{"type":"10","code":"008919"},[]],["thesaurus",{"type":"10","code":"001868"},[]],["thesaurus",{"type":"10","code":"001924"},[]],["thesaurus",{"type":"10","code":"002042"},[]],["thesaurus",{"type":"10","code":"002375"},[]],["thesaurus",{"type":"10","code":"002176"},[]],["mpr",{"catal":"0252","grp":"417","grp2":"05","maj":"20111008","numfich":"521321"},[["appl",{},["{(?1CVD)(%ELECTR)}"]],["sti",{"ident":"NL521301"},[]],["enssup",{},[["fourn",{},["60013F"]]]],["img",{"numfich":"95213210","path":"/img/pr/10/9521/95213210.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003149","obsnfp":"NFP","ref":"00006113AJ","refpg":"6113 AJ"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"008919","obsnfp":"NFP","ref":"00006135A2","refpg":"6135 A2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001868","ref":"95554365","refpg":"95 554 365"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"001924","obsnfp":"NFP","ref":"0000611752","refpg":"6117 52"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"002042","obsnfp":"NFP","ref":"95611016","refpg":"95 611 016"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"002375","ref":"0000611234","refpg":"6112 34"},[["pmont",{"coef":"06"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"002176","ref":"0000611216","refpg":"6112 16"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["2W / 3W / 5W"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "025207741510",
- "refDisplay": "0252 07 741510",
- "title": "BERCEAU AVANT",
- "nature": "",
- "applicability": "ESSENCE JUSQU’A OPR 03978 SAUF 1,118L SAUF 1,294L",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0109"
-  }
- ]
-}
+{"ref":"025207741510","refDisplay":"0252 07 741510","title":"BERCEAU AVANT","nature":"","applicability":"ESSENCE JUSQU’A OPR 03978 SAUF 1,118L SAUF 1,294L","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0109"}],"kind":"pr","appl":"{(?1CVD)(DCD10)/($,,1,03978)/[(B0FB1)][(B0FB3)]}","tree":["document",{},[["thesaurus",{"type":"10","code":"001836"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["thesaurus",{"type":"10","code":"008588"},[]],["mpr",{"catal":"0252","grp":"313","grp2":"07","maj":"20111008","numfich":"741510"},[["appl",{},["{(?1CVD)(DCD10)/($,,1,03978)/[(B0FB1)][(B0FB3)]}"]],["sti",{"ident":"NL741501"},[]],["img",{"numfich":"97415100","path":"/img/pr/00/9741/97415100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001836","obsnfp":"NFP","ref":"96025276","refpg":"96 025 276"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(B0G04)}"]]]]]],["pr",{"codesi":"001836","obsnfp":"NFP","ref":"91509164","refpg":"91 509 164"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(B0G05)}"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004667","ref":"0000694909","refpg":"6949 09"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["10X27-3,5"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"008588","ref":"0000696211","refpg":"6962 11"},[["pmont",{"coef":"06"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["10X21,3-1"]]]]]]]]]]]]}

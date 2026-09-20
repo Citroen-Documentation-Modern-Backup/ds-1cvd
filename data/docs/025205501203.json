@@ -1,18 +1,1 @@
-{
- "ref": "025205501203",
- "refDisplay": "0252 05 501203",
- "title": "FAISCEAU MOTEUR",
- "nature": "",
- "applicability": "ESSENCE ET 1,118L ET 1,294L",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"025205501203","refDisplay":"0252 05 501203","title":"FAISCEAU MOTEUR","nature":"","applicability":"ESSENCE ET 1,118L ET 1,294L","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CVD)(DCD10)(B0FB1)(B0FB3)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003753"},[]],["mpr",{"catal":"0252","grp":"514","grp2":"05","maj":"20111008","numfich":"501203"},[["appl",{},["{(?1CVD)(DCD10)(B0FB1)(B0FB3)}"]],["sti",{"ident":"NL501201"},[]],["img",{"numfich":"15012030","path":"/img/pr/30/1501/15012030.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003753","obsnfp":"NFP","ref":"96019802","refpg":"96 019 802"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($,,1,04192)/}"]]]]]]]]]]]]}

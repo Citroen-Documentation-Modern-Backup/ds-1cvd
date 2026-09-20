@@ -1,18 +1,1 @@
-{
- "ref": "025202144160",
- "refDisplay": "0252 02 144160",
- "title": "DISPOSITIF DE DOSAGE",
- "nature": "",
- "applicability": "DIESEL XUD7",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"025202144160","refDisplay":"0252 02 144160","title":"DISPOSITIF DE DOSAGE","nature":"","applicability":"DIESEL XUD7","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CVD)(B0F5A)}","tree":["document",{},[["thesaurus",{"type":"10","code":"005308"},[]],["thesaurus",{"type":"10","code":"006247"},[]],["thesaurus",{"type":"10","code":"002280"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"010441"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["thesaurus",{"type":"22","code":"P0004445"},[]],["thesaurus",{"type":"21","code":"L0984638"},[]],["mpr",{"catal":"0252","grp":"27","grp2":"02","maj":"20111008","numfich":"144160"},[["appl",{},["{(?1CVD)(B0F5A)}"]],["sti",{"ident":"NL144101"},[]],["obspage",{"ident":"P0004445"},[]],["img",{"numfich":"91441600","path":"/img/pr/00/9144/91441600.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005308","ref":"0000591875","refpg":"5918 75"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($,,1,07023)/}"]],["obsligne",{"ident":"L0984638"},[]]]]]],["pr",{"codesi":"005308","ref":"0000591894","refpg":"5918 94"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($1,07024,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 600"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"006247","obsnfp":"NFP","ref":"0000592014","refpg":"5920 14"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($,,1,05650)/}"]]]]]],["pr",{"codesi":"002280","ref":"0000592044","refpg":"5920 44"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($1,05651,,)/}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004675","ref":"0000691826","refpg":"6918 26"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($,,1,03487)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 5X80-16"]]]]]],["pr",{"codesi":"010441","ref":"00006924F4","refpg":"6924 F4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($1,03788,1,05650)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["3,5X16"]]]],["prremp",{"coef":"01","palges":"P","ref":"00006924K1","refpg":"6924 K1"},[]]]],["pr",{"codesi":"008006","ref":"00006922A1","refpg":"6922 A1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($1,05651,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-30"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004647","ref":"0000699545","refpg":"6995 45"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8"]]]]]]]]]]]]}

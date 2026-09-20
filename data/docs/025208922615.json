@@ -1,18 +1,1 @@
-{
- "ref": "025208922615",
- "refDisplay": "0252 08 922615",
- "title": "SIEGES AVANT - MATELASSURE - COIFFE",
- "nature": "",
- "applicability": " JUSQU’A OPR 04445 SAUF FAMILIALE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0220"
-  }
- ]
-}
+{"ref":"025208922615","refDisplay":"0252 08 922615","title":"SIEGES AVANT - MATELASSURE - COIFFE","nature":"","applicability":" JUSQU’A OPR 04445 SAUF FAMILIALE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0220"}],"kind":"pr","appl":"{(?1CVD)/($,,1,04445)/[(%B0JA5)]}","tree":["document",{},[["thesaurus",{"type":"10","code":"016982"},[]],["thesaurus",{"type":"10","code":"003048"},[]],["thesaurus",{"type":"10","code":"004406"},[]],["thesaurus",{"type":"10","code":"004957"},[]],["mpr",{"catal":"0252","grp":"423","grp2":"08","maj":"20111008","numfich":"922615"},[["appl",{},["{(?1CVD)/($,,1,04445)/[(%B0JA5)]}"]],["sti",{"ident":"NL922601"},[]],["enssup",{},[["refd",{},["JERSEY PIED/POUSSIN"]]]],["img",{"numfich":"99226150","path":"/img/pr/50/9922/99226150.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"016982","ref":"96133665","refpg":"96 133 665"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"003048","obsnfp":"NFP","ref":"96145455","refpg":"96 145 455"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"004406","ref":"75528903XA","refpg":"75 528 903 XA"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["L 71"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"004957","ref":"75517438","refpg":"75 517 438"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVD)}"]]]]]]]]]]]]}

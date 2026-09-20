@@ -1,18 +1,1 @@
-{
- "ref": "025201348070",
- "refDisplay": "0252 01 348070",
- "title": "SUSPENSION MOTEUR ET BOITE DE VITESSES",
- "nature": "",
- "applicability": "ELECTRIQUE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0049"
-  }
- ]
-}
+{"ref":"025201348070","refDisplay":"0252 01 348070","title":"SUSPENSION MOTEUR ET BOITE DE VITESSES","nature":"","applicability":"ELECTRIQUE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0049"}],"kind":"pr","appl":"{(?1CVD)(%ELECTR)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000666"},[]],["thesaurus",{"type":"10","code":"000018"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"0252","grp":"5","grp2":"01","maj":"20111008","numfich":"348070"},[["appl",{},["{(?1CVD)(%ELECTR)}"]],["sti",{"ident":"NL348001"},[]],["img",{"numfich":"93480700","path":"/img/pr/00/9348/93480700.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000666","cote":"D","obsnfp":"NFP","ref":"96137808","refpg":"96 137 808"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000018","obsnfp":"NFP","ref":"96143533","refpg":"96 143 533"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"008006","ref":"00005132A7","refpg":"5132 A7"},[["pmont",{"coef":"05"},[["appl",{},["{(?1CVD)}"]]]]]]]]]]]]}

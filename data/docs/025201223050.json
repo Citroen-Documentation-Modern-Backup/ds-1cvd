@@ -1,18 +1,1 @@
-{
- "ref": "025201223050",
- "refDisplay": "0252 01 223050",
- "title": "CARTER HUILE-JAUGE-CARTOUCHE-REMPLISSAGE",
- "nature": "",
- "applicability": "ESSENCE ET 1,118L ET 1,294L JUSQU’A OPR 04221",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0008"
-  }
- ]
-}
+{"ref":"025201223050","refDisplay":"0252 01 223050","title":"CARTER HUILE-JAUGE-CARTOUCHE-REMPLISSAGE","nature":"","applicability":"ESSENCE ET 1,118L ET 1,294L JUSQU’A OPR 04221","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0008"}],"kind":"pr","appl":"{(?1CVD)(DCD10)(B0FB1)(B0FB3)/($,,1,04221)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000235"},[]],["thesaurus",{"type":"10","code":"000698"},[]],["thesaurus",{"type":"10","code":"004650"},[]],["mpr",{"catal":"0252","grp":"33","grp2":"01","maj":"20111008","numfich":"223050"},[["appl",{},["{(?1CVD)(DCD10)(B0FB1)(B0FB3)/($,,1,04221)/}"]],["sti",{"ident":"NL223001"},[]],["img",{"numfich":"92230500","path":"/img/pr/00/9223/92230500.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000235","obsnfp":"NFP","ref":"0000118027","refpg":"1180 27"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000698","obsnfp":"NFP","ref":"0000119112","refpg":"1191 12"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000698","obsnfp":"NFP","ref":"0000119113","refpg":"1191 13"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004650","ref":"00006981N3","refpg":"6981 N3"},[["pmont",{"coef":"05"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 20 A 35 LARG 9"]]]]]]]]]]]]}

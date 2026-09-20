@@ -1,18 +1,1 @@
-{
- "ref": "025205520911",
- "refDisplay": "0252 05 520911",
- "title": "COMBINE DE BORD COMPLET",
- "nature": "",
- "applicability": "ELECTRIQUE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0213"
-  }
- ]
-}
+{"ref":"025205520911","refDisplay":"0252 05 520911","title":"COMBINE DE BORD COMPLET","nature":"","applicability":"ELECTRIQUE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0213"}],"kind":"pr","appl":"{(?1CVD)(%ELECTR)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001935"},[]],["mpr",{"catal":"0252","grp":"416","grp2":"05","maj":"20111008","numfich":"520911"},[["appl",{},["{(?1CVD)(%ELECTR)}"]],["sti",{"ident":"NL520901"},[]],["img",{"numfich":"00004611","path":"/img/pr/11/0000/00004611.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001935","obsnfp":"NFP","ref":"00006100C7","refpg":"6100 C7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"301, 441, 11","shape":"circle"},[]]]]]]]]]]}

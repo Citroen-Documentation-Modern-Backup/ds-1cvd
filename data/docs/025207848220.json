@@ -1,18 +1,1 @@
-{
- "ref": "025207848220",
- "refDisplay": "0252 07 848220",
- "title": "VITRES PORTES ARRIERE BATTANTES",
- "nature": "",
- "applicability": "2 PORTES AR",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0139"
-  }
- ]
-}
+{"ref":"025207848220","refDisplay":"0252 07 848220","title":"VITRES PORTES ARRIERE BATTANTES","nature":"","applicability":"2 PORTES AR","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0139"}],"kind":"pr","appl":"{(?1CVD)(%D0PB04)}","tree":["document",{},[["thesaurus",{"type":"10","code":"006276"},[]],["thesaurus",{"type":"10","code":"004641"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"0252","grp":"338","grp2":"07","maj":"20111008","numfich":"848220"},[["appl",{},["{(?1CVD)(%D0PB04)}"]],["sti",{"ident":"NL848201"},[]],["img",{"numfich":"98482200","path":"/img/pr/00/9848/98482200.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006276","ref":"0000874553","refpg":"8745 53"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"004641","cote":"G","ref":"95630904","refpg":"95 630 904"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(DVD01)[(DVC02)]}"]]]]]],["pr",{"codesi":"004641","cote":"D","ref":"95630903","refpg":"95 630 903"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(DVD01)[(DVC02)]}"]]]]]],["pr",{"codesi":"004641","cote":"G","ref":"00008744R5","refpg":"8744 R5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(DVD02)[(DVC02)]}"]]]]]],["pr",{"codesi":"004641","cote":"D","ref":"00008744R6","refpg":"8744 R6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(DVD02)[(DVC02)]}"]]]]]],["pr",{"codesi":"004641","cote":"G","ref":"0000874498","refpg":"8744 98"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(DVC02)(DVD01)}"]]]]]],["pr",{"codesi":"004641","cote":"D","ref":"0000874499","refpg":"8744 99"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(DVC02)(DVD01)}"]]]]]],["pr",{"codesi":"004641","cote":"G","ref":"00008744A0","refpg":"8744 A0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(DVC02)(%DVD03)}"]]]]]],["pr",{"codesi":"004641","cote":"D","ref":"00008744A1","refpg":"8744 A1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(DVC02)(%DVD03)}"]]]]]]]]]]]]}

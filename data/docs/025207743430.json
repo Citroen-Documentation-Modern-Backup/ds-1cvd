@@ -1,18 +1,1 @@
-{
- "ref": "025207743430",
- "refDisplay": "0252 07 743430",
- "title": "CALANDRE",
- "nature": "",
- "applicability": " DEPUIS OPR 05652",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0108"
-  }
- ]
-}
+{"ref":"025207743430","refDisplay":"0252 07 743430","title":"CALANDRE","nature":"","applicability":" DEPUIS OPR 05652","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0108"}],"kind":"pr","appl":"{(?1CVD)/($1,05652,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"005332"},[]],["thesaurus",{"type":"10","code":"005926"},[]],["thesaurus",{"type":"10","code":"005955"},[]],["thesaurus",{"type":"10","code":"005284"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"10","code":"004658"},[]],["mpr",{"catal":"0252","grp":"309","grp2":"07","maj":"20111008","numfich":"743430"},[["appl",{},["{(?1CVD)/($1,05652,,)/}"]],["sti",{"ident":"NL743401"},[]],["img",{"numfich":"97434300","path":"/img/pr/00/9743/97434300.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005332","ref":"96129991YB","refpg":"96 129 991 YB"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"005926","obsnfp":"NFP","ref":"95582304","refpg":"95 582 304"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CHROMEE"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"005955","ref":"75519661","refpg":"75 519 661"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"005284","obsnfp":"NFP","ref":"95499019","refpg":"95 499 019"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"008006","ref":"0000692297","refpg":"6922 97"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-20"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"004658","ref":"0000694383","refpg":"6943 83"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X100-22,5-15,5"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "025201002050",
- "refDisplay": "0252 01 002050",
- "title": "MOTEUR",
- "nature": "",
- "applicability": "ESSENCE ET 1,360L ET INJ MONOPOINT ET CARTER CYLINDRE FONTE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0049"
-  }
- ]
-}
+{"ref":"025201002050","refDisplay":"0252 01 002050","title":"MOTEUR","nature":"","applicability":"ESSENCE ET 1,360L ET INJ MONOPOINT ET CARTER CYLINDRE FONTE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0049"}],"kind":"pr","appl":"{(?1CVD)(DCD10)(%B0F136)(%DAZ07)(%CARTCF)}","tree":["document",{},[["thesaurus",{"type":"10","code":"013644"},[]],["thesaurus",{"type":"10","code":"013646"},[]],["thesaurus",{"type":"22","code":"P0004390"},[]],["mpr",{"catal":"0252","grp":"4","grp2":"01","maj":"20111008","numfich":"002050"},[["appl",{},["{(?1CVD)(DCD10)(%B0F136)(%DAZ07)(%CARTCF)}"]],["sti",{"ident":"NL002001"},[]],["obspage",{"ident":"P0004390"},[]],["img",{"numfich":"90020500","path":"/img/pr/00/9002/90020500.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"013644","obsnfp":"NFP","ref":"00000135P5","refpg":"0135 P5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["reporg",{},[["monte",{},["(KDY)"]],["monte",{},[" KDY"]]]]]],["pr",{"codesi":"013646","obsnfp":"NFP","ref":"00000139CJ","refpg":"0139 CJ"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(~2)}"]]]],["reporg",{},[["monte",{},["KDY"]]]]]]]]]]]]}

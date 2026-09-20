@@ -1,18 +1,1 @@
-{
- "ref": "025206173087",
- "refDisplay": "0252 06 173087",
- "title": "CANALISATIONS CARBURANT",
- "nature": "",
- "applicability": "ELECTRIQUE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"025206173087","refDisplay":"0252 06 173087","title":"CANALISATIONS CARBURANT","nature":"","applicability":"ELECTRIQUE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CVD)(%ELECTR)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000826"},[]],["thesaurus",{"type":"10","code":"000677"},[]],["mpr",{"catal":"0252","grp":"40","grp2":"06","maj":"20111008","numfich":"173087"},[["appl",{},["{(?1CVD)(%ELECTR)}"]],["sti",{"ident":"NL173001"},[]],["img",{"numfich":"91730870","path":"/img/pr/70/9173/91730870.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000826","obsnfp":"NFP","ref":"0000646249","refpg":"6462 49"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000677","obsnfp":"NFP","ref":"00001574C6","refpg":"1574 C6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]]]]]]}

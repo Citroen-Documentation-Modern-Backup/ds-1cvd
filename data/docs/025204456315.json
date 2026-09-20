@@ -1,18 +1,1 @@
-{
- "ref": "025204456315",
- "refDisplay": "0252 04 456315",
- "title": "POMPE A VIDE",
- "nature": "",
- "applicability": "GAZOLE ET XUD7 DEPUIS OPR 05651 SAUF DIRECTION ASSISTEE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0044"
-  }
- ]
-}
+{"ref":"025204456315","refDisplay":"0252 04 456315","title":"POMPE A VIDE","nature":"","applicability":"GAZOLE ET XUD7 DEPUIS OPR 05651 SAUF DIRECTION ASSISTEE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0044"}],"kind":"pr","appl":"{(?1CVD)(DCD06)(%XUD7)/($1,05651,,)/[(DDD02)]}","tree":["document",{},[["thesaurus",{"type":"10","code":"001502"},[]],["thesaurus",{"type":"10","code":"013144"},[]],["thesaurus",{"type":"10","code":"005705"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"008588"},[]],["thesaurus",{"type":"22","code":"P0004483"},[]],["mpr",{"catal":"0252","grp":"234","grp2":"04","maj":"20111008","numfich":"456315"},[["appl",{},["{(?1CVD)(DCD06)(%XUD7)/($1,05651,,)/[(DDD02)]}"]],["sti",{"ident":"NL456301"},[]],["obspage",{"ident":"P0004483"},[]],["img",{"numfich":"94563150","path":"/img/pr/50/9456/94563150.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001502","ref":"0000456543","refpg":"4565 43"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"013144","ref":"0000455605","refpg":"4556 05"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 44X48-2"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"005705","ref":"0000455606","refpg":"4556 06"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 16X20-2"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004675","ref":"0000692183","refpg":"6921 83"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-35"]]]],["prremp",{"coef":"01","palges":"P","ref":"0000691462","refpg":"6914 62"},[]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"008588","ref":"0000696289","refpg":"6962 89"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X22-2,2"]]]]]]]]]]]]}

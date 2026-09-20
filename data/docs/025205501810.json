@@ -1,18 +1,1 @@
-{
- "ref": "025205501810",
- "refDisplay": "0252 05 501810",
- "title": "FAISCEAU PLANCHE DE BORD ET CONSOLE",
- "nature": "",
- "applicability": " JUSQU’A OPR 06743",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0309"
-  }
- ]
-}
+{"ref":"025205501810","refDisplay":"0252 05 501810","title":"FAISCEAU PLANCHE DE BORD ET CONSOLE","nature":"","applicability":" JUSQU’A OPR 06743","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0309"}],"kind":"pr","appl":"{(?1CVD)/($,,1,06743)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"003742"},[]],["thesaurus",{"type":"22","code":"P0004484"},[]],["mpr",{"catal":"0252","grp":"520","grp2":"05","maj":"20111008","numfich":"501810"},[["appl",{},["{(?1CVD)/($,,1,06743)/}"]],["sti",{"ident":"NL501801"},[]],["obspage",{"ident":"P0004484"},[]],["img",{"numfich":"95018100","path":"/img/pr/00/9501/95018100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003742","obsnfp":"NFP","ref":"00006527J4","refpg":"6527 J4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($1,03494,,)/}"]],["nlcfr",{},[["livre",{},["9623506480"]]]]]]]]]]]]]]}

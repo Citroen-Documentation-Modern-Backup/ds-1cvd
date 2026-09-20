@@ -1,18 +1,1 @@
-{
- "ref": "025206184830",
- "refDisplay": "0252 06 184830",
- "title": "ECHAPPEMENT ARRIERE",
- "nature": "",
- "applicability": "ELECTRIQUE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0011"
-  }
- ]
-}
+{"ref":"025206184830","refDisplay":"0252 06 184830","title":"ECHAPPEMENT ARRIERE","nature":"","applicability":"ELECTRIQUE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0011"}],"kind":"pr","appl":"{(?1CVD)(%ELECTR)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000330"},[]],["thesaurus",{"type":"10","code":"011541"},[]],["thesaurus",{"type":"10","code":"006691"},[]],["mpr",{"catal":"0252","grp":"50","grp2":"06","maj":"20111008","numfich":"184830"},[["appl",{},["{(?1CVD)(%ELECTR)}"]],["sti",{"ident":"NL184801"},[]],["img",{"numfich":"91848300","path":"/img/pr/00/9184/91848300.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000330","obsnfp":"NFP","ref":"0000170508","refpg":"1705 08"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"011541","obsnfp":"NFP","ref":"96150978","refpg":"96 150 978"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"006691","obsnfp":"NFP","ref":"95663067","refpg":"95 663 067"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]]]]]]}

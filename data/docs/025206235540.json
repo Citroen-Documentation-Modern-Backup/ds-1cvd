@@ -1,18 +1,1 @@
-{
- "ref": "025206235540",
- "refDisplay": "0252 06 235540",
- "title": "RADIATEUR",
- "nature": "",
- "applicability": "DIESEL XUD7 DEPUIS OPR 02884 JUSQU’A OPR 04193",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0009"
-  }
- ]
-}
+{"ref":"025206235540","refDisplay":"0252 06 235540","title":"RADIATEUR","nature":"","applicability":"DIESEL XUD7 DEPUIS OPR 02884 JUSQU’A OPR 04193","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0009"}],"kind":"pr","appl":"{(?1CVD)(B0F5A)/($1,02884,1,04193)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000714"},[]],["thesaurus",{"type":"10","code":"000713"},[]],["thesaurus",{"type":"10","code":"000075"},[]],["thesaurus",{"type":"10","code":"006127"},[]],["thesaurus",{"type":"10","code":"005955"},[]],["thesaurus",{"type":"10","code":"000055"},[]],["mpr",{"catal":"0252","grp":"21","grp2":"06","maj":"20111008","numfich":"235540"},[["appl",{},["{(?1CVD)(B0F5A)/($1,02884,1,04193)/}"]],["sti",{"ident":"NL235501"},[]],["img",{"numfich":"92355400","path":"/img/pr/00/9235/92355400.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000714","obsnfp":"NFP","ref":"95496528","refpg":"95 496 528"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["22,6 DM2"]]]]]],["pr",{"codesi":"000713","obsnfp":"NFP","ref":"00001331PY","refpg":"1331 PY"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(~2)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000075","ref":"95649432","refpg":"95 649 432"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["ENS"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"006127","obsnfp":"NFP","ref":"75513275","refpg":"75 513 275"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"005955","ref":"0000131307","refpg":"1313 07"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["10-18"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"000055","ref":"0000130641","refpg":"1306 41"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["reffour",{},[["four",{},["33350Z"]]]]]]]]]]]]]]}

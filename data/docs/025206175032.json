@@ -1,18 +1,1 @@
-{
- "ref": "025206175032",
- "refDisplay": "0252 06 175032",
- "title": "RESERVOIR CARBURANT",
- "nature": "",
- "applicability": "ELECTRIQUE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"025206175032","refDisplay":"0252 06 175032","title":"RESERVOIR CARBURANT","nature":"","applicability":"ELECTRIQUE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CVD)(%ELECTR)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000728"},[]],["mpr",{"catal":"0252","grp":"29","grp2":"06","maj":"20111008","numfich":"175032"},[["appl",{},["{(?1CVD)(%ELECTR)}"]],["sti",{"ident":"NL175001"},[]],["img",{"numfich":"91750320","path":"/img/pr/20/9175/91750320.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000728","ref":"95600056","refpg":"95 600 056"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]]]]]]}

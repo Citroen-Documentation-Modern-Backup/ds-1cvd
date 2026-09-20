@@ -1,18 +1,1 @@
-{
- "ref": "025201330040",
- "refDisplay": "0252 01 330040",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "DIESEL ET XUD7 ET BE1 JUSQU’A OPR 04496",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"025201330040","refDisplay":"0252 01 330040","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"DIESEL ET XUD7 ET BE1 JUSQU’A OPR 04496","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CVD)(%DIESEL)(%XUD7)(%BE1)/($,,1,04496)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000049"},[]],["thesaurus",{"type":"10","code":"000048"},[]],["thesaurus",{"type":"22","code":"P0004417"},[]],["mpr",{"catal":"0252","grp":"67","grp2":"01","maj":"20111008","numfich":"330040"},[["appl",{},["{(?1CVD)(%DIESEL)(%XUD7)(%BE1)/($,,1,04496)/}"]],["sti",{"ident":"NL330001"},[]],["obspage",{"ident":"P0004417"},[]],["img",{"numfich":"93300400","path":"/img/pr/00/9330/93300400.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000049","obsnfp":"NFP","ref":"9451001667","refpg":"94 51 001 667"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(%BE1R4N)(%T22X20)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP17X61"]]]],["reporg",{},[["monte",{},["BM67"]]]]]],["pr",{"codesi":"000048","obsnfp":"NFP","ref":"95643632","refpg":"95 643 632"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(%BE1R4N)(%T22X20)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP17X61"]]]],["reporg",{},[["monte",{},["(BMF7)"]],["monte",{},["BM62"]],["monte",{},["BM67"]]]]]],["pr",{"codesi":"000048","obsnfp":"NFP","ref":"95643633","refpg":"95 643 633"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(%BE1R4N)(%T19X17)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP16X61"]]]],["reporg",{},[["monte",{},["BM63"]],["monte",{},["(BMF6)"]],["monte",{},["BM61"]],["monte",{},["BM66"]]]]]],["pr",{"codesi":"000048","obsnfp":"NFP","ref":"95643635","refpg":"95 643 635"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(%BE1R5N)(%T19X17)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP16X67"]]]],["reporg",{},[["monte",{},["(BND0)"]],["monte",{},["BN40"]],["monte",{},["BN12"]]]]]]]]]]]]}

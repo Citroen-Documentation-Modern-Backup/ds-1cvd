@@ -1,18 +1,1 @@
-{
- "ref": "025205614110",
- "refDisplay": "0252 05 614110",
- "title": "BOITIER A FUSIBLES RELAIS",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0942"
-  }
- ]
-}
+{"ref":"025205614110","refDisplay":"0252 05 614110","title":"BOITIER A FUSIBLES RELAIS","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0942"}],"kind":"pr","appl":"{(?1CVD)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003855"},[]],["thesaurus",{"type":"10","code":"003626"},[]],["thesaurus",{"type":"10","code":"004032"},[]],["thesaurus",{"type":"10","code":"012906"},[]],["thesaurus",{"type":"10","code":"003866"},[]],["thesaurus",{"type":"10","code":"003911"},[]],["thesaurus",{"type":"10","code":"003915"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["thesaurus",{"type":"21","code":"L0988798"},[]],["thesaurus",{"type":"21","code":"L0988799"},[]],["mpr",{"catal":"0252","grp":"532","grp2":"05","maj":"20111008","numfich":"614110"},[["appl",{},["{(?1CVD)}"]],["sti",{"ident":"NL614101"},[]],["img",{"numfich":"96141100","path":"/img/pr/00/9614/96141100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003855","ref":"00006500P3","refpg":"6500 P3"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"003626","ref":"GX5413701A","refpg":"GX  54 137 01A"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]],["obsligne",{"ident":"L0988798"},[]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"004032","obsnfp":"NFP","ref":"95493639","refpg":"95 493 639"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVD)}"]],["reffour",{},[["four",{},["90777V02"]]]]]],["descomp",{},[["lib",{"langue":"01"},["16A"]]]]]],["pr",{"codesi":"004032","obsnfp":"NFP","ref":"95493196","refpg":"95 493 196"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVD)}"]],["reffour",{},[["four",{},["90777V02"]]]]]],["descomp",{},[["lib",{"langue":"01"},["10A"]]]]]],["pr",{"codesi":"004032","obsnfp":"NFP","ref":"95606511","refpg":"95 606 511"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVD)}"]],["reffour",{},[["four",{},["18833V"]]]]]],["descomp",{},[["lib",{"langue":"01"},["20A"]]]]]],["pr",{"codesi":"004032","ref":"00006500J9","refpg":"6500 J9"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["30A"]]]]]],["pr",{"codesi":"012906","ref":"00006997L6","refpg":"6997 L6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["obsligne",{"ident":"L0988799"},[]]]],["descomp",{},[["lib",{"langue":"01"},["30 A"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"003866","obsnfp":"NFP","ref":"75449663","refpg":"75 449 663"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"003911","ref":"00006556R0","refpg":"6556 R0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(B0F7H)/($1,08785,,)/}"]],["nlcfr",{},[["livre",{},["9640376280"]]]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"003915","obsnfp":"NFP","ref":"5446722","refpg":"5 446 722"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(DCD06)}"]]]]]],["pr",{"codesi":"003915","ref":"95587390","refpg":"95 587 390"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(DCD10)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004647","ref":"5445849","refpg":"5 445 849"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["D=4,5 L=16,5"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "025201330045",
- "refDisplay": "0252 01 330045",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "DIESEL ET XUD7 ET BVM ET BE3/4 DEPUIS OPR 04497",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"025201330045","refDisplay":"0252 01 330045","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"DIESEL ET XUD7 ET BVM ET BE3/4 DEPUIS OPR 04497","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CVD)(%DIESEL)(%XUD7)(@BVM)(%BE3R4)/($1,04497,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000048"},[]],["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"10","code":"009391"},[]],["thesaurus",{"type":"22","code":"P0004418"},[]],["mpr",{"catal":"0252","grp":"67","grp2":"01","maj":"20111008","numfich":"330045"},[["appl",{},["{(?1CVD)(%DIESEL)(%XUD7)(@BVM)(%BE3R4)/($1,04497,,)/}"]],["sti",{"ident":"NL330001"},[]],["obspage",{"ident":"P0004418"},[]],["img",{"numfich":"93300450","path":"/img/pr/50/9330/93300450.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000048","obsnfp":"NFP","ref":"00002201KC","refpg":"2201 KC"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($,,1,06474)/(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP16X61"]]]],["reporg",{},[["monte",{},["CG04"]],["monte",{},["CG08"]],["monte",{},["(CGA3)"]],["monte",{},["CG13"]]]]]],["pr",{"codesi":"009390","obsnfp":"NFP","ref":"00002200YN","refpg":"2200 YN"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 19X72"]]]],["reporg",{},[["monte",{},["(CG14)"]],["monte",{},["CG14"]]]]]],["pr",{"codesi":"009391","obsnfp":"NFP","ref":"00002201LY","refpg":"2201 LY"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 19X72"]]]],["reporg",{},[["monte",{},["(CGA4)"]],["monte",{},["CG14"]]]]]]]]]]]]}

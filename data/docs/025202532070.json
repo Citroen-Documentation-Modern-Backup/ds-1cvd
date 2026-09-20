@@ -1,18 +1,1 @@
-{
- "ref": "025202532070",
- "refDisplay": "0252 02 532070",
- "title": "ALTERNATEUR",
- "nature": "",
- "applicability": "ELECTRIQUE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0303"
-  }
- ]
-}
+{"ref":"025202532070","refDisplay":"0252 02 532070","title":"ALTERNATEUR","nature":"","applicability":"ELECTRIQUE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0303"}],"kind":"pr","appl":"{(?1CVD)(%ELECTR)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001783"},[]],["thesaurus",{"type":"10","code":"002058"},[]],["thesaurus",{"type":"10","code":"001965"},[]],["thesaurus",{"type":"10","code":"009440"},[]],["mpr",{"catal":"0252","grp":"496","grp2":"02","maj":"20111008","numfich":"532070"},[["appl",{},["{(?1CVD)(%ELECTR)}"]],["sti",{"ident":"NL532001"},[]],["img",{"numfich":"95320700","path":"/img/pr/00/9532/95320700.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001783","ref":"0000570589","refpg":"5705 89"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["nlcfr",{},[["livre",{},["9563202480"]]]],["reffour",{},[["four",{},["72043G"]],["refa",{},["A13N129"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["nlcfr",{},[["livre",{},["9563202480"]]]],["reffour",{},[["four",{},["72043G"]],["refa",{},["A 13 N 215"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["nlcfr",{},[["livre",{},["9563202480"]]]],["reffour",{},[["four",{},["72043G"]],["refa",{},["A13N175"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["nlcfr",{},[["livre",{},["9563202480"]]]],["reffour",{},[["four",{},["22969R"]],["refa",{},["0 120 489 467"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["nlcfr",{},[["livre",{},["9563202480"]]]],["reffour",{},[["four",{},["22969R"]],["refa",{},["0 120 489 476"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["nlcfr",{},[["livre",{},["9563202480"]]]],["reffour",{},[["four",{},["22969R"]],["refa",{},["9 120 144 243"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["nlcfr",{},[["livre",{},["9563202480"]]]],["reffour",{},[["four",{},["71485A"]],["refa",{},["A 001 T 02674"]]]]]],["descomp",{},[["lib",{"langue":"01"},["CLASSE 5 - 50 AMP"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002058","obsnfp":"NFP","ref":"96137995","refpg":"96 137 995"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001965","obsnfp":"NFP","ref":"96136217","refpg":"96 136 217"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["10X870"]]]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"009440","ref":"0000210314","refpg":"2103 14"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 10X150-65"]]]],["prremp",{"coef":"01","palges":"P","ref":"00006925V0","refpg":"6925 V0"},[]]]]]]]]]]}

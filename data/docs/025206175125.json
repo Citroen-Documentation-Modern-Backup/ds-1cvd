@@ -1,18 +1,1 @@
-{
- "ref": "025206175125",
- "refDisplay": "0252 06 175125",
- "title": "TUBULURE DE REMPLISSAGE RESERVOIR",
- "nature": "",
- "applicability": "ELECTRIQUE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"025206175125","refDisplay":"0252 06 175125","title":"TUBULURE DE REMPLISSAGE RESERVOIR","nature":"","applicability":"ELECTRIQUE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CVD)(%ELECTR)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000582"},[]],["thesaurus",{"type":"10","code":"008198"},[]],["thesaurus",{"type":"22","code":"P0004493"},[]],["thesaurus",{"type":"21","code":"L0989383"},[]],["mpr",{"catal":"0252","grp":"30","grp2":"06","maj":"20111008","numfich":"175125"},[["appl",{},["{(?1CVD)(%ELECTR)}"]],["sti",{"ident":"NL175101"},[]],["obspage",{"ident":"P0004493"},[]],["img",{"numfich":"00004679","path":"/img/pr/79/0000/00004679.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000582","obsnfp":"NFP","ref":"96126474","refpg":"96 126 474"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["obsligne",{"ident":"L0989383"},[]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"394, 285, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"008198","obsnfp":"NFP","ref":"96152452","refpg":"96 152 452"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"380, 153, 11","shape":"circle"},[]]]]]]]]]]}

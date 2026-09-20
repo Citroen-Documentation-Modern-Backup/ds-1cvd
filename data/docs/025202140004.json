@@ -1,18 +1,1 @@
-{
- "ref": "025202140004",
- "refDisplay": "0252 02 140004",
- "title": "ALIMENTATION",
- "nature": "",
- "applicability": "CARBURATEUR ET 1,360L ET ESSENCE ET CARTER CYLINDRE FONTE DEPUIS OPR 05233",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"025202140004","refDisplay":"0252 02 140004","title":"ALIMENTATION","nature":"","applicability":"CARBURATEUR ET 1,360L ET ESSENCE ET CARTER CYLINDRE FONTE DEPUIS OPR 05233","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CVD)(DAZ08)(%B0F136)(DCD10)(%CARTCF)/($1,05233,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000184"},[]],["thesaurus",{"type":"10","code":"000078"},[]],["thesaurus",{"type":"10","code":"000282"},[]],["thesaurus",{"type":"10","code":"004660"},[]],["thesaurus",{"type":"10","code":"006142"},[]],["thesaurus",{"type":"22","code":"P0004438"},[]],["mpr",{"catal":"0252","grp":"26","grp2":"02","maj":"20111008","numfich":"140004"},[["appl",{},["{(?1CVD)(DAZ08)(%B0F136)(DCD10)(%CARTCF)/($1,05233,,)/}"]],["sti",{"ident":"NL140001"},[]],["obspage",{"ident":"P0004438"},[]],["img",{"numfich":"91400040","path":"/img/pr/40/9140/91400040.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000184","obsnfp":"NFP","ref":"0000034259","refpg":"0342 59"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000078","ref":"0000023215","refpg":"0232 15"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 20,4"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000282","obsnfp":"NFP","ref":"97533065","refpg":"97 533 065"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000282","ref":"0000036937","refpg":"0369 37"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM INT 5"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000282","ref":"97535884","refpg":"97 535 884"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004660","ref":"0000035567","refpg":"0355 67"},[["pmont",{"coef":"06"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X100-29"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004660","obsnfp":"NFP","ref":"7903027109","refpg":"79 03 027 109"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7X100-18-11-14"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"006142","ref":"0000693633","refpg":"6936 33"},[["pmont",{"coef":"06"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-8-13"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "025202533274K",
- "refDisplay": "0252 02 533274K",
- "title": "DEMARREUR - DETAILS",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0302"
-  }
- ]
-}
+{"ref":"025202533274K","refDisplay":"0252 02 533274K","title":"DEMARREUR - DETAILS","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0302"}],"kind":"pr","appl":"{(?1CVD)}","tree":["document",{},[["thesaurus",{"type":"10","code":"002275"},[]],["thesaurus",{"type":"10","code":"002049"},[]],["thesaurus",{"type":"10","code":"002117"},[]],["thesaurus",{"type":"10","code":"006271"},[]],["thesaurus",{"type":"10","code":"002074"},[]],["thesaurus",{"type":"10","code":"002175"},[]],["thesaurus",{"type":"10","code":"002379"},[]],["mpr",{"catal":"0252","grp":"492","grp2":"02","maj":"20111008","numfich":"533274K"},[["appl",{},["{(?1CVD)}"]],["sti",{"ident":"NL533201"},[]],["enssup",{},[["fourn",{},["22969R"]],["refd",{},["0 001 108 183"]]]],["img",{"numfich":"9533274k","path":"/img/pr/4k/9533/9533274k.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002275","obsnfp":"NFP","ref":"0000583680","refpg":"5836 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002049","obsnfp":"NFP","ref":"0000585574","refpg":"5855 74"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"002117","ref":"00005835F3","refpg":"5835 F3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"006271","obsnfp":"NFP","ref":"0000585105","refpg":"5851 05"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"002074","obsnfp":"NFP","ref":"00005821G1","refpg":"5821 G1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"002175","ref":"00005825C5","refpg":"5825 C5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"002379","obsnfp":"NFP","ref":"0000582790","refpg":"5827 90"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]]]]]]}

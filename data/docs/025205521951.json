@@ -1,18 +1,1 @@
-{
- "ref": "025205521951",
- "refDisplay": "0252 05 521951",
- "title": "INTERRUPTEURS CONSOLE - PLANCHE DE BORD",
- "nature": "",
- "applicability": "ELECTRIQUE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0216"
-  }
- ]
-}
+{"ref":"025205521951","refDisplay":"0252 05 521951","title":"INTERRUPTEURS CONSOLE - PLANCHE DE BORD","nature":"","applicability":"ELECTRIQUE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0216"}],"kind":"pr","appl":"{(?1CVD)(%ELECTR)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009625"},[]],["thesaurus",{"type":"10","code":"008010"},[]],["thesaurus",{"type":"10","code":"004032"},[]],["thesaurus",{"type":"10","code":"011540"},[]],["mpr",{"catal":"0252","grp":"415","grp2":"05","maj":"20111008","numfich":"521951"},[["appl",{},["{(?1CVD)(%ELECTR)}"]],["sti",{"ident":"NL521901"},[]],["img",{"numfich":"95219510","path":"/img/pr/10/9521/95219510.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009625","obsnfp":"NFP","ref":"00006552P5","refpg":"6552 P5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"008010","obsnfp":"NFP","ref":"00006135A0","refpg":"6135 A0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($1,05858,,)/}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"004032","obsnfp":"NFP","ref":"95663056","refpg":"95 663 056"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"011540","obsnfp":"NFP","ref":"96138499","refpg":"96 138 499"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]]]]]]}

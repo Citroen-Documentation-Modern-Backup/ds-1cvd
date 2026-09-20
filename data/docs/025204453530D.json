@@ -1,18 +1,1 @@
-{
- "ref": "025204453530D",
- "refDisplay": "0252 04 453530D",
- "title": "MAITRE CYLINDRE - RESERVOIR",
- "nature": "",
- "applicability": "ESSENCE ET 0,954L ET 1,124L ET 1,360L ET CONDUITE A DROITE DEPUIS OPR 04196",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0045"
-  }
- ]
-}
+{"ref":"025204453530D","refDisplay":"0252 04 453530D","title":"MAITRE CYLINDRE - RESERVOIR","nature":"","applicability":"ESSENCE ET 0,954L ET 1,124L ET 1,360L ET CONDUITE A DROITE DEPUIS OPR 04196","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0045"}],"kind":"pr","appl":"{(?1CVD)(DCD10)(%B0F09)(%B0F11)(%B0F136)(DCX02)/($1,04196,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"001410"},[]],["thesaurus",{"type":"10","code":"001527"},[]],["thesaurus",{"type":"10","code":"001726"},[]],["thesaurus",{"type":"10","code":"008588"},[]],["thesaurus",{"type":"10","code":"004651"},[]],["mpr",{"catal":"0252","grp":"238","grp2":"04","maj":"20111008","numfich":"453530D"},[["appl",{},["{(?1CVD)(DCD10)(%B0F09)(%B0F11)(%B0F136)(DCX02)/($1,04196,,)/}"]],["sti",{"ident":"NL453501"},[]],["img",{"numfich":"9453530d","path":"/img/pr/0d/9453/9453530d.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001410","obsnfp":"NFP","ref":"96000158","refpg":"96 000 158"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 20,6"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"001527","obsnfp":"NFP","ref":"0000460910","refpg":"4609 10"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"001726","obsnfp":"NFP","ref":"7910011862","refpg":"79 10 011 862"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 210"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"008588","ref":"0000696270","refpg":"6962 70"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7X18-1,4"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004651","ref":"0000693205","refpg":"6932 05"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7X100-5"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "025207746110",
- "refDisplay": "0252 07 746110",
- "title": "CLOISON DE SEPARATION",
- "nature": "",
- "applicability": "CABINE APPROFONDIE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0148"
-  }
- ]
-}
+{"ref":"025207746110","refDisplay":"0252 07 746110","title":"CLOISON DE SEPARATION","nature":"","applicability":"CABINE APPROFONDIE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0148"}],"kind":"pr","appl":"{(?1CVD)(DCA03)}","tree":["document",{},[["thesaurus",{"type":"10","code":"004041"},[]],["thesaurus",{"type":"10","code":"011663"},[]],["mpr",{"catal":"0252","grp":"315","grp2":"07","maj":"20111008","numfich":"746110"},[["appl",{},["{(?1CVD)(DCA03)}"]],["sti",{"ident":"NL746101"},[]],["img",{"numfich":"97461100","path":"/img/pr/00/9746/97461100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"004041","obsnfp":"NFP","ref":"95667844","refpg":"95 667 844"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"011663","ref":"95667845","refpg":"95 667 845"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "025205653010",
- "refDisplay": "0252 05 653010",
- "title": "EQUIPEMENT RADIO",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0942"
-  }
- ]
-}
+{"ref":"025205653010","refDisplay":"0252 05 653010","title":"EQUIPEMENT RADIO","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0942"}],"kind":"pr","appl":"{(?1CVD)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003655"},[]],["thesaurus",{"type":"10","code":"005567"},[]],["thesaurus",{"type":"10","code":"005920"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"006028"},[]],["thesaurus",{"type":"21","code":"L0988844"},[]],["mpr",{"catal":"0252","grp":"548","grp2":"05","maj":"20111008","numfich":"653010"},[["appl",{},["{(?1CVD)}"]],["sti",{"ident":"NL653001"},[]],["img",{"numfich":"96530100","path":"/img/pr/00/9653/96530100.jpg","ext":"jpg"},[]],["repere",{"rep":"02"},[["pr",{"codesi":"003655","obsnfp":"NFP","ref":"95547222","refpg":"95 547 222"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(DCD06)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(DCD10)/($,,1,04221)/}"]]]]]],["pr",{"codesi":"003655","obsnfp":"NFP","ref":"95632840","refpg":"95 632 840"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(DCD10)/($1,04222,,)/}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"005567","ref":"0000563896","refpg":"5638 96"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 220"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"005920","ref":"00006925S7","refpg":"6925 S7"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]],["obsligne",{"ident":"L0988844"},[]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 4,5-20"]]]],["prremp",{"coef":"01","palges":"P","ref":"0000692410","refpg":"6924 10"},[]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004675","ref":"0000691584","refpg":"6915 84"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-12"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"006028","ref":"0000693997","refpg":"6939 97"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-7-18"]]]]]]]]]]]]}

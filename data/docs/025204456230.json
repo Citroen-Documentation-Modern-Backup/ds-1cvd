@@ -1,18 +1,1 @@
-{
- "ref": "025204456230",
- "refDisplay": "0252 04 456230",
- "title": "AMPLIFICATEUR DE FREINAGE",
- "nature": "",
- "applicability": "ESSENCE ET E1 ET G1",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0044"
-  }
- ]
-}
+{"ref":"025204456230","refDisplay":"0252 04 456230","title":"AMPLIFICATEUR DE FREINAGE","nature":"","applicability":"ESSENCE ET E1 ET G1","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0044"}],"kind":"pr","appl":"{(?1CVD)(DCD10)(%E1)(%G1)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000910"},[]],["thesaurus",{"type":"10","code":"000962"},[]],["thesaurus",{"type":"10","code":"001423"},[]],["thesaurus",{"type":"10","code":"005284"},[]],["thesaurus",{"type":"10","code":"004650"},[]],["thesaurus",{"type":"10","code":"008588"},[]],["thesaurus",{"type":"10","code":"004651"},[]],["thesaurus",{"type":"10","code":"006142"},[]],["mpr",{"catal":"0252","grp":"237","grp2":"04","maj":"20111008","numfich":"456230"},[["appl",{},["{(?1CVD)(DCD10)(%E1)(%G1)}"]],["sti",{"ident":"NL456201"},[]],["img",{"numfich":"94562300","path":"/img/pr/00/9456/94562300.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000910","ref":"00004535R7","refpg":"4535 R7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000962","ref":"0000453314","refpg":"4533 14"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X13"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"001423","ref":"0000459915","refpg":"4599 15"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["reffour",{},[["four",{},["12352A04"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["reffour",{},[["four",{},["54983N"]]]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"005284","ref":"0000243805","refpg":"2438 05"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004650","ref":"00006981N1","refpg":"6981 N1"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 12 A 22 LARG 9"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"008588","ref":"0000696270","refpg":"6962 70"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7X18-1,4"]]]]]]]],["repere",{"rep":"33"},[["pr",{"codesi":"004651","ref":"0000693205","refpg":"6932 05"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7X100-5"]]]]]]]],["repere",{"rep":"34"},[["pr",{"codesi":"006142","ref":"0000025103","refpg":"0251 03"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7X100-6-14"]]]]]]]]]]]]}

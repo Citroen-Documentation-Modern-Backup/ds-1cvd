@@ -1,18 +1,1 @@
-{
- "ref": "025207844810",
- "refDisplay": "0252 07 844810",
- "title": "AILE ARRIERE PASSAGE DE ROUE",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0118"
-  }
- ]
-}
+{"ref":"025207844810","refDisplay":"0252 07 844810","title":"AILE ARRIERE PASSAGE DE ROUE","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0118"}],"kind":"pr","appl":"{(?1CVD)}","tree":["document",{},[["thesaurus",{"type":"10","code":"004108"},[]],["thesaurus",{"type":"10","code":"001834"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"0252","grp":"324","grp2":"07","maj":"20111008","numfich":"844810"},[["appl",{},["{(?1CVD)}"]],["sti",{"ident":"NL844801"},[]],["img",{"numfich":"98448100","path":"/img/pr/00/9844/98448100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"004108","cote":"G","ref":"95631963","refpg":"95 631 963"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(%B0JA5)(B0H01)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AR"]]]]]],["pr",{"codesi":"004108","cote":"D","ref":"95631962","refpg":"95 631 962"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(%B0JA5)(B0H01)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AR"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001834","cote":"G","ref":"95593245","refpg":"95 593 245"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(%B0JA5)}"]]]]]],["pr",{"codesi":"001834","cote":"D","ref":"95593244","refpg":"95 593 244"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(%B0JA5)}"]]]]]]]]]]]]}

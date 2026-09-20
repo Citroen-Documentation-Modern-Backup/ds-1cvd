@@ -1,18 +1,1 @@
-{
- "ref": "025206184820",
- "refDisplay": "0252 06 184820",
- "title": "ECHAPPEMENT ARRIERE",
- "nature": "",
- "applicability": "ESSENCE ET 1,118L ET 1,294L",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0011"
-  }
- ]
-}
+{"ref":"025206184820","refDisplay":"0252 06 184820","title":"ECHAPPEMENT ARRIERE","nature":"","applicability":"ESSENCE ET 1,118L ET 1,294L","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0011"}],"kind":"pr","appl":"{(?1CVD)(DCD10)(B0FB1)(B0FB3)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000623"},[]],["thesaurus",{"type":"10","code":"016514"},[]],["thesaurus",{"type":"10","code":"002299"},[]],["thesaurus",{"type":"10","code":"000662"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["mpr",{"catal":"0252","grp":"50","grp2":"06","maj":"20111008","numfich":"184820"},[["appl",{},["{(?1CVD)(DCD10)(B0FB1)(B0FB3)}"]],["sti",{"ident":"NL184801"},[]],["img",{"numfich":"91848200","path":"/img/pr/00/9184/91848200.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000623","obsnfp":"NFP","ref":"96018813","refpg":"96 018 813"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]],["pr",{"codesi":"016514","ref":"E12838C","refpg":"E12838C","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002299","obsnfp":"NFP","ref":"96012776","refpg":"96 012 776"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000662","ref":"95640799","refpg":"95 640 799"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"008006","ref":"00006922H6","refpg":"6922 H6"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["M8X125-45"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004667","ref":"0000694778","refpg":"6947 78"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X16-1,5"]]]]]]]]]]]]}

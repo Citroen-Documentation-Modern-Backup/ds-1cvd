@@ -1,18 +1,1 @@
-{
- "ref": "025204456325",
- "refDisplay": "0252 04 456325",
- "title": "POMPE A VIDE",
- "nature": "",
- "applicability": "DIESEL DW8B",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0044"
-  }
- ]
-}
+{"ref":"025204456325","refDisplay":"0252 04 456325","title":"POMPE A VIDE","nature":"","applicability":"DIESEL DW8B","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0044"}],"kind":"pr","appl":"{(?1CVD)(B0F7H)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001502"},[]],["thesaurus",{"type":"10","code":"013144"},[]],["thesaurus",{"type":"10","code":"005705"},[]],["thesaurus",{"type":"10","code":"006815"},[]],["thesaurus",{"type":"10","code":"004660"},[]],["thesaurus",{"type":"10","code":"006142"},[]],["mpr",{"catal":"0252","grp":"234","grp2":"04","maj":"20111008","numfich":"456325"},[["appl",{},["{(?1CVD)(B0F7H)}"]],["sti",{"ident":"NL456301"},[]],["img",{"numfich":"94563250","path":"/img/pr/50/9456/94563250.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001502","ref":"0000456553","refpg":"4565 53"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["prremp",{"coef":"01","palges":"P","ref":"0000456542","refpg":"4565 42"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"013144","ref":"0000455605","refpg":"4556 05"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 44X48-2"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"005705","ref":"0000455606","refpg":"4556 06"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 16X20-2"]]]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"006815","ref":"00006925P2","refpg":"6925 P2"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-25"]]]]]]]],["repere",{"rep":"71"},[["pr",{"codesi":"004660","ref":"0000692924","refpg":"6929 24"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-30-24-12"]]]]]]]],["repere",{"rep":"72"},[["pr",{"codesi":"006142","ref":"00007238ET","refpg":"7238 ET"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125"]]]]]]]]]]]]}

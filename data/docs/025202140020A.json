@@ -1,18 +1,1 @@
-{
- "ref": "025202140020A",
- "refDisplay": "0252 02 140020A",
- "title": "ALIMENTATION",
- "nature": "",
- "applicability": "ESSENCE ET 0,954L DEPUIS OPR 04196 JUSQU’A OPR 05074",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"025202140020A","refDisplay":"0252 02 140020A","title":"ALIMENTATION","nature":"","applicability":"ESSENCE ET 0,954L DEPUIS OPR 04196 JUSQU’A OPR 05074","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CVD)(DCD10)(%B0F09)/($1,04196,1,05074)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000140"},[]],["thesaurus",{"type":"10","code":"000819"},[]],["thesaurus",{"type":"10","code":"000407"},[]],["thesaurus",{"type":"10","code":"000869"},[]],["thesaurus",{"type":"10","code":"004651"},[]],["thesaurus",{"type":"21","code":"L0984111"},[]],["mpr",{"catal":"0252","grp":"34","grp2":"02","maj":"20111008","numfich":"140020A"},[["appl",{},["{(?1CVD)(DCD10)(%B0F09)/($1,04196,1,05074)/}"]],["sti",{"ident":"NL140001"},[]],["enssup",{},[["fourn",{},["30565X"]],["refd",{},["32 IBSH 16 / 100-A2"]]]],["img",{"numfich":"9140020a","path":"/img/pr/0a/9140/9140020a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000140","obsnfp":"NFP","ref":"00001401D2","refpg":"1401 D2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["obsligne",{"ident":"L0984111"},[]],["reffour",{},[["four",{},["18770B"]]]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000819","obsnfp":"NFP","ref":"0000140520","refpg":"1405 20"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000407","ref":"00001416A5","refpg":"1416 A5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"000869","obsnfp":"NFP","ref":"00001417C8","refpg":"1417 C8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"000869","obsnfp":"NFP","ref":"00001417G0","refpg":"1417 G0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004651","ref":"0000693238","refpg":"6932 38"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-6,5"]]]]]]]]]]]]}

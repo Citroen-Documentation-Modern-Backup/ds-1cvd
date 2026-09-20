@@ -1,18 +1,1 @@
-{
- "ref": "025208922634",
- "refDisplay": "0252 08 922634",
- "title": "SIEGES AVANT - MATELASSURE - COIFFE",
- "nature": "",
- "applicability": "HIT ET VELOURS BRINDISI \"G0\" DEPUIS OPR 07257",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0220"
-  }
- ]
-}
+{"ref":"025208922634","refDisplay":"0252 08 922634","title":"SIEGES AVANT - MATELASSURE - COIFFE","nature":"","applicability":"HIT ET VELOURS BRINDISI \"G0\" DEPUIS OPR 07257","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0220"}],"kind":"pr","appl":"{(?1CVD)(B0JLA)(%B0PG0)/($1,07257,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"016982"},[]],["thesaurus",{"type":"10","code":"016983"},[]],["thesaurus",{"type":"10","code":"004377"},[]],["thesaurus",{"type":"10","code":"004376"},[]],["thesaurus",{"type":"10","code":"003046"},[]],["thesaurus",{"type":"10","code":"004406"},[]],["thesaurus",{"type":"10","code":"004957"},[]],["mpr",{"catal":"0252","grp":"423","grp2":"08","maj":"20111008","numfich":"922634"},[["appl",{},["{(?1CVD)(B0JLA)(%B0PG0)/($1,07257,,)/}"]],["sti",{"ident":"NL922601"},[]],["img",{"numfich":"99226340","path":"/img/pr/40/9922/99226340.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"016982","ref":"96133665","refpg":"96 133 665"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"016983","obsnfp":"NFP","ref":"95582209","refpg":"95 582 209"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"004377","obsnfp":"NFP","ref":"00008963P5","refpg":"8963 P5"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004376","obsnfp":"NFP","ref":"00008931LE","refpg":"8931 LE"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"003046","obsnfp":"NFP","ref":"00008915ZL","refpg":"8915 ZL"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"004406","ref":"95582496XA","refpg":"95 582 496 XA"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"004957","ref":"75517438","refpg":"75 517 438"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVD)}"]]]]]]]]]]]]}

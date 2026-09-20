@@ -1,18 +1,1 @@
-{
- "ref": "025206182320",
- "refDisplay": "0252 06 182320",
- "title": "ECRAN D’ECHAPPEMENT",
- "nature": "",
- "applicability": "DIESEL",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0011"
-  }
- ]
-}
+{"ref":"025206182320","refDisplay":"0252 06 182320","title":"ECRAN D’ECHAPPEMENT","nature":"","applicability":"DIESEL","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0011"}],"kind":"pr","appl":"{(?1CVD)(@DCDRGC)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000262"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["thesaurus",{"type":"10","code":"004666"},[]],["thesaurus",{"type":"21","code":"L0989503"},[]],["mpr",{"catal":"0252","grp":"51","grp2":"06","maj":"20111008","numfich":"182320"},[["appl",{},["{(?1CVD)(@DCDRGC)}"]],["sti",{"ident":"NL182301"},[]],["img",{"numfich":"91823200","path":"/img/pr/00/9182/91823200.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000262","ref":"95603147","refpg":"95 603 147"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000262","ref":"0000153784","refpg":"1537 84"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(B0F7H)}"]],["obsligne",{"ident":"L0989503"},[]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004647","ref":"00006992C6","refpg":"6992 C6"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CVD)/($,,1,05347)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 20"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004666","ref":"00006990C4","refpg":"6990 C4"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CVD)/($1,05348,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X10"]]]]]]]]]]]]}

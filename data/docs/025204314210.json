@@ -1,18 +1,1 @@
-{
- "ref": "025204314210",
- "refDisplay": "0252 04 314210",
- "title": "PEDALE EMBRAYAGE CABLE",
- "nature": "",
- "applicability": "ESSENCE ET XV8 ET XW7 ET XY7 JUSQU’A OPR 03978",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0016"
-  }
- ]
-}
+{"ref":"025204314210","refDisplay":"0252 04 314210","title":"PEDALE EMBRAYAGE CABLE","nature":"","applicability":"ESSENCE ET XV8 ET XW7 ET XY7 JUSQU’A OPR 03978","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0016"}],"kind":"pr","appl":"{(?1CVD)(DCD10)(%XV8)(%XW7)(%XY7)/($,,1,03978)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000116"},[]],["thesaurus",{"type":"10","code":"000177"},[]],["thesaurus",{"type":"10","code":"000739"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["thesaurus",{"type":"10","code":"006142"},[]],["thesaurus",{"type":"22","code":"P0011183"},[]],["thesaurus",{"type":"21","code":"L0987161"},[]],["mpr",{"catal":"0252","grp":"64","grp2":"04","maj":"20120314","numfich":"314210"},[["appl",{},["{(?1CVD)(DCD10)(%XV8)(%XW7)(%XY7)/($,,1,03978)/}"]],["sti",{"ident":"T0058980"},[]],["obspage",{"ident":"P0011183"},[]],["img",{"numfich":"93142100","path":"/img/pr/00/9314/93142100.jpg","ext":"jpg"},[]],["repere",{"rep":"03"},[["pr",{"codesi":"000116","obsnfp":"NFP","ref":"95493316","refpg":"95 493 316"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 454"]]]]]],["pr",{"codesi":"000116","obsnfp":"NFP","ref":"95493516","refpg":"95 493 516"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(DCX02)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 977"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000177","ref":"0000213014","refpg":"2130 14"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"000739","ref":"95545118","refpg":"95 545 118"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["obsligne",{"ident":"L0987161"},[]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 58"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004675","ref":"0000691536","refpg":"6915 36"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7X100-20"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004675","ref":"0000691792","refpg":"6917 92"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-20"]]]]]]]],["repere",{"rep":"34"},[["pr",{"codesi":"004667","ref":"00006947G6","refpg":"6947 G6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X18-2"]]]]]]]],["repere",{"rep":"36"},[["pr",{"codesi":"006142","ref":"0000693651","refpg":"6936 51"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-8-13"]]]]]]]]]]]]}

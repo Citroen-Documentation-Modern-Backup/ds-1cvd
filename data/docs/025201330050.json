@@ -1,18 +1,1 @@
-{
- "ref": "025201330050",
- "refDisplay": "0252 01 330050",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "DIESEL ET XUD7 ET BVM ET BE3/5 OU DIESEL DW8B ET BVM BE3R",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"025201330050","refDisplay":"0252 01 330050","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"DIESEL ET XUD7 ET BVM ET BE3/5 OU DIESEL DW8B ET BVM BE3R","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CVD)(B0F7H)(%BE3R)}{(?1CVD)(%DIESEL)(%XUD7)(@BVM)(%BE3R5)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"10","code":"000048"},[]],["thesaurus",{"type":"10","code":"009391"},[]],["thesaurus",{"type":"22","code":"P0004419"},[]],["thesaurus",{"type":"21","code":"L0982284"},[]],["mpr",{"catal":"0252","grp":"67","grp2":"01","maj":"20111008","numfich":"330050"},[["appl",{},["{(?1CVD)(B0F7H)(%BE3R)}{(?1CVD)(%DIESEL)(%XUD7)(@BVM)(%BE3R5)}"]],["sti",{"ident":"NL330001"},[]],["obspage",{"ident":"P0004419"},[]],["img",{"numfich":"93300500","path":"/img/pr/00/9330/93300500.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","ref":"0000222280","refpg":"2222 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(%XUD7)(%BE3R5)/($7,0000001,1,08420)/}"]],["obsligne",{"ident":"L0982284"},[]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(%XUD7)(%BE3R)/($1,08421,,)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(B0F7H)(%BE3R)(DCW68)/($5,20001204,7,6736560)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(B0F7H)(%BE3R)(DCW79)/($7,6736561,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 17X71 OU 19X79"]]]],["reporg",{},[["monte",{},["TE11"]],["monte",{},["(TE11)"]],["monte",{},["TB89"]],["monte",{},["CH81"]],["monte",{},["CH24"]],["monte",{},["TB09"]],["monte",{},["TD69"]]]]]],["pr",{"codesi":"000048","obsnfp":"NFP","ref":"00002201KR","refpg":"2201 KR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($,,5,19941205)/(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 16X67"]]]],["reporg",{},[["monte",{},["CJ10"]],["monte",{},["(CMAG)"]],["monte",{},["CM17"]],["monte",{},[" CMF5"]],["monte",{},["CM65"]],["monte",{},["CJ89"]],["monte",{},["(CMFE)"]]]]]],["pr",{"codesi":"009391","obsnfp":"NFP","ref":"00002201RF","refpg":"2201 RF"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($,,7,8831000)/(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 19X79"]]]],["reporg",{},[["monte",{},["CH81"]],["monte",{},["(CHH1)"]],["monte",{},["CH24"]]]]]],["pr",{"codesi":"009391","obsnfp":"NFP","ref":"0000222328","refpg":"2223 28"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($7,8831001,7,9999999)/(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 19X79"]]]],["reporg",{},[["monte",{},["TB09"]],["monte",{},["(TBK9)"]]]]]],["pr",{"codesi":"009391","ref":"00002223C8","refpg":"2223 C8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($7,0000001,1,08420)/(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 19X79"]]]],["prremp",{"coef":"01","palges":"P","ref":"00002223T4","refpg":"2223 T4"},[]],["prremp",{"coef":"01","ref":"00006437RS","refpg":"6437 RS"},[]],["reporg",{},[["monte",{},["TB89"]],["monte",{},["(TBH9)"]]]]]],["pr",{"codesi":"009391","ref":"00002223T4","refpg":"2223 T4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(%XUD7)(%BE3R)/($1,08421,,)/(~2)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(B0F7H)(%BE3R)(DCW68)/($5,20021204,7,6736560)/(~2)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(B0F7H)(%BE3R)(DCW79)/($7,6736561,,)/(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 17X71 OU 19X79"]]]],["reporg",{},[["monte",{},["TE11"]],["monte",{},["(TDF9)"]],["monte",{},["TD69"]]]]]]]]]]]]}

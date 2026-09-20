@@ -1,18 +1,1 @@
-{
- "ref": "025202533204",
- "refDisplay": "0252 02 533204",
- "title": "DEMARREUR - DETAILS",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0302"
-  }
- ]
-}
+{"ref":"025202533204","refDisplay":"0252 02 533204","title":"DEMARREUR - DETAILS","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0302"}],"kind":"pr","appl":"{(?1CVD)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001946"},[]],["thesaurus",{"type":"10","code":"005155"},[]],["thesaurus",{"type":"10","code":"002117"},[]],["thesaurus",{"type":"10","code":"006271"},[]],["thesaurus",{"type":"10","code":"002074"},[]],["thesaurus",{"type":"10","code":"002073"},[]],["thesaurus",{"type":"10","code":"005156"},[]],["mpr",{"catal":"0252","grp":"492","grp2":"02","maj":"20111008","numfich":"533204"},[["appl",{},["{(?1CVD)}"]],["sti",{"ident":"NL533201"},[]],["enssup",{},[["fourn",{},["72043G"]],["refd",{},["D 7 R 2"]]]],["img",{"numfich":"sf33231a","path":"/img/pr/1a/sf33/sf33231a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001946","ref":"0000583658","refpg":"5836 58"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"005155","obsnfp":"NFP","ref":"0000585581","refpg":"5855 81"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"002117","ref":"00005835A6","refpg":"5835 A6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"006271","ref":"0000581707","refpg":"5817 07"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"002074","obsnfp":"NFP","ref":"00005821D9","refpg":"5821 D9"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"002073","obsnfp":"NFP","ref":"00005820A4","refpg":"5820 A4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"005156","ref":"0000582783","refpg":"5827 83"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]]]]]]}

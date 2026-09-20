@@ -1,18 +1,1 @@
-{
- "ref": "025202144130",
- "refDisplay": "0252 02 144130",
- "title": "DISPOSITIF DE DOSAGE",
- "nature": "",
- "applicability": "ESSENCE ET 1,124L ET INJ MONOPOINT",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"025202144130","refDisplay":"0252 02 144130","title":"DISPOSITIF DE DOSAGE","nature":"","applicability":"ESSENCE ET 1,124L ET INJ MONOPOINT","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CVD)(DCD10)(%B0F11)(%DAZ07)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000119"},[]],["thesaurus",{"type":"10","code":"000636"},[]],["thesaurus",{"type":"10","code":"010632"},[]],["thesaurus",{"type":"10","code":"003477"},[]],["thesaurus",{"type":"10","code":"003891"},[]],["thesaurus",{"type":"10","code":"005308"},[]],["thesaurus",{"type":"10","code":"006247"},[]],["thesaurus",{"type":"10","code":"007350"},[]],["thesaurus",{"type":"10","code":"008579"},[]],["thesaurus",{"type":"10","code":"016975"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["thesaurus",{"type":"21","code":"L0984620"},[]],["mpr",{"catal":"0252","grp":"27","grp2":"02","maj":"20111008","numfich":"144130"},[["appl",{},["{(?1CVD)(DCD10)(%B0F11)(%DAZ07)}"]],["sti",{"ident":"NL144101"},[]],["img",{"numfich":"91441300","path":"/img/pr/00/9144/91441300.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000119","obsnfp":"NFP","ref":"00001929E3","refpg":"1929 E3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000636","obsnfp":"NFP","ref":"96037590","refpg":"96 037 590"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"010632","ref":"75515124","refpg":"75 515 124"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6,5X20-14"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"003477","ref":"0000454935","refpg":"4549 35"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["12V 20/30 AMP"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"003891","obsnfp":"NFP","ref":"00001920H3","refpg":"1920 H3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["3 OHMS"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"005308","ref":"0000591875","refpg":"5918 75"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"006247","obsnfp":"NFP","ref":"0000592014","refpg":"5920 14"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["obsligne",{"ident":"L0984620"},[]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"007350","ref":"0000024246","refpg":"0242 46"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["12X150"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"008579","ref":"0000032427","refpg":"0324 27"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-12"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"016975","ref":"0000193314","refpg":"1933 14"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["12,1X18-2"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"004647","ref":"0000699240","refpg":"6992 40"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8-6,5"]]]]]]]],["repere",{"rep":"33"},[["pr",{"codesi":"004647","ref":"0000699505","refpg":"6995 05"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]]]]]]}

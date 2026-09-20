@@ -1,18 +1,1 @@
-{
- "ref": "025208922629",
- "refDisplay": "0252 08 922629",
- "title": "SIEGES AVANT - MATELASSURE - COIFFE",
- "nature": "",
- "applicability": "VELOURS DOGON \"PJ\" ET (E) ESPAGNE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0220"
-  }
- ]
-}
+{"ref":"025208922629","refDisplay":"0252 08 922629","title":"SIEGES AVANT - MATELASSURE - COIFFE","nature":"","applicability":"VELOURS DOGON \"PJ\" ET (E) ESPAGNE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0220"}],"kind":"pr","appl":"{(?1CVD)(B0PPJ)(%E)}","tree":["document",{},[["thesaurus",{"type":"10","code":"016982"},[]],["thesaurus",{"type":"10","code":"016983"},[]],["thesaurus",{"type":"10","code":"004377"},[]],["thesaurus",{"type":"10","code":"004376"},[]],["thesaurus",{"type":"10","code":"003046"},[]],["thesaurus",{"type":"10","code":"004406"},[]],["thesaurus",{"type":"21","code":"L0992211"},[]],["thesaurus",{"type":"21","code":"L0992212"},[]],["mpr",{"catal":"0252","grp":"423","grp2":"08","maj":"20111008","numfich":"922629"},[["appl",{},["{(?1CVD)(B0PPJ)(%E)}"]],["sti",{"ident":"NL922601"},[]],["img",{"numfich":"99226290","path":"/img/pr/90/9922/99226290.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"016982","ref":"96133665","refpg":"96 133 665"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"016983","ref":"00008904TG","refpg":"8904 TG"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"004377","obsnfp":"NFP","ref":"0000886189","refpg":"8861 89"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004376","obsnfp":"NFP","ref":"00008871RR","refpg":"8871 RR"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"003046","obsnfp":"NFP","ref":"00008851EV","refpg":"8851 EV"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"004406","ref":"00008911N7","refpg":"8911 N7"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]],["obsligne",{"ident":"L0992211"},[]]]],["descomp",{},[["lib",{"langue":"01"},["VERROUILLAGE"]]]]]],["pr",{"codesi":"004406","ref":"00008911N6","refpg":"8911 N6"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]],["obsligne",{"ident":"L0992212"},[]]]],["descomp",{},[["lib",{"langue":"01"},["SANS VERROUILLAGE"]]]]]]]]]]]]}

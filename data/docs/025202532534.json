@@ -1,18 +1,1 @@
-{
- "ref": "025202532534",
- "refDisplay": "0252 02 532534",
- "title": "ALTERNATEUR - DETAILS",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0303"
-  }
- ]
-}
+{"ref":"025202532534","refDisplay":"0252 02 532534","title":"ALTERNATEUR - DETAILS","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0303"}],"kind":"pr","appl":"{(?1CVD)}","tree":["document",{},[["thesaurus",{"type":"10","code":"002253"},[]],["thesaurus",{"type":"10","code":"002319"},[]],["thesaurus",{"type":"10","code":"001843"},[]],["thesaurus",{"type":"10","code":"002208"},[]],["thesaurus",{"type":"10","code":"002257"},[]],["mpr",{"catal":"0252","grp":"497","grp2":"02","maj":"20111008","numfich":"532534"},[["appl",{},["{(?1CVD)}"]],["sti",{"ident":"NL532501"},[]],["enssup",{},[["fourn",{},["72043G"]],["refd",{},["A 13 N 220"]]]],["img",{"numfich":"00004430","path":"/img/pr/30/0000/00004430.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002253","obsnfp":"NFP","ref":"0000572737","refpg":"5727 37"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"386, 164, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002319","ref":"0000572098","refpg":"5720 98"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"222, 34, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001843","obsnfp":"NFP","ref":"00005744C8","refpg":"5744 C8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"412, 265, 11","shape":"circle"},[]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"002208","ref":"0000576167","refpg":"5761 67"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"166, 339, 11","shape":"circle"},[]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"002257","obsnfp":"NFP","ref":"00005725F8","refpg":"5725 F8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]],["interactivite",{"order":"05"},[["area",{"coords":"153, 53, 11","shape":"circle"},[]]]]]]]]]]}

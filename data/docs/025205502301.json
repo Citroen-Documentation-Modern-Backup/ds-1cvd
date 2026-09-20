@@ -1,18 +1,1 @@
-{
- "ref": "025205502301",
- "refDisplay": "0252 05 502301",
- "title": "FAISCEAU PORTES",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0309"
-  }
- ]
-}
+{"ref":"025205502301","refDisplay":"0252 05 502301","title":"FAISCEAU PORTES","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0309"}],"kind":"pr","appl":"{(?1CVD)}","tree":["document",{},[["thesaurus",{"type":"7","code":"C001-"},[]],["thesaurus",{"type":"10","code":"003744"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["thesaurus",{"type":"10","code":"003763"},[]],["thesaurus",{"type":"10","code":"003823"},[]],["thesaurus",{"type":"21","code":"L0988327"},[]],["mpr",{"catal":"0252","grp":"525","grp2":"05","maj":"20111008","numfich":"502301"},[["appl",{},["{(?1CVD)}"]],["sti",{"ident":"NL502301"},[]],["img",{"numfich":"95023010","path":"/img/pr/10/9502/95023010.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003744","ref":"00006537Q4","refpg":"6537 Q4"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)(%OPTION)(DLB02)(DVB04)}"]],["nlcfr",{},[["livre",{},["9619360880"]]]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"004647","ref":"0000699212","refpg":"6992 12"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7 L25,5X25,5"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"003763","ref":"95599617","refpg":"95 599 617"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]],["obsligne",{"ident":"L0988327"},[]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 160"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"003823","ref":"21446009","refpg":"21 446 009"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["complpr",{"matiere":"C001-"},[]]]]]]]]]]]]}

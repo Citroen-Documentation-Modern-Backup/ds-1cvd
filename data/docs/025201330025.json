@@ -1,18 +1,1 @@
-{
- "ref": "025201330025",
- "refDisplay": "0252 01 330025",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "INJECTION ET TU1M ET MA",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"025201330025","refDisplay":"0252 01 330025","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"INJECTION ET TU1M ET MA","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CVD)(%INJ)(%TU1M)(%MA)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"10","code":"009391"},[]],["thesaurus",{"type":"22","code":"P0004415"},[]],["thesaurus",{"type":"21","code":"L0982258"},[]],["mpr",{"catal":"0252","grp":"67","grp2":"01","maj":"20111008","numfich":"330025"},[["appl",{},["{(?1CVD)(%INJ)(%TU1M)(%MA)}"]],["sti",{"ident":"NL330001"},[]],["obspage",{"ident":"P0004415"},[]],["img",{"numfich":"93300250","path":"/img/pr/50/9330/93300250.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","obsnfp":"NFP","ref":"00002205ES","refpg":"2205 ES"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(%MAR4)}"]],["obsligne",{"ident":"L0982258"},[]]]],["descomp",{},[["lib",{"langue":"01"},["CP (16X65)"]]]],["reporg",{},[["monte",{},[" CA33"]],["monte",{},[" CB34"]],["monte",{},[" CE79"]],["monte",{},["(CE79)"]],["monte",{},[" CA30"]],["monte",{},[" CB39"]],["monte",{},[" CA65"]],["monte",{},[" CA75"]],["monte",{},[" CA68"]],["monte",{},[" CE35"]],["monte",{},[" CC72"]],["monte",{},[" CC67"]],["monte",{},[" CA81"]]]]]],["pr",{"codesi":"009391","obsnfp":"NFP","ref":"000022019S","refpg":"2201 9S"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(%MAR4)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP(16X65)"]]]],["reporg",{},[["monte",{},[" CA33"]],["monte",{},[" CEG9"]],["monte",{},[" CB34"]],["monte",{},[" CE79"]],["monte",{},[" CA36"]],["monte",{},["(CEG9)"]],["monte",{},[" CA30"]],["monte",{},[" CB39"]],["monte",{},[" CA01"]],["monte",{},[" CA65"]],["monte",{},[" CA75"]],["monte",{},[" CB29"]],["monte",{},[" CA68"]],["monte",{},[" CCG2"]],["monte",{},[" CCF7"]],["monte",{},[" CE35"]],["monte",{},[" CC72"]],["monte",{},[" CC67"]],["monte",{},[" CA81"]]]]]]]]]]]]}

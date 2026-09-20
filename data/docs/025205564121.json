@@ -1,18 +1,1 @@
-{
- "ref": "025205564121",
- "refDisplay": "0252 05 564121",
- "title": "LAVE VITRE AVANT - ARRIERE",
- "nature": "",
- "applicability": "ELECTRIQUE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0321"
-  }
- ]
-}
+{"ref":"025205564121","refDisplay":"0252 05 564121","title":"LAVE VITRE AVANT - ARRIERE","nature":"","applicability":"ELECTRIQUE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0321"}],"kind":"pr","appl":"{(?1CVD)(%ELECTR)}","tree":["document",{},[["thesaurus",{"type":"10","code":"002933"},[]],["mpr",{"catal":"0252","grp":"385","grp2":"05","maj":"20111008","numfich":"564121"},[["appl",{},["{(?1CVD)(%ELECTR)}"]],["sti",{"ident":"NL564101"},[]],["img",{"numfich":"00004641","path":"/img/pr/41/0000/00004641.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002933","obsnfp":"NFP","ref":"96158010","refpg":"96 158 010"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"164, 324, 11","shape":"circle"},[]]]]]]]]]]}

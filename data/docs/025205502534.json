@@ -1,18 +1,1 @@
-{
- "ref": "025205502534",
- "refDisplay": "0252 05 502534",
- "title": "FAISCEAU ARRIERE",
- "nature": "",
- "applicability": "2 PORTES AR ET LUNETTE AR CHAUFFANTE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0310"
-  }
- ]
-}
+{"ref":"025205502534","refDisplay":"0252 05 502534","title":"FAISCEAU ARRIERE","nature":"","applicability":"2 PORTES AR ET LUNETTE AR CHAUFFANTE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0310"}],"kind":"pr","appl":"{(?1CVD)(%D0PB04)(%TDE01)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003743"},[]],["thesaurus",{"type":"10","code":"003744"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["mpr",{"catal":"0252","grp":"528","grp2":"05","maj":"20111008","numfich":"502534"},[["appl",{},["{(?1CVD)(%D0PB04)(%TDE01)}"]],["sti",{"ident":"NL502501"},[]],["img",{"numfich":"95025340","path":"/img/pr/40/9502/95025340.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003743","ref":"00006528F9","refpg":"6528 F9"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]],["nlcfr",{},[["monte",{},["9618583380"]],["livre",{},["9618583880"]]]]]]]],["pr",{"codesi":"003744","ref":"00006537Q6","refpg":"6537 Q6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(%OPTION)(DLB02)(DVB04)}"]],["nlcfr",{},[["livre",{},["9619360780"]]]]]],["descomp",{},[["lib",{"langue":"01"},["AR"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"004647","ref":"0000699212","refpg":"6992 12"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7 L25,5X25,5"]]]]]]]]]]]]}

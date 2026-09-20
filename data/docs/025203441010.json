@@ -1,18 +1,1 @@
-{
- "ref": "025203441010",
- "refDisplay": "0252 03 441010",
- "title": "VOLANT DE DIRECTION",
- "nature": "",
- "applicability": "ESSENCE ET XV8 ET XW7 ET XY7 JUSQU’A OPR 03978",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0034"
-  }
- ]
-}
+{"ref":"025203441010","refDisplay":"0252 03 441010","title":"VOLANT DE DIRECTION","nature":"","applicability":"ESSENCE ET XV8 ET XW7 ET XY7 JUSQU’A OPR 03978","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0034"}],"kind":"pr","appl":"{(?1CVD)(DCD10)(%XV8)(%XW7)(%XY7)/($,,1,03978)/}","tree":["document",{},[["thesaurus",{"type":"6","code":"ED-"},[]],["thesaurus",{"type":"6","code":"YD-"},[]],["thesaurus",{"type":"10","code":"001773"},[]],["thesaurus",{"type":"10","code":"001019"},[]],["thesaurus",{"type":"10","code":"004654"},[]],["thesaurus",{"type":"21","code":"L0986638"},[]],["mpr",{"catal":"0252","grp":"221","grp2":"03","maj":"20111008","numfich":"441010"},[["appl",{},["{(?1CVD)(DCD10)(%XV8)(%XW7)(%XY7)/($,,1,03978)/}"]],["sti",{"ident":"NL441001"},[]],["img",{"numfich":"94410100","path":"/img/pr/00/9441/94410100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001773","obsnfp":"NFP","ref":"96050475ED","refpg":"96 050 475 ED"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["complpr",{"couleur":"ED-"},[]]]]]],["pr",{"codesi":"001773","obsnfp":"NFP","ref":"96050475YD","refpg":"96 050 475 YD"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["obsligne",{"ident":"L0986638"},[]],["complpr",{"couleur":"YD-"},[]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001019","obsnfp":"NFP","ref":"0000410612","refpg":"4106 12"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM INT 28,5X46E2,5"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004654","ref":"0000693991","refpg":"6939 91"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["14X150-13-21"]]]],["prremp",{"coef":"01","palges":"P","ref":"0000517329","refpg":"5173 29"},[]]]]]]]]]]}

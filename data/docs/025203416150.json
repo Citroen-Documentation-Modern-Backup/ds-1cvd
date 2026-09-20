@@ -1,18 +1,1 @@
-{
- "ref": "025203416150",
- "refDisplay": "0252 03 416150",
- "title": "ROUES",
- "nature": "",
- "applicability": "ESSENCE ET XV8 ET XW7 ET XY7 JUSQU’A OPR 03978",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0023"
-  }
- ]
-}
+{"ref":"025203416150","refDisplay":"0252 03 416150","title":"ROUES","nature":"","applicability":"ESSENCE ET XV8 ET XW7 ET XY7 JUSQU’A OPR 03978","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0023"}],"kind":"pr","appl":"{(?1CVD)(DCD10)(%XV8)(%XW7)(%XY7)/($,,1,03978)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"004663"},[]],["mpr",{"catal":"0252","grp":"144","grp2":"03","maj":"20111008","numfich":"416150"},[["appl",{},["{(?1CVD)(DCD10)(%XV8)(%XW7)(%XY7)/($,,1,03978)/}"]],["sti",{"ident":"NL416101"},[]],["img",{"numfich":"94161500","path":"/img/pr/00/9416/94161500.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"004663","obsnfp":"NFP","ref":"75483894","refpg":"75 483 894"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 37 H 9,5"]]]]]]]]]]]]}

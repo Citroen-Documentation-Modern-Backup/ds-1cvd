@@ -1,18 +1,1 @@
-{
- "ref": "025207743110",
- "refDisplay": "0252 07 743110",
- "title": "PROTECTION SOUS CAISSE",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0112"
-  }
- ]
-}
+{"ref":"025207743110","refDisplay":"0252 07 743110","title":"PROTECTION SOUS CAISSE","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0112"}],"kind":"pr","appl":"{(?1CVD)}","tree":["document",{},[["thesaurus",{"type":"10","code":"002566"},[]],["mpr",{"catal":"0252","grp":"310","grp2":"07","maj":"20111008","numfich":"743110"},[["appl",{},["{(?1CVD)}"]],["sti",{"ident":"NL743101"},[]],["img",{"numfich":"97431100","path":"/img/pr/00/9743/97431100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002566","obsnfp":"NFP","ref":"0000701357","refpg":"7013 57"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(%ESS)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(%DIESEL)}"]]]]]]]]]]]]}

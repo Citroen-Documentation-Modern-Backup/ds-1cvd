@@ -1,18 +1,1 @@
-{
- "ref": "025205501811",
- "refDisplay": "0252 05 501811",
- "title": "FAISCEAU PLANCHE DE BORD ET CONSOLE",
- "nature": "",
- "applicability": "ELECTRIQUE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0309"
-  }
- ]
-}
+{"ref":"025205501811","refDisplay":"0252 05 501811","title":"FAISCEAU PLANCHE DE BORD ET CONSOLE","nature":"","applicability":"ELECTRIQUE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0309"}],"kind":"pr","appl":"{(?1CVD)(%ELECTR)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003742"},[]],["mpr",{"catal":"0252","grp":"520","grp2":"05","maj":"20111008","numfich":"501811"},[["appl",{},["{(?1CVD)(%ELECTR)}"]],["sti",{"ident":"NL501801"},[]],["img",{"numfich":"95018110","path":"/img/pr/10/9501/95018110.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003742","obsnfp":"NFP","ref":"96143368","refpg":"96 143 368"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($,,1,05929)/}"]]]]]],["pr",{"codesi":"003742","obsnfp":"NFP","ref":"00006525HY","refpg":"6525 HY"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($1,05930,,)/}"]]]]]]]]]]]]}

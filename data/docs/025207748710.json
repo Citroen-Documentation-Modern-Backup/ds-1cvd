@@ -1,18 +1,1 @@
-{
- "ref": "025207748710",
- "refDisplay": "0252 07 748710",
- "title": "VITRES DE PANNEAUX DE COTE",
- "nature": "",
- "applicability": "FOURGONS",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0130"
-  }
- ]
-}
+{"ref":"025207748710","refDisplay":"0252 07 748710","title":"VITRES DE PANNEAUX DE COTE","nature":"","applicability":"FOURGONS","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0130"}],"kind":"pr","appl":"{(?1CVD)(%B0DEA)}","tree":["document",{},[["thesaurus",{"type":"10","code":"004126"},[]],["thesaurus",{"type":"10","code":"004054"},[]],["thesaurus",{"type":"10","code":"005927"},[]],["thesaurus",{"type":"10","code":"004890"},[]],["thesaurus",{"type":"10","code":"006368"},[]],["thesaurus",{"type":"10","code":"005402"},[]],["thesaurus",{"type":"10","code":"008600"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["thesaurus",{"type":"21","code":"L0991199"},[]],["thesaurus",{"type":"21","code":"L0991198"},[]],["thesaurus",{"type":"21","code":"L0991200"},[]],["thesaurus",{"type":"21","code":"L0991202"},[]],["thesaurus",{"type":"21","code":"L0991201"},[]],["thesaurus",{"type":"21","code":"L0991203"},[]],["thesaurus",{"type":"21","code":"L0991204"},[]],["mpr",{"catal":"0252","grp":"346","grp2":"07","maj":"20111008","numfich":"748710"},[["appl",{},["{(?1CVD)(%B0DEA)}"]],["sti",{"ident":"NL748701"},[]],["img",{"numfich":"97487100","path":"/img/pr/00/9748/97487100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"004126","cote":"G","ref":"95592929","refpg":"95 592 929"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AV"]]]]]],["pr",{"codesi":"004126","cote":"D","ref":"95592930","refpg":"95 592 930"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AV"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"004054","ref":"95592632","refpg":"95 592 632"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LON 1830"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"005927","cote":"G","ref":"95630165","refpg":"95 630 165"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["obsligne",{"ident":"L0991199"},[]]]],["descomp",{},[["lib",{"langue":"01"},["AV"]]]]]],["pr",{"codesi":"005927","cote":"D","ref":"95630164","refpg":"95 630 164"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["obsligne",{"ident":"L0991198"},[]]]],["descomp",{},[["lib",{"langue":"01"},["AV"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004890","ref":"95630169","refpg":"95 630 169"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]],["obsligne",{"ident":"L0991200"},[]]]],["descomp",{},[["lib",{"langue":"01"},["AV"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"006368","cote":"G","ref":"00008569E7","refpg":"8569 E7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["obsligne",{"ident":"L0991202"},[]]]]]],["pr",{"codesi":"006368","cote":"D","ref":"00008569E8","refpg":"8569 E8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["obsligne",{"ident":"L0991201"},[]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"005402","obsnfp":"NFP","ref":"ZC9867671U","refpg":"ZC  9867 671U"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)/($,,5,19940930)/}"]],["obsligne",{"ident":"L0991203"},[]]]]]],["pr",{"codesi":"008600","ref":"0000857242","refpg":"8572 42"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)/($5,19940930,,)/}"]],["obsligne",{"ident":"L0991204"},[]]]]]]]]]]]]}

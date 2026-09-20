@@ -1,18 +1,1 @@
-{
- "ref": "025201223045",
- "refDisplay": "0252 01 223045",
- "title": "CARTER HUILE-JAUGE-CARTOUCHE-REMPLISSAGE",
- "nature": "",
- "applicability": "ESSENCE ET 0,954L ET 1,124L ET 1,360L DEPUIS OPR 04222",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0008"
-  }
- ]
-}
+{"ref":"025201223045","refDisplay":"0252 01 223045","title":"CARTER HUILE-JAUGE-CARTOUCHE-REMPLISSAGE","nature":"","applicability":"ESSENCE ET 0,954L ET 1,124L ET 1,360L DEPUIS OPR 04222","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0008"}],"kind":"pr","appl":"{(?1CVD)(DCD10)(%B0F09)(%B0F11)(%B0F136)/($1,04222,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000698"},[]],["thesaurus",{"type":"10","code":"004650"},[]],["thesaurus",{"type":"21","code":"L0981741"},[]],["mpr",{"catal":"0252","grp":"33","grp2":"01","maj":"20111008","numfich":"223045"},[["appl",{},["{(?1CVD)(DCD10)(%B0F09)(%B0F11)(%B0F136)/($1,04222,,)/}"]],["sti",{"ident":"NL223001"},[]],["img",{"numfich":"92230450","path":"/img/pr/50/9223/92230450.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000698","ref":"0000119261","refpg":"1192 61"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["obsligne",{"ident":"L0981741"},[]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000698","ref":"0000119262","refpg":"1192 62"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(DCD03)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(%DAZ07)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004650","ref":"00006981N3","refpg":"6981 N3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 20 A 35 LARG 9"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "025208922635A",
- "refDisplay": "0252 08 922635A",
- "title": "SIEGES AVANT - MATELASSURE - COIFFE",
- "nature": "",
- "applicability": "FAMILIALE ET CLUB DEPUIS OPR 04437",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0220"
-  }
- ]
-}
+{"ref":"025208922635A","refDisplay":"0252 08 922635A","title":"SIEGES AVANT - MATELASSURE - COIFFE","nature":"","applicability":"FAMILIALE ET CLUB DEPUIS OPR 04437","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0220"}],"kind":"pr","appl":"{(?1CVD)(%B0JA5)(%CLUB)/($1,04437,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"016982"},[]],["thesaurus",{"type":"10","code":"016983"},[]],["thesaurus",{"type":"10","code":"003048"},[]],["thesaurus",{"type":"10","code":"004406"},[]],["thesaurus",{"type":"10","code":"004957"},[]],["mpr",{"catal":"0252","grp":"423","grp2":"08","maj":"20111008","numfich":"922635A"},[["appl",{},["{(?1CVD)(%B0JA5)(%CLUB)/($1,04437,,)/}"]],["sti",{"ident":"NL922601"},[]],["enssup",{},[["refd",{},["JERSEY RAYURE COSTUME"]]]],["img",{"numfich":"9922635a","path":"/img/pr/5a/9922/9922635a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"016982","ref":"96133665","refpg":"96 133 665"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"016983","obsnfp":"NFP","ref":"0000895039","refpg":"8950 39"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"003048","obsnfp":"NFP","ref":"96145455","refpg":"96 145 455"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"004406","ref":"75528903XA","refpg":"75 528 903 XA"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["L 71"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"004957","ref":"75517438","refpg":"75 517 438"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVD)}"]]]]]]]]]]]]}

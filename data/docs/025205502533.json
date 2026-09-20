@@ -1,18 +1,1 @@
-{
- "ref": "025205502533",
- "refDisplay": "0252 05 502533",
- "title": "FAISCEAU ARRIERE",
- "nature": "",
- "applicability": "2 PORTES AR",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0310"
-  }
- ]
-}
+{"ref":"025205502533","refDisplay":"0252 05 502533","title":"FAISCEAU ARRIERE","nature":"","applicability":"2 PORTES AR","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0310"}],"kind":"pr","appl":"{(?1CVD)(%D0PB04)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003743"},[]],["thesaurus",{"type":"10","code":"003744"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["mpr",{"catal":"0252","grp":"528","grp2":"05","maj":"20111008","numfich":"502533"},[["appl",{},["{(?1CVD)(%D0PB04)}"]],["sti",{"ident":"NL502501"},[]],["img",{"numfich":"95025330","path":"/img/pr/30/9502/95025330.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003743","ref":"00006537R9","refpg":"6537 R9"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]],["pr",{"codesi":"003744","ref":"00006537Q5","refpg":"6537 Q5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(%OPTION)(DVB04)}"]],["nlcfr",{},[["livre",{},["9619360680"]]]]]],["descomp",{},[["lib",{"langue":"01"},["AR"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"004647","ref":"0000699212","refpg":"6992 12"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7 L25,5X25,5"]]]]]]]]]]]]}

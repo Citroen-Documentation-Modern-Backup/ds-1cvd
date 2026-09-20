@@ -1,18 +1,1 @@
-{
- "ref": "025208934415",
- "refDisplay": "0252 08 934415",
- "title": "BANQUETTE ARRIERE - MATELASSURE - COIFFE",
- "nature": "",
- "applicability": "FAMILIALE JUSQU’A OPR 05258",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0231"
-  }
- ]
-}
+{"ref":"025208934415","refDisplay":"0252 08 934415","title":"BANQUETTE ARRIERE - MATELASSURE - COIFFE","nature":"","applicability":"FAMILIALE JUSQU’A OPR 05258","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0231"}],"kind":"pr","appl":"{(?1CVD)(%B0JA5)/($,,1,05258)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"016982"},[]],["thesaurus",{"type":"10","code":"016983"},[]],["thesaurus",{"type":"10","code":"005637"},[]],["mpr",{"catal":"0252","grp":"437","grp2":"08","maj":"20111008","numfich":"934415"},[["appl",{},["{(?1CVD)(%B0JA5)/($,,1,05258)/}"]],["sti",{"ident":"NL934401"},[]],["enssup",{},[["refd",{},["JERSEY UNI + TEP"]]]],["img",{"numfich":"99344150","path":"/img/pr/50/9934/99344150.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"016982","obsnfp":"NFP","ref":"95609732","refpg":"95 609 732"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($,,1,05655)/}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"016983","obsnfp":"NFP","ref":"95609731","refpg":"95 609 731"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($,,1,05655)/}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"005637","ref":"95630385","refpg":"95 630 385"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]]]]]]}

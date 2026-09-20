@@ -1,18 +1,1 @@
-{
- "ref": "025205564410",
- "refDisplay": "0252 05 564410",
- "title": "LAVE PROJECTEUR",
- "nature": "",
- "applicability": "(S) SUEDE ET (N) NORVEGE ET (SF) FINLANDE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0321"
-  }
- ]
-}
+{"ref":"025205564410","refDisplay":"0252 05 564410","title":"LAVE PROJECTEUR","nature":"","applicability":"(S) SUEDE ET (N) NORVEGE ET (SF) FINLANDE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0321"}],"kind":"pr","appl":"{(?1CVD)(B0H09)(B0H08)(B0H07)}","tree":["document",{},[["thesaurus",{"type":"10","code":"005158"},[]],["thesaurus",{"type":"10","code":"002814"},[]],["thesaurus",{"type":"10","code":"002409"},[]],["thesaurus",{"type":"10","code":"002655"},[]],["thesaurus",{"type":"10","code":"005855"},[]],["thesaurus",{"type":"10","code":"006080"},[]],["thesaurus",{"type":"10","code":"004650"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["mpr",{"catal":"0252","grp":"383","grp2":"05","maj":"20111008","numfich":"564410"},[["appl",{},["{(?1CVD)(B0H09)(B0H08)(B0H07)}"]],["sti",{"ident":"NL564401"},[]],["img",{"numfich":"95644100","path":"/img/pr/00/9564/95644100.jpg","ext":"jpg"},[]],["repere",{"rep":"02"},[["pr",{"codesi":"005158","obsnfp":"NFP","ref":"95548220","refpg":"95 548 220"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"002814","ref":"0000643442","refpg":"6434 42"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(B0H09)}"]]]]]],["pr",{"codesi":"002814","obsnfp":"NFP","ref":"5416444","refpg":"5 416 444"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(B0H08)(B0H07)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"002409","ref":"0000643511","refpg":"6435 11"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"002655","obsnfp":"NFP","ref":"95570980","refpg":"95 570 980"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"005855","obsnfp":"NFP","ref":"95554023","refpg":"95 554 023"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["ENS"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"006080","obsnfp":"NFP","ref":"26141629","refpg":"26 141 629"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 151,5 LARG 8"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004650","ref":"00006981N2","refpg":"6981 N2"},[["pmont",{"coef":"06"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 12 A 22 LARG 9"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"004647","ref":"0000698679","refpg":"6986 79"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(DCD06)}"]]]],["descomp",{},[["lib",{"langue":"01"},["1T 6,2"]]]]]]]]]]]]}

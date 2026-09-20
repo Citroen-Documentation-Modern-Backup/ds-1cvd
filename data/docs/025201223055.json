@@ -1,18 +1,1 @@
-{
- "ref": "025201223055",
- "refDisplay": "0252 01 223055",
- "title": "CARTER HUILE-JAUGE-CARTOUCHE-REMPLISSAGE",
- "nature": "",
- "applicability": "DIESEL XUD7 JUSQU’A OPR 03606",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0008"
-  }
- ]
-}
+{"ref":"025201223055","refDisplay":"0252 01 223055","title":"CARTER HUILE-JAUGE-CARTOUCHE-REMPLISSAGE","nature":"","applicability":"DIESEL XUD7 JUSQU’A OPR 03606","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0008"}],"kind":"pr","appl":"{(?1CVD)(B0F5A)/($,,1,03606)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000235"},[]],["thesaurus",{"type":"10","code":"000698"},[]],["thesaurus",{"type":"10","code":"004650"},[]],["mpr",{"catal":"0252","grp":"33","grp2":"01","maj":"20111008","numfich":"223055"},[["appl",{},["{(?1CVD)(B0F5A)/($,,1,03606)/}"]],["sti",{"ident":"NL223001"},[]],["img",{"numfich":"92230550","path":"/img/pr/50/9223/92230550.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000235","obsnfp":"NFP","ref":"0000118028","refpg":"1180 28"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000698","obsnfp":"NFP","ref":"93502239","refpg":"93 502 239"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($,,1,03090)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 20,5 X21,5"]]]]]],["pr",{"codesi":"000698","obsnfp":"NFP","ref":"0000119229","refpg":"1192 29"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($1,03091,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 14,5X20,5"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000698","obsnfp":"NFP","ref":"93502387","refpg":"93 502 387"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($,,1,03090)/}"]]]]]],["pr",{"codesi":"000698","obsnfp":"NFP","ref":"0000119231","refpg":"1192 31"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($1,03092,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 26 ET DIAM 28"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000698","obsnfp":"NFP","ref":"0000119230","refpg":"1192 30"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 19,5 ET 23,5"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004650","ref":"00006981N3","refpg":"6981 N3"},[["pmont",{"coef":"05"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 20 A 35 LARG 9"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004650","ref":"00006981L0","refpg":"6981 L0"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 25-47 LARG 9"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "025208982010",
- "refDisplay": "0252 08 982010",
- "title": "GARNITURE DE PAVILLON",
- "nature": "",
- "applicability": "FAMILIALE SAUF CLUB SAUF RD SAUF TOP SAUF CUMBRE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0235"
-  }
- ]
-}
+{"ref":"025208982010","refDisplay":"0252 08 982010","title":"GARNITURE DE PAVILLON","nature":"","applicability":"FAMILIALE SAUF CLUB SAUF RD SAUF TOP SAUF CUMBRE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0235"}],"kind":"pr","appl":"{(?1CVD)(%B0JA5)[(%CLUB)][(%RD)][(%TOP)][(%CUMBRE)]}","tree":["document",{},[["thesaurus",{"type":"10","code":"003769"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["thesaurus",{"type":"10","code":"003574"},[]],["thesaurus",{"type":"10","code":"004312"},[]],["thesaurus",{"type":"10","code":"003820"},[]],["thesaurus",{"type":"21","code":"L0992591"},[]],["mpr",{"catal":"0252","grp":"443","grp2":"08","maj":"20111008","numfich":"982010"},[["appl",{},["{(?1CVD)(%B0JA5)[(%CLUB)][(%RD)][(%TOP)][(%CUMBRE)]}"]],["sti",{"ident":"NL982001"},[]],["img",{"numfich":"99820100","path":"/img/pr/00/9982/99820100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003769","ref":"96062153VQ","refpg":"96 062 153 VQ"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($,,1,04445)/}"]],["obsligne",{"ident":"L0992591"},[]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(%L1)/($1,04446,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["AV"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004647","ref":"00006992C6","refpg":"6992 C6"},[["pmont",{"coef":"08"},[["appl",{},["{(?1CVD)/($,,1,03656)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 20"]]]]]],["pr",{"codesi":"003574","obsnfp":"NFP","ref":"95499206","refpg":"95 499 206"},[["pmont",{"coef":"08"},[["appl",{},["{(?1CVD)/($1,03657,1,04383)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6,2/30"]]]]]],["pr",{"codesi":"004312","ref":"96140130VQ","refpg":"96 140 130 VQ"},[["pmont",{"coef":"08"},[["appl",{},["{(?1CVD)/($1,04384,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6,2 L 24,6"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"003820","obsnfp":"NFP","ref":"95536352","refpg":"95 536 352"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($,,1,04445)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 51 X 25,5 - 19"]]]]]],["pr",{"codesi":"003820","obsnfp":"NFP","ref":"95536352VQ","refpg":"95 536 352 VQ"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($1,04446,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 51 X 25,5 -19"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "025207748730",
- "refDisplay": "0252 07 748730",
- "title": "VITRES DE PANNEAUX DE COTE",
- "nature": "",
- "applicability": "CABINE APPROFONDIE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0130"
-  }
- ]
-}
+{"ref":"025207748730","refDisplay":"0252 07 748730","title":"VITRES DE PANNEAUX DE COTE","nature":"","applicability":"CABINE APPROFONDIE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0130"}],"kind":"pr","appl":"{(?1CVD)(DCA03)}","tree":["document",{},[["thesaurus",{"type":"7","code":"C001-"},[]],["thesaurus",{"type":"10","code":"006817"},[]],["thesaurus",{"type":"10","code":"004126"},[]],["thesaurus",{"type":"10","code":"004054"},[]],["thesaurus",{"type":"10","code":"003985"},[]],["thesaurus",{"type":"10","code":"006368"},[]],["thesaurus",{"type":"10","code":"008600"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"0252","grp":"346","grp2":"07","maj":"20111008","numfich":"748730"},[["appl",{},["{(?1CVD)(DCA03)}"]],["sti",{"ident":"NL748701"},[]],["img",{"numfich":"97487300","path":"/img/pr/00/9748/97487300.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006817","ref":"95667831","refpg":"95 667 831"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LAT"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"004126","ref":"00008569F8","refpg":"8569 F8"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"004054","ref":"0000857596","refpg":"8575 96"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]],["complpr",{"matiere":"C001-"},[]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"003985","ref":"0000857597","refpg":"8575 97"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]],["complpr",{"matiere":"C001-"},[]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"006368","cote":"G","ref":"00008569E7","refpg":"8569 E7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]],["pr",{"codesi":"006368","cote":"D","ref":"00008569E8","refpg":"8569 E8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"004054","ref":"95592632","refpg":"95 592 632"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LON 1830"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"008600","ref":"0000857242","refpg":"8572 42"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]]]]]]}

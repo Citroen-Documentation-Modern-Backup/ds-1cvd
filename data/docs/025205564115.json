@@ -1,18 +1,1 @@
-{
- "ref": "025205564115",
- "refDisplay": "0252 05 564115",
- "title": "LAVE VITRE AVANT - ARRIERE",
- "nature": "",
- "applicability": "GAZOLE DEPUIS OPR 03229 JUSQU’A OPR 06413",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0321"
-  }
- ]
-}
+{"ref":"025205564115","refDisplay":"0252 05 564115","title":"LAVE VITRE AVANT - ARRIERE","nature":"","applicability":"GAZOLE DEPUIS OPR 03229 JUSQU’A OPR 06413","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0321"}],"kind":"pr","appl":"{(?1CVD)(DCD06)/($1,03229,1,06413)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"002867"},[]],["thesaurus",{"type":"10","code":"002814"},[]],["thesaurus",{"type":"10","code":"005222"},[]],["thesaurus",{"type":"10","code":"002976"},[]],["thesaurus",{"type":"10","code":"002655"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"006142"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["mpr",{"catal":"0252","grp":"385","grp2":"05","maj":"20111008","numfich":"564115"},[["appl",{},["{(?1CVD)(DCD06)/($1,03229,1,06413)/}"]],["sti",{"ident":"NL564101"},[]],["img",{"numfich":"95641150","path":"/img/pr/50/9564/95641150.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002867","obsnfp":"NFP","ref":"0000643182","refpg":"6431 82"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002814","ref":"0000643422","refpg":"6434 22"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"005222","obsnfp":"NFP","ref":"95579142","refpg":"95 579 142"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"002976","ref":"0000643950","refpg":"6439 50"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["4X6-4500 CL"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"002655","ref":"95493882","refpg":"95 493 882"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AV"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"002976","obsnfp":"NFP","ref":"26235719","refpg":"26 235 719"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 700"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004675","ref":"0000691826","refpg":"6918 26"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 5X80-16"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"006142","ref":"0000693639","refpg":"6936 39"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["5 X 80 - 4 - 8"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"004647","ref":"0000698679","refpg":"6986 79"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["1T 6,2"]]]]]]]]]]]]}

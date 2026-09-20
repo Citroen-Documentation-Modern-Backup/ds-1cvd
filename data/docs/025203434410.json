@@ -1,18 +1,1 @@
-{
- "ref": "025203434410",
- "refDisplay": "0252 03 434410",
- "title": "BRAS DE SUSPENSION ARRIERE",
- "nature": "",
- "applicability": "ESSENCE ET XV8 ET XW7 ET XY7 JUSQU’A OPR 03978",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0030"
-  }
- ]
-}
+{"ref":"025203434410","refDisplay":"0252 03 434410","title":"BRAS DE SUSPENSION ARRIERE","nature":"","applicability":"ESSENCE ET XV8 ET XW7 ET XY7 JUSQU’A OPR 03978","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0030"}],"kind":"pr","appl":"{(?1CVD)(DCD10)(%XV8)(%XW7)(%XY7)/($,,1,03978)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"001873"},[]],["thesaurus",{"type":"10","code":"001278"},[]],["thesaurus",{"type":"10","code":"002137"},[]],["thesaurus",{"type":"10","code":"005905"},[]],["thesaurus",{"type":"10","code":"001151"},[]],["thesaurus",{"type":"10","code":"002019"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"0252","grp":"157","grp2":"03","maj":"20111008","numfich":"434410"},[["appl",{},["{(?1CVD)(DCD10)(%XV8)(%XW7)(%XY7)/($,,1,03978)/}"]],["sti",{"ident":"NL434401"},[]],["img",{"numfich":"94344100","path":"/img/pr/00/9434/94344100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001873","cote":"G","ref":"91510736","refpg":"91 510 736"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]],["pr",{"codesi":"001873","cote":"D","ref":"91510737","refpg":"91 510 737"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001278","ref":"95616020","refpg":"95 616 020"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"002137","ref":"95588632","refpg":"95 588 632"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"005905","ref":"95565794","refpg":"95 565 794"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["32X34-2"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"001151","obsnfp":"NFP","ref":"0000372614","refpg":"3726 14"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 47,3 EXT 75"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"002019","ref":"91513524","refpg":"91 513 524"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004675","obsnfp":"NFP","ref":"0000580408","refpg":"5804 08"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-25"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004667","ref":"0000694778","refpg":"6947 78"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X16-1,5"]]]]]]]]]]]]}

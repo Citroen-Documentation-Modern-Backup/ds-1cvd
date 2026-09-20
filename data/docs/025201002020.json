@@ -1,18 +1,1 @@
-{
- "ref": "025201002020",
- "refDisplay": "0252 01 002020",
- "title": "ENSEMBLE MOTEUR",
- "nature": "",
- "applicability": "ESSENCE ET 1,360L JUSQU’A OPR 03978",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0049"
-  }
- ]
-}
+{"ref":"025201002020","refDisplay":"0252 01 002020","title":"ENSEMBLE MOTEUR","nature":"","applicability":"ESSENCE ET 1,360L JUSQU’A OPR 03978","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0049"}],"kind":"pr","appl":"{(?1CVD)(DCD10)(%B0F136)/($,,1,03978)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"013644"},[]],["thesaurus",{"type":"22","code":"P0011149"},[]],["mpr",{"catal":"0252","grp":"4","grp2":"01","maj":"20120313","numfich":"002020"},[["appl",{},["{(?1CVD)(DCD10)(%B0F136)/($,,1,03978)/}"]],["sti",{"ident":"T0058544"},[]],["obspage",{"ident":"P0011149"},[]],["img",{"numfich":"00004099","path":"/img/pr/99/0000/00004099.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"013644","obsnfp":"NFP","ref":"9561906480","refpg":"95 619 064 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(B0H05)(B0H09)}"]]]],["descomp",{},[["lib",{"langue":"01"},["REP KAZ TAUX 8,4"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"316, 119, 11","shape":"circle"},[]]]]]]]]]]}

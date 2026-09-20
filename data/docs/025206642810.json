@@ -1,18 +1,1 @@
-{
- "ref": "025206642810",
- "refDisplay": "0252 06 642810",
- "title": "COMMANDE DE CHAUFFAGE ET D’AERATION",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0347"
-  }
- ]
-}
+{"ref":"025206642810","refDisplay":"0252 06 642810","title":"COMMANDE DE CHAUFFAGE ET D’AERATION","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0347"}],"kind":"pr","appl":"{(?1CVD)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003908"},[]],["thesaurus",{"type":"10","code":"006120"},[]],["thesaurus",{"type":"10","code":"003620"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["thesaurus",{"type":"10","code":"010757"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["mpr",{"catal":"0252","grp":"463","grp2":"06","maj":"20111008","numfich":"642810"},[["appl",{},["{(?1CVD)}"]],["sti",{"ident":"NL642801"},[]],["img",{"numfich":"96428100","path":"/img/pr/00/9642/96428100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003908","ref":"95610803XX","refpg":"95 610 803 XX"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"006120","ref":"95603882","refpg":"95 603 882"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 710"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"006120","ref":"95603881","refpg":"95 603 881"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 400"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"003620","ref":"95601185XX","refpg":"95 601 185 XX"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004647","obsnfp":"NFP","ref":"7903076124","refpg":"79 03 076 124"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["L 25X10118"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"010757","ref":"0000691091","refpg":"6910 91"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 4,2-13"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"004667","ref":"00006924H7","refpg":"6924 H7"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["5,25X10-1"]]]]]]]]]]]]}

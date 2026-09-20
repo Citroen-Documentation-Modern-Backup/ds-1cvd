@@ -1,18 +1,1 @@
-{
- "ref": "025205502532",
- "refDisplay": "0252 05 502532",
- "title": "FAISCEAU ARRIERE",
- "nature": "",
- "applicability": "ESSUIE-VITRE AR",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0310"
-  }
- ]
-}
+{"ref":"025205502532","refDisplay":"0252 05 502532","title":"FAISCEAU ARRIERE","nature":"","applicability":"ESSUIE-VITRE AR","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0310"}],"kind":"pr","appl":"{(?1CVD)(DNC05)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003739"},[]],["thesaurus",{"type":"10","code":"005242"},[]],["thesaurus",{"type":"10","code":"005933"},[]],["thesaurus",{"type":"10","code":"003763"},[]],["thesaurus",{"type":"21","code":"L0988350"},[]],["thesaurus",{"type":"21","code":"L0988351"},[]],["thesaurus",{"type":"21","code":"L0988352"},[]],["mpr",{"catal":"0252","grp":"528","grp2":"05","maj":"20111008","numfich":"502532"},[["appl",{},["{(?1CVD)(DNC05)}"]],["sti",{"ident":"NL502501"},[]],["img",{"numfich":"95025320","path":"/img/pr/20/9502/95025320.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003739","ref":"96008148","refpg":"96 008 148"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(%TDE01)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"005242","ref":"96008151","refpg":"96 008 151"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["obsligne",{"ident":"L0988350"},[]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"005933","obsnfp":"NFP","ref":"96008152","refpg":"96 008 152"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["obsligne",{"ident":"L0988351"},[]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"005933","obsnfp":"NFP","ref":"96008153","refpg":"96 008 153"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["obsligne",{"ident":"L0988352"},[]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"003763","ref":"96021046","refpg":"96 021 046"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]]]]]]}

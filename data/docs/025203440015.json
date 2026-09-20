@@ -1,18 +1,1 @@
-{
- "ref": "025203440015",
- "refDisplay": "0252 03 440015",
- "title": "POMPE D’ASSISTANCE DE DIRECTION",
- "nature": "",
- "applicability": "DIESEL DW8B ET DIRECTION ASSISTEE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0339"
-  }
- ]
-}
+{"ref":"025203440015","refDisplay":"0252 03 440015","title":"POMPE D’ASSISTANCE DE DIRECTION","nature":"","applicability":"DIESEL DW8B ET DIRECTION ASSISTEE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0339"}],"kind":"pr","appl":"{(?1CVD)(B0F7H)(DDD02)}","tree":["document",{},[["thesaurus",{"type":"6","code":"GR-"},[]],["thesaurus",{"type":"10","code":"008374"},[]],["thesaurus",{"type":"10","code":"001660"},[]],["thesaurus",{"type":"10","code":"001029"},[]],["thesaurus",{"type":"10","code":"003883"},[]],["thesaurus",{"type":"10","code":"006142"},[]],["thesaurus",{"type":"10","code":"010753"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["mpr",{"catal":"0252","grp":"227","grp2":"03","maj":"20111008","numfich":"440015"},[["appl",{},["{(?1CVD)(B0F7H)(DDD02)}"]],["sti",{"ident":"NL440001"},[]],["img",{"numfich":"94400150","path":"/img/pr/50/9440/94400150.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"008374","ref":"00004007S3","refpg":"4007 S3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001660","ref":"000040090A","refpg":"4009 0A"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001660","ref":"00004009A9","refpg":"4009 A9"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"001029","ref":"0000401895","refpg":"4018 95"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"003883","ref":"00006555VL","refpg":"6555 VL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["complpr",{"couleur":"GR-"},[]]]],["descomp",{},[["lib",{"langue":"01"},["45 AMP"]]]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"006142","ref":"0000693509","refpg":"6935 09"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-7,3-13"]]]]]]]],["repere",{"rep":"71"},[["pr",{"codesi":"010753","ref":"0000691376","refpg":"6913 76"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-16"]]]]]]]],["repere",{"rep":"72"},[["pr",{"codesi":"004647","ref":"00006995CW","refpg":"6995 CW"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X12-0,7-4"]]]]]]]]]]]]}

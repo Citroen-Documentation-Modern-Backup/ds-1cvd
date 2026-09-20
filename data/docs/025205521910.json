@@ -1,18 +1,1 @@
-{
- "ref": "025205521910",
- "refDisplay": "0252 05 521910",
- "title": "INTERRUPTEURS CONSOLE - PLANCHE DE BORD",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0212"
-  }
- ]
-}
+{"ref":"025205521910","refDisplay":"0252 05 521910","title":"INTERRUPTEURS CONSOLE - PLANCHE DE BORD","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0212"}],"kind":"pr","appl":"{(?1CVD)}","tree":["document",{},[["thesaurus",{"type":"10","code":"005386"},[]],["thesaurus",{"type":"10","code":"005384"},[]],["thesaurus",{"type":"10","code":"003786"},[]],["thesaurus",{"type":"10","code":"003819"},[]],["thesaurus",{"type":"10","code":"006053"},[]],["thesaurus",{"type":"21","code":"L0988465"},[]],["thesaurus",{"type":"21","code":"L0988466"},[]],["mpr",{"catal":"0252","grp":"413","grp2":"05","maj":"20111008","numfich":"521910"},[["appl",{},["{(?1CVD)}"]],["sti",{"ident":"NL521901"},[]],["img",{"numfich":"95219100","path":"/img/pr/00/9521/95219100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005386","ref":"95605675","refpg":"95 605 675"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"005384","ref":"97516088","refpg":"97 516 088"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($,,1,10100)/}"]]]]]],["pr",{"codesi":"005384","ref":"00006554JW","refpg":"6554 JW"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($1,10101,,)/}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"003786","ref":"95604902","refpg":"95 604 902"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["obsligne",{"ident":"L0988465"},[]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"003786","ref":"97516086","refpg":"97 516 086"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["obsligne",{"ident":"L0988466"},[]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"003819","obsnfp":"NFP","ref":"97500970XX","refpg":"97 500 970 XX"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["D'INTERRUPT DIAM 28"]]]]]]]],["repere",{"rep":"56"},[["pr",{"codesi":"006053","ref":"96111768","refpg":"96 111 768"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(DNA01)(%B0HXT)}"]]]]]]]]]]]]}

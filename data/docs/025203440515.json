@@ -1,18 +1,1 @@
-{
- "ref": "025203440515",
- "refDisplay": "0252 03 440515",
- "title": "CANALISATIONS D’ASSISTANCE DE DIRECTION",
- "nature": "",
- "applicability": "DIRECTION ASSISTEE ET DIESEL DW8B",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0339"
-  }
- ]
-}
+{"ref":"025203440515","refDisplay":"0252 03 440515","title":"CANALISATIONS D’ASSISTANCE DE DIRECTION","nature":"","applicability":"DIRECTION ASSISTEE ET DIESEL DW8B","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0339"}],"kind":"pr","appl":"{(?1CVD)(DDD02)(B0F7H)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001260"},[]],["thesaurus",{"type":"10","code":"001719"},[]],["thesaurus",{"type":"10","code":"005968"},[]],["mpr",{"catal":"0252","grp":"226","grp2":"03","maj":"20111008","numfich":"440515"},[["appl",{},["{(?1CVD)(DDD02)(B0F7H)}"]],["sti",{"ident":"NL440501"},[]],["img",{"numfich":"94405150","path":"/img/pr/50/9440/94405150.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001260","ref":"00004020Q5","refpg":"4020 Q5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(DCX01)}"]]]]]],["pr",{"codesi":"001260","ref":"000040140G","refpg":"4014 0G"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(DCX02)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001719","ref":"0000401324","refpg":"4013 24"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(DCX01)}"]]]]]],["pr",{"codesi":"001719","ref":"0000401325","refpg":"4013 25"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(DCX02)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001719","ref":"0000401326","refpg":"4013 26"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"005968","ref":"00006982C0","refpg":"6982 C0"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["14,5"]]]]]]]]]]]]}

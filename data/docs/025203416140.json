@@ -1,18 +1,1 @@
-{
- "ref": "025203416140",
- "refDisplay": "0252 03 416140",
- "title": "ROUES",
- "nature": "",
- "applicability": "GAZOLE ET XUD7 ET DIESEL DW8B",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0023"
-  }
- ]
-}
+{"ref":"025203416140","refDisplay":"0252 03 416140","title":"ROUES","nature":"","applicability":"GAZOLE ET XUD7 ET DIESEL DW8B","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0023"}],"kind":"pr","appl":"{(?1CVD)(DCD06)(%XUD7)(B0F7H)}","tree":["document",{},[["thesaurus",{"type":"6","code":"FTJ-"},[]],["thesaurus",{"type":"6","code":"FXX-"},[]],["thesaurus",{"type":"10","code":"002262"},[]],["thesaurus",{"type":"10","code":"002359"},[]],["thesaurus",{"type":"10","code":"002346"},[]],["thesaurus",{"type":"10","code":"001861"},[]],["mpr",{"catal":"0252","grp":"141","grp2":"03","maj":"20111008","numfich":"416140"},[["appl",{},["{(?1CVD)(DCD06)(%XUD7)(B0F7H)}"]],["sti",{"ident":"NL416101"},[]],["img",{"numfich":"94161400","path":"/img/pr/00/9416/94161400.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002262","ref":"96014618","refpg":"96 014 618"},[["pmont",{"coef":"05"},[["appl",{},["{(?1CVD)}"]],["complpr",{"couleur":"FTJ-"},[]]]],["descomp",{},[["lib",{"langue":"01"},["450B13FHC 4 30"]]]]]],["pr",{"codesi":"002262","ref":"00005401A6","refpg":"5401 A6"},[["pmont",{"coef":"05"},[["appl",{},["{(?1CVD)(%E)}"]],["complpr",{"couleur":"FXX-"},[]]]],["descomp",{},[["lib",{"langue":"01"},["4,50 B13 FH 4-30"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002359","ref":"0000540535","refpg":"5405 35"},[["pmont",{"coef":"16"},[["appl",{},["{(?1CVD)/($,,1,09435)/}"]],["complpr",{"couleur":"FXX-"},[]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 12X125-52,8"]]]]]],["pr",{"codesi":"002359","ref":"0000540566","refpg":"5405 66"},[["pmont",{"coef":"16"},[["appl",{},["{(?1CVD)/($1,09436,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["12X125"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"002346","ref":"0000540401","refpg":"5404 01"},[["pmont",{"coef":"05"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"001861","ref":"0000540402","refpg":"5404 02"},[["pmont",{"coef":"05"},[["appl",{},["{(?1CVD)}"]]]]]]]]]]]]}

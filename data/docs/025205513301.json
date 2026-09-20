@@ -1,18 +1,1 @@
-{
- "ref": "025205513301",
- "refDisplay": "0252 05 513301",
- "title": "PRISE DE DIAGNOSTIC",
- "nature": "",
- "applicability": " JUSQU’A OPR 03326",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0013"
-  }
- ]
-}
+{"ref":"025205513301","refDisplay":"0252 05 513301","title":"PRISE DE DIAGNOSTIC","nature":"","applicability":" JUSQU’A OPR 03326","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0013"}],"kind":"pr","appl":"{(?1CVD)/($,,1,03326)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"002015"},[]],["thesaurus",{"type":"10","code":"004682"},[]],["thesaurus",{"type":"22","code":"P0004485"},[]],["mpr",{"catal":"0252","grp":"47","grp2":"05","maj":"20111008","numfich":"513301"},[["appl",{},["{(?1CVD)/($,,1,03326)/}"]],["sti",{"ident":"NL513301"},[]],["obspage",{"ident":"P0004485"},[]],["img",{"numfich":"95133010","path":"/img/pr/10/9513/95133010.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002015","obsnfp":"NFP","ref":"91520002","refpg":"91 520 002"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(DCD10)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004682","ref":"0000691315","refpg":"6913 15"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-12"]]]],["prremp",{"coef":"01","palges":"P","ref":"0000691306","refpg":"6913 06"},[]]]]]]]]]]}

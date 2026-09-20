@@ -1,18 +1,1 @@
-{
- "ref": "025206175601",
- "refDisplay": "0252 06 175601",
- "title": "DEPOLLUTION",
- "nature": "",
- "applicability": "ESSENCE ET 1,360L ET (A) AUTRICHE ET (CH) SUISSE ET (S) SUEDE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0012"
-  }
- ]
-}
+{"ref":"025206175601","refDisplay":"0252 06 175601","title":"DEPOLLUTION","nature":"","applicability":"ESSENCE ET 1,360L ET (A) AUTRICHE ET (CH) SUISSE ET (S) SUEDE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0012"}],"kind":"pr","appl":"{(?1CVD)(DCD10)(%B0F136)(B0H06)(B0H05)(B0H09)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000627"},[]],["thesaurus",{"type":"10","code":"015515"},[]],["mpr",{"catal":"0252","grp":"54","grp2":"06","maj":"20111008","numfich":"175601"},[["appl",{},["{(?1CVD)(DCD10)(%B0F136)(B0H06)(B0H05)(B0H09)}"]],["sti",{"ident":"NL175601"},[]],["img",{"numfich":"91756010","path":"/img/pr/10/9175/91756010.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000627","obsnfp":"NFP","ref":"00001628L4","refpg":"1628 L4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]],["pr",{"codesi":"015515","ref":"E144001","refpg":"E144001","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]]]]]]}

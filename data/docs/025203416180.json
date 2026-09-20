@@ -1,18 +1,1 @@
-{
- "ref": "025203416180",
- "refDisplay": "0252 03 416180",
- "title": "ROUES",
- "nature": "",
- "applicability": "GAZOLE ET XUD7 ET DIESEL DW8B",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0023"
-  }
- ]
-}
+{"ref":"025203416180","refDisplay":"0252 03 416180","title":"ROUES","nature":"","applicability":"GAZOLE ET XUD7 ET DIESEL DW8B","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0023"}],"kind":"pr","appl":"{(?1CVD)(DCD06)(%XUD7)(B0F7H)}","tree":["document",{},[["thesaurus",{"type":"10","code":"002007"},[]],["thesaurus",{"type":"10","code":"002304"},[]],["thesaurus",{"type":"10","code":"001894"},[]],["thesaurus",{"type":"21","code":"L0985988"},[]],["thesaurus",{"type":"21","code":"L0985994"},[]],["mpr",{"catal":"0252","grp":"144","grp2":"03","maj":"20111008","numfich":"416180"},[["appl",{},["{(?1CVD)(DCD06)(%XUD7)(B0F7H)}"]],["sti",{"ident":"NL416101"},[]],["img",{"numfich":"94161800","path":"/img/pr/00/9416/94161800.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002007","ref":"95592618","refpg":"95 592 618"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002007","ref":"0000541654","refpg":"5416 54"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVD)(%E)}"]],["obsligne",{"ident":"L0985988"},[]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"002007","obsnfp":"NFP","ref":"95615899","refpg":"95 615 899"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVD)(%CLUB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 325 -GRIS"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"002304","ref":"96001012","refpg":"96 001 012"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVD)(%CLUB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 325"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"002007","obsnfp":"NFP","ref":"96065615","refpg":"96 065 615"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVD)(B0H02)/($1,06874,,)/}"]],["obsligne",{"ident":"L0985994"},[]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 342- GRIS"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"001894","ref":"0000541673","refpg":"5416 73"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVD)/($1,09429,,)/}"]]]]]]]]]]]]}

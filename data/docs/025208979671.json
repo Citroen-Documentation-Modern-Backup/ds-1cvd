@@ -1,18 +1,1 @@
-{
- "ref": "025208979671",
- "refDisplay": "0252 08 979671",
- "title": "GARNITURES INTERIEURES",
- "nature": "",
- "applicability": "FAMILIALE DEPUIS OPR 05652 SAUF CLUB SAUF RD SAUF TOP SAUF CUMBRE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0234"
-  }
- ]
-}
+{"ref":"025208979671","refDisplay":"0252 08 979671","title":"GARNITURES INTERIEURES","nature":"","applicability":"FAMILIALE DEPUIS OPR 05652 SAUF CLUB SAUF RD SAUF TOP SAUF CUMBRE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0234"}],"kind":"pr","appl":"{(?1CVD)(%B0JA5)/($1,05652,,)/[(%CLUB)][(%RD)][(%TOP)][(%CUMBRE)]}","tree":["document",{},[["thesaurus",{"type":"7","code":"C001-"},[]],["thesaurus",{"type":"7","code":"P002-"},[]],["thesaurus",{"type":"6","code":"FZJ-"},[]],["thesaurus",{"type":"10","code":"006017"},[]],["thesaurus",{"type":"10","code":"004551"},[]],["thesaurus",{"type":"10","code":"005642"},[]],["thesaurus",{"type":"10","code":"005077"},[]],["thesaurus",{"type":"10","code":"004312"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["thesaurus",{"type":"10","code":"010082"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"0252","grp":"459","grp2":"08","maj":"20111008","numfich":"979671"},[["appl",{},["{(?1CVD)(%B0JA5)/($1,05652,,)/[(%CLUB)][(%RD)][(%TOP)][(%CUMBRE)]}"]],["sti",{"ident":"NL979601"},[]],["img",{"numfich":"99796710","path":"/img/pr/10/9979/99796710.jpg","ext":"jpg"},[]],["repere",{"rep":"02"},[["pr",{"codesi":"006017","cote":"G","ref":"00008328V6","refpg":"8328 V6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["complpr",{"couleur":"FZJ-"},[]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"004551","cote":"G","ref":"95648970ZJ","refpg":"95 648 970 ZJ"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]],["pr",{"codesi":"004551","cote":"D","ref":"95648969ZJ","refpg":"95 648 969 ZJ"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"005642","ref":"95644953ZJ","refpg":"95 644 953 ZJ"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"005077","ref":"95644913","refpg":"95 644 913"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]],["complpr",{"matiere":"C001-"},[]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 160"]]]]]],["pr",{"codesi":"005077","ref":"95644912","refpg":"95 644 912"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]],["complpr",{"matiere":"C001-"},[]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 1465"]]]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"004312","ref":"95620156","refpg":"95 620 156"},[["pmont",{"coef":"08"},[["appl",{},["{(?1CVD)}"]],["complpr",{"matiere":"P002-"},[]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7,7 H 40"]]]]]]]],["repere",{"rep":"71"},[["pr",{"codesi":"004647","ref":"00007568H0","refpg":"7568 H0"},[["pmont",{"coef":"05"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7,8 X 22 - 15,2"]]]]]]]],["repere",{"rep":"72"},[["pr",{"codesi":"004647","ref":"00006992C6","refpg":"6992 C6"},[["pmont",{"coef":"06"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 20"]]]]]]]],["repere",{"rep":"74"},[["pr",{"codesi":"010082","ref":"0000698306","refpg":"6983 06"},[["pmont",{"coef":"05"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 10,5 - 14,5"]]]]]]]]]]]]}

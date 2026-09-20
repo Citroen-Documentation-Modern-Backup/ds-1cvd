@@ -1,18 +1,1 @@
-{
- "ref": "025202170075A",
- "refDisplay": "0252 02 170075A",
- "title": "FILTRE AIR RACCORD RESONATEUR AIR",
- "nature": "",
- "applicability": "DIESEL DW8B",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"025202170075A","refDisplay":"0252 02 170075A","title":"FILTRE AIR RACCORD RESONATEUR AIR","nature":"","applicability":"DIESEL DW8B","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CVD)(B0F7H)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000323"},[]],["thesaurus",{"type":"10","code":"000276"},[]],["thesaurus",{"type":"10","code":"014170"},[]],["thesaurus",{"type":"10","code":"015853"},[]],["thesaurus",{"type":"10","code":"000862"},[]],["thesaurus",{"type":"10","code":"000876"},[]],["thesaurus",{"type":"10","code":"000678"},[]],["thesaurus",{"type":"10","code":"000183"},[]],["thesaurus",{"type":"10","code":"006142"},[]],["thesaurus",{"type":"10","code":"004650"},[]],["mpr",{"catal":"0252","grp":"25","grp2":"02","maj":"20111207","numfich":"170075A"},[["appl",{},["{(?1CVD)(B0F7H)}"]],["sti",{"ident":"T0058813"},[]],["img",{"numfich":"9170075a","path":"/img/pr/5a/9170/9170075a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000323","ref":"00001427H9","refpg":"1427 H9"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000276","ref":"00001444G1","refpg":"1444 G1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["prremp",{"coef":"01","palges":"P","ref":"00001444WH","refpg":"1444 WH"},[]]]],["pr",{"codesi":"014170","ref":"E147008","refpg":"E147008","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]],["pr",{"codesi":"015853","ref":"VFA704","refpg":"VFA704","typecommercial":"MOTAQUIP"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000862","ref":"0000143661","refpg":"1436 61"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 10"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000876","ref":"000014245N","refpg":"1424 5N"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 65-70 LG 60"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"000678","ref":"0000144002","refpg":"1440 02"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 73-56"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"000183","ref":"0000144003","refpg":"1440 03"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 50"]]]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"006142","ref":"00006936C9","refpg":"6936 C9"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X100"]]]]]]]],["repere",{"rep":"71"},[["pr",{"codesi":"004650","ref":"00006981J8","refpg":"6981 J8"},[["pmont",{"coef":"05"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 70-90 LARG 9"]]]]]]]]]]]]}

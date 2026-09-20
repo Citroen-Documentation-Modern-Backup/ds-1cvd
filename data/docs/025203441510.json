@@ -1,18 +1,1 @@
-{
- "ref": "025203441510",
- "refDisplay": "0252 03 441510",
- "title": "ANTIVOL DE DIRECTION",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0036"
-  }
- ]
-}
+{"ref":"025203441510","refDisplay":"0252 03 441510","title":"ANTIVOL DE DIRECTION","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0036"}],"kind":"pr","appl":"{(?1CVD)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000918"},[]],["thesaurus",{"type":"10","code":"006573"},[]],["thesaurus",{"type":"10","code":"004674"},[]],["thesaurus",{"type":"10","code":"004669"},[]],["thesaurus",{"type":"21","code":"L0986828"},[]],["thesaurus",{"type":"21","code":"L0986829"},[]],["mpr",{"catal":"0252","grp":"223","grp2":"03","maj":"20111008","numfich":"441510"},[["appl",{},["{(?1CVD)}"]],["sti",{"ident":"NL441501"},[]],["img",{"numfich":"94415100","path":"/img/pr/00/9441/94415100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000918","ref":"00004162V1","refpg":"4162 V1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["obsligne",{"ident":"L0986828"},[]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"006573","ref":"00004162W8","refpg":"4162 W8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(%PRECIS)}"]],["obsligne",{"ident":"L0986829"},[]]]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"004674","ref":"0000690569","refpg":"6905 69"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 4X70-7"]]]]]]]],["repere",{"rep":"71"},[["pr",{"codesi":"004669","ref":"0000695854","refpg":"6958 54"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["4,2X8-0,5"]]]]]]]]]]]]}

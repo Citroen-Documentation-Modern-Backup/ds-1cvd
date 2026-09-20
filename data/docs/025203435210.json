@@ -1,18 +1,1 @@
-{
- "ref": "025203435210",
- "refDisplay": "0252 03 435210",
- "title": "BARRE ANTI DEVERS - BIELLETTE",
- "nature": "",
- "applicability": "ESSENCE ET XV8 ET XW7 ET XY7 JUSQU’A OPR 03978",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0029"
-  }
- ]
-}
+{"ref":"025203435210","refDisplay":"0252 03 435210","title":"BARRE ANTI DEVERS - BIELLETTE","nature":"","applicability":"ESSENCE ET XV8 ET XW7 ET XY7 JUSQU’A OPR 03978","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0029"}],"kind":"pr","appl":"{(?1CVD)(DCD10)(%XV8)(%XW7)(%XY7)/($,,1,03978)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"002148"},[]],["thesaurus",{"type":"10","code":"002240"},[]],["thesaurus",{"type":"10","code":"004659"},[]],["thesaurus",{"type":"10","code":"004682"},[]],["thesaurus",{"type":"10","code":"004668"},[]],["mpr",{"catal":"0252","grp":"153","grp2":"03","maj":"20111008","numfich":"435210"},[["appl",{},["{(?1CVD)(DCD10)(%XV8)(%XW7)(%XY7)/($,,1,03978)/}"]],["sti",{"ident":"NL435201"},[]],["img",{"numfich":"94352100","path":"/img/pr/00/9435/94352100.jpg","ext":"jpg"},[]],["repere",{"rep":"03"},[["pr",{"codesi":"002148","ref":"0000509428","refpg":"5094 28"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 23"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"002240","obsnfp":"NFP","ref":"91503310","refpg":"91 503 310"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 20,5X48,2E10"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004659","obsnfp":"NFP","ref":"22601009","refpg":"22 601 009"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["3X35"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004682","ref":"00006913J4","refpg":"6913 J4"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 10X150-70"]]]],["prremp",{"coef":"01","palges":"P","ref":"0000691356","refpg":"6913 56"},[]]]]]],["repere",{"rep":"33"},[["pr",{"codesi":"004668","ref":"0000695307","refpg":"6953 07"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["10X18-2,5"]]]]]]]]]]]]}

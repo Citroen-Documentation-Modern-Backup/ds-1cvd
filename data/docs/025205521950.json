@@ -1,18 +1,1 @@
-{
- "ref": "025205521950",
- "refDisplay": "0252 05 521950",
- "title": "INTERRUPTEURS CONSOLE - PLANCHE DE BORD",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0216"
-  }
- ]
-}
+{"ref":"025205521950","refDisplay":"0252 05 521950","title":"INTERRUPTEURS CONSOLE - PLANCHE DE BORD","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0216"}],"kind":"pr","appl":"{(?1CVD)}","tree":["document",{},[["thesaurus",{"type":"10","code":"005912"},[]],["thesaurus",{"type":"10","code":"003819"},[]],["mpr",{"catal":"0252","grp":"415","grp2":"05","maj":"20111008","numfich":"521950"},[["appl",{},["{(?1CVD)}"]],["sti",{"ident":"NL521901"},[]],["img",{"numfich":"95219500","path":"/img/pr/00/9521/95219500.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005912","ref":"0000647531","refpg":"6475 31"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"003819","ref":"95571233","refpg":"95 571 233"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]]]]]]}

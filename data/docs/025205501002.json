@@ -1,18 +1,1 @@
-{
- "ref": "025205501002",
- "refDisplay": "0252 05 501002",
- "title": "FAISCEAU AVANT",
- "nature": "",
- "applicability": "ELECTRIQUE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"025205501002","refDisplay":"0252 05 501002","title":"FAISCEAU AVANT","nature":"","applicability":"ELECTRIQUE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CVD)(%ELECTR)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003725"},[]],["thesaurus",{"type":"10","code":"002295"},[]],["mpr",{"catal":"0252","grp":"512","grp2":"05","maj":"20111008","numfich":"501002"},[["appl",{},["{(?1CVD)(%ELECTR)}"]],["sti",{"ident":"NL501001"},[]],["img",{"numfich":"95010020","path":"/img/pr/20/9501/95010020.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003725","obsnfp":"NFP","ref":"00006502FT","refpg":"6502 FT"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"002295","obsnfp":"NFP","ref":"96138789","refpg":"96 138 789"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"11"},[["pr",{"codesi":"002295","obsnfp":"NFP","ref":"96145900","refpg":"96 145 900"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"12"},[["pr",{"codesi":"002295","obsnfp":"NFP","ref":"96146286","refpg":"96 146 286"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]]]]]]}

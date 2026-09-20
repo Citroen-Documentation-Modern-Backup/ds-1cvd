@@ -1,18 +1,1 @@
-{
- "ref": "025203440010",
- "refDisplay": "0252 03 440010",
- "title": "POMPE D’ASSISTANCE DE DIRECTION",
- "nature": "",
- "applicability": "DIRECTION ASSISTEE SAUF DIESEL DW8B",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0339"
-  }
- ]
-}
+{"ref":"025203440010","refDisplay":"0252 03 440010","title":"POMPE D’ASSISTANCE DE DIRECTION","nature":"","applicability":"DIRECTION ASSISTEE SAUF DIESEL DW8B","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0339"}],"kind":"pr","appl":"{(?1CVD)(DDD02)[(B0F7H)]}","tree":["document",{},[["thesaurus",{"type":"10","code":"001501"},[]],["thesaurus",{"type":"10","code":"001659"},[]],["thesaurus",{"type":"10","code":"001660"},[]],["thesaurus",{"type":"10","code":"005105"},[]],["thesaurus",{"type":"10","code":"014162"},[]],["thesaurus",{"type":"10","code":"001450"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["mpr",{"catal":"0252","grp":"227","grp2":"03","maj":"20111008","numfich":"440010"},[["appl",{},["{(?1CVD)(DDD02)[(B0F7H)]}"]],["sti",{"ident":"NL440001"},[]],["img",{"numfich":"94400100","path":"/img/pr/00/9440/94400100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001501","ref":"000040070F","refpg":"4007 0F"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001659","obsnfp":"NFP","ref":"0000400920","refpg":"4009 20"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001660","obsnfp":"NFP","ref":"0000400917","refpg":"4009 17"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"005105","ref":"0000456918","refpg":"4569 18"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AV 10 - LE 650"]]]]]],["pr",{"codesi":"014162","obsnfp":"NFP","ref":"E117311","refpg":"E117311","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]],["pr",{"codesi":"014162","ref":"1606331380","refpg":"16 063 313 80","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"001450","obsnfp":"NFP","ref":"0000400919","refpg":"4009 19"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["10X150"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004675","obsnfp":"NFP","ref":"0000400918","refpg":"4009 18"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["10X150-100"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"008006","ref":"0000692378","refpg":"6923 78"},[["pmont",{"coef":"08"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-25"]]]]]]]]]]]]}

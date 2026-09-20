@@ -1,18 +1,1 @@
-{
- "ref": "025204371110",
- "refDisplay": "0252 04 371110",
- "title": "TRANSMISSION",
- "nature": "",
- "applicability": "ESSENCE ET XV8 ET XW7 ET XY7 JUSQU’A OPR 03978",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0022"
-  }
- ]
-}
+{"ref":"025204371110","refDisplay":"0252 04 371110","title":"TRANSMISSION","nature":"","applicability":"ESSENCE ET XV8 ET XW7 ET XY7 JUSQU’A OPR 03978","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0022"}],"kind":"pr","appl":"{(?1CVD)(DCD10)(%XV8)(%XW7)(%XY7)/($,,1,03978)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"001702"},[]],["thesaurus",{"type":"10","code":"001223"},[]],["thesaurus",{"type":"10","code":"003231"},[]],["thesaurus",{"type":"10","code":"004654"},[]],["thesaurus",{"type":"21","code":"L0987265"},[]],["thesaurus",{"type":"21","code":"L0987268"},[]],["mpr",{"catal":"0252","grp":"132","grp2":"04","maj":"20111008","numfich":"371110"},[["appl",{},["{(?1CVD)(DCD10)(%XV8)(%XW7)(%XY7)/($,,1,03978)/}"]],["sti",{"ident":"NL371101"},[]],["enssup",{},[["fourn",{},["47228J"]]]],["img",{"numfich":"93711100","path":"/img/pr/00/9371/93711100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001702","obsnfp":"NFP","ref":"00003274C4","refpg":"3274 C4"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)(~2)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001223","obsnfp":"NFP","ref":"0000328761","refpg":"3287 61"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]],["obsligne",{"ident":"L0987265"},[]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"001223","ref":"0000329374","refpg":"3293 74"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]],["obsligne",{"ident":"L0987268"},[]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"003231","ref":"0000329907","refpg":"3299 07"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"004654","ref":"0000329714","refpg":"3297 14"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["20X150-16-50"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "025205521211",
- "refDisplay": "0252 05 521211",
- "title": "COMBINE DE BORD - FLEXIBLE DE COMPTEUR",
- "nature": "",
- "applicability": "ELECTRIQUE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0213"
-  }
- ]
-}
+{"ref":"025205521211","refDisplay":"0252 05 521211","title":"COMBINE DE BORD - FLEXIBLE DE COMPTEUR","nature":"","applicability":"ELECTRIQUE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0213"}],"kind":"pr","appl":"{(?1CVD)(%ELECTR)}","tree":["document",{},[["thesaurus",{"type":"7","code":"C001-"},[]],["thesaurus",{"type":"10","code":"002048"},[]],["thesaurus",{"type":"10","code":"005705"},[]],["thesaurus",{"type":"10","code":"001607"},[]],["thesaurus",{"type":"21","code":"L0988394"},[]],["thesaurus",{"type":"21","code":"L0988395"},[]],["thesaurus",{"type":"21","code":"L0988396"},[]],["mpr",{"catal":"0252","grp":"418","grp2":"05","maj":"20111008","numfich":"521211"},[["appl",{},["{(?1CVD)(%ELECTR)}"]],["sti",{"ident":"NL521201"},[]],["img",{"numfich":"95212110","path":"/img/pr/10/9521/95212110.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002048","ref":"75513020","refpg":"75 513 020"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["obsligne",{"ident":"L0988394"},[]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002048","ref":"96073325","refpg":"96 073 325"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["obsligne",{"ident":"L0988395"},[]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 485"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"005705","ref":"0000698806","refpg":"6988 06"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["obsligne",{"ident":"L0988396"},[]]]],["descomp",{},[["lib",{"langue":"01"},["13,6X2,7"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"001607","ref":"75523898","refpg":"75 523 898"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["complpr",{"matiere":"C001-"},[]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "025205501110",
- "refDisplay": "0252 05 501110",
- "title": "FAISCEAU PRINCIPAL COMPARTIMENT MOTEUR",
- "nature": "",
- "applicability": "GAZOLE JUSQU’A OPR 05988",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"025205501110","refDisplay":"0252 05 501110","title":"FAISCEAU PRINCIPAL COMPARTIMENT MOTEUR","nature":"","applicability":"GAZOLE JUSQU’A OPR 05988","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CVD)(DCD06)/($,,1,05988)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"003725"},[]],["thesaurus",{"type":"10","code":"007584"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["mpr",{"catal":"0252","grp":"513","grp2":"05","maj":"20120308","numfich":"501110"},[["appl",{},["{(?1CVD)(DCD06)/($,,1,05988)/}"]],["sti",{"ident":"T0059033"},[]],["img",{"numfich":"95011100","path":"/img/pr/00/9501/95011100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003725","obsnfp":"NFP","ref":"95633827","refpg":"95 633 827"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($1,03315,1,03486)/[(%B0J9J)]}"]],["nlcfr",{},[["livre",{},["9563382780"]]]]]]]],["pr",{"codesi":"003725","obsnfp":"NFP","ref":"96015997","refpg":"96 015 997"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($1,03487,1,04193)/[(%B0J9J)]}"]],["nlcfr",{},[["livre",{},["9601599780"]]]]]]]],["pr",{"codesi":"003725","obsnfp":"NFP","ref":"00006502QK","refpg":"6502 QK"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["nlcfr",{},[["livre",{},["9618762980"]]]]]]]],["pr",{"codesi":"003725","obsnfp":"NFP","ref":"96024574","refpg":"96 024 574"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)(DCX02)/($1,04196,,)/}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"007584","ref":"95636599","refpg":"95 636 599"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004647","ref":"00006555T2","refpg":"6555 T2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 13"]]]]]]]]]]]]}

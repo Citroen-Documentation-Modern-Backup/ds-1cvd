@@ -1,18 +1,1 @@
-{
- "ref": "025202144150",
- "refDisplay": "0252 02 144150",
- "title": "DISPOSITIF DE DOSAGE",
- "nature": "",
- "applicability": "ESSENCE ET 1,360L ET (A) AUTRICHE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CVD",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"025202144150","refDisplay":"0252 02 144150","title":"DISPOSITIF DE DOSAGE","nature":"","applicability":"ESSENCE ET 1,360L ET (A) AUTRICHE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CVD","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CVD)(DCD10)(%B0F136)(B0H06)}","tree":["document",{},[["thesaurus",{"type":"10","code":"005267"},[]],["thesaurus",{"type":"10","code":"009974"},[]],["mpr",{"catal":"0252","grp":"27","grp2":"02","maj":"20111008","numfich":"144150"},[["appl",{},["{(?1CVD)(DCD10)(%B0F136)(B0H06)}"]],["sti",{"ident":"NL144101"},[]],["enssup",{},[["fourn",{},["18770B"]]]],["img",{"numfich":"91441500","path":"/img/pr/00/9144/91441500.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005267","obsnfp":"NFP","ref":"00001628E5","refpg":"1628 E5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)/($,,1,03887)/}"]],["reffour",{},[["four",{},["18770B"]]]]]],["descomp",{},[["lib",{"langue":"01"},["18155001"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"009974","obsnfp":"NFP","ref":"0000133802","refpg":"1338 02"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CVD)}"]],["reffour",{},[["four",{},["33350Z"]]]]]]]]]]]]]]}
